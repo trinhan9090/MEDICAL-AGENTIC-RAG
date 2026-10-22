@@ -1,0 +1,689 @@
+QUERY ID: Q02
+QUERY: Metformin được sử dụng như thế nào trong điều trị đái tháo đường típ 2 và có những lưu ý gì khi sử dụng?
+CONFIG: BM25 Top-20 | BGE-M3 Top-20 | RRF k=60 | RRF Top-7
+
+====================================================================================================
+BM25 TOP-20 | TOTAL: 20
+====================================================================================================
+
+RANK: 1
+CHUNK ID: 9f7ad91b174d0f835a215881827acca5cfedfbcb3b9d404d8683dcfe5c23dcaf
+SCORE: 31.799034
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 2: CHẨN ĐOÁN VÀ PHÂN LOẠI ĐÁI THÁO ĐƯỜNG', '2. Phân loại đái tháo đường']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+2. Phân loại đái tháo đường Bệnh đái tháo đường được phân thành 4 loại chính a) Đái tháo đường típ 1 (do phá hủy tế bào beta tụy, dẫn đến thiếu insulin tuyệt đối). b) Đái tháo đường típ 2 (do giảm chức năng của tế bào beta tụy tiến triển trên nền tảng đề kháng insulin). c) Đái tháo đường thai kỳ (là ĐTĐ được chẩn đoán trong 3 tháng giữa hoặc 3 tháng cuối của thai kỳ và không có bằng chứng về ĐTĐ típ 1, típ 2 trước đó). d) Các loại ĐTĐ đặc biệt do các nguyên nhân khác, như ĐTĐ sơ sinh hoặc đái tháo đường do sử dụng thuốc và hoá chất như sử dụng glucocorticoid, điều trị HIV/AIDS hoặc sau cấy ghép mô…
+----------------------------------------------------------------------------------------------------
+
+RANK: 2
+CHUNK ID: 986b9e2abf86903754673776987a016a8680222f1ef2617c65d7b2f2d88ba3be
+SCORE: 29.571480
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHỤ LỤC 01: CÁC NHÓM THUỐC HẠ GLUCOSE MÁU ĐƯỜNG UỐNG VÀ THUỐC DẠNG TIÊM KHÔNG THUỘC NHÓM INSULIN', '6. Thuốc có tác dụng Incretin']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Ngoài ra, thụ thể GLP-1 cũng có mặt tại một số vị trí cụ thể ở tim, hệ thống mạch máu, hệ thống miễn dịch và thận, ngăn ngừa tiến triển và giảm viêm mảng xơ vữa động mạch chủ - Dạng tiêm dưới da: Liraglutide một lần/một ngày (OD – once daily). Hiện tại Việt Nam có liraglutide đang lưu hành - Qua các thử nghiệm lâm sàng pha 3 và thử nghiệm LEADER dự hậu kết cục tim mạch (CVOT), điều trị liraglutide cho BN đái tháo đường típ 2 được chứng minh đạt được hiệu quả có ‎ý nghĩa về lâm sàng và thống kê khi đơn trị liệu, hoặc trị liệu phối hợp với các thuốc điều trị đái tháo đường dạng uống hoặc insulin trong việc: + Giảm có ý nghĩa thống kê HbA1c, đường huyết lúc đói và đường huyết sau ăn. Trong đó, sự giảm đường huyết lúc đói được quan sát thấy trong vòng 2 tuần đầu điều trị. + Cải thiện tỉ lệ BN đạt được mục tiêu HbA1c < 7% và < 6,5%. + Giảm cân nặng có ý nghĩa thống kê trong phạm vi từ 1,0 đến 2,8 kg, duy trì hiệu quả kiểm soát cân nặng lâu dài và ghi nhận chỉ số khối cơ thể (BMI) ban đầu càng cao thì mức độ giảm cân càng nhiều. + Gỉảm 48% nhu cầu điều trị tăng cường insulin so với giả dược trên BN chưa sử dụng insulin tại thời điểm bắt đầu + Giảm tần suất các cơn hạ đường huyết có ý nghĩa thống kê khi bổ sung liraglutide vào BN đái tháo đường típ 2 đang được điều trị với insulin Degludec hơn so với bổ sung insulin aspart + Cải thiện chức năng tế bào beta qua các thử nghiệm lâm sàng
+----------------------------------------------------------------------------------------------------
+
+RANK: 3
+CHUNK ID: dabb28a3c65291fc187e3c48bb3d4d93030b5de178f6b5fa356ea76b38e1704e
+SCORE: 29.468419
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 5: QUẢN LÝ TĂNG GLUCOSE MÁU Ở BỆNH NHÂN NỘI TRÖ', '2. Phác đồ điều trị tăng glucose máu cho bệnh nhân mắc bệnh nguy kịch']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+2. Phác đồ điều trị tăng glucose máu cho bệnh nhân mắc bệnh nguy kịch a) Truyền insulin tĩnh mạch là phương pháp lựa chọn để kiểm soát glucose máu ở bệnh nhân có tăng glucose máu và tình trạng nguy kịch. Sử dụng insulin nhanh, truyền bơm tiêm điện (pha với dung dịch natri clorua đẳng trương để được nồng độ insulin 1 IU/mL). b) Cần có phác đồ truyền insulin tĩnh mạch trên giấy hoặc vi tính hóa để thực hiện cho thuận tiện. c) Đo glucose máu mao mạch mỗi giờ lúc bắt đầu, có thể giảm xuống 2 giờ một lần nếu glucose máu ổn trong trong khoảng mục tiêu. Lưu ý những yếu tố gây sai số kết quả đo glucose huyết mao mạch. Các máy đo Glucose (G) máu mao mạch sử dụng phương pháp glucose oxidase (ví dụ One Touch): cho kết quả Glucose máu tăng giả nếu BN bị thiếu oxy, và cho kết quả Glucose máu giảm giả nếu nồng độ acetaminophen tăng cao trong máu. Các máy đo Glucose máu mao mạch sử dụng phương pháp glucose dehydrogenase cho kết quả chính xác hơn khi BN bị thiếu oxy, nhưng sẽ cho kết quả G máu giảm giả nếu BN đang sử dụng dopamin chuyền tĩnh mạch hoặc cho kết quả G máu tăng giả nếu nồng độ acetaminophen tăng cao trong máu. Những BN suy thận mạn được lọc màng bụng liên tục ngoại trú: trong dịch lọc có icodextrin, chất này được chuyển hóa dần thành maltose dẫn đến nồng độ maltose tăng cao trong máu đến 2 tuần sau lần lọc màng bụng cuối cùng; nếu BN dùng máy đo G mao mạch sử dụng phương pháp glucose dehydrogenase, máy sẽ xác định nhầm maltose thành glucose dẫn đến kết quả G máu tăng giả.
+----------------------------------------------------------------------------------------------------
+
+RANK: 4
+CHUNK ID: cc1cddafc5bc6763880d477b382860fa75f1372b1015a789861487513e22a4c5
+SCORE: 27.643558
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '4.2. Lựa chọn cụ thể']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+c) Phối hợp thuốc sớm nên được cân nhắc ở một số BN khi bắt đầu khởi trị để hạn chế thất bại và đạt mục tiêu điều trị nhanh, tốt hơn. Không lựa chọn các thuốc cùng 1 nhóm, cùng cơ chế tác dụng. d) Sau khi khởi trị, metformin nên được duy trì nếu vẫn dung nạp và không có chống chỉ định. e) Với các BN không có bệnh tim mạch do vữa xơ hoặc không có yếu tố nguy cơ BTMDVX: sau khi khởi trị metformin mà không đạt mục tiêu đường huyết thì cân nhắc lựa chọn các nhóm khác theo phác đồ: - Nếu chi phí điều trị là vấn đề chính: ưu tiên chọn SU, TZD - Nếu người bệnh có nguy cơ cao hạ glucose máu: ưu tiên chọn DPP-4i, SGLT-2i, GLP-1, TZD - Nếu người bệnh cần giảm cân: ưu tiên chọn SGLT-2i, GLP-1 f) Sử dụng sớm insulin nên cân nhắc nếu có bằng chứng của dị hóa (giảm cân), triệu chứng tăng đường huyết, hoặc nếu mức A1C ≥9% hoặc mức glucose huyết rất cao ≥300 mg/dL (16.7 mmol/L). g) Ở BN ĐTĐ típ 2 không đạt được HbA1c mục tiêu với thuốc hạ đường huyết uống thì thuốc đồng vận thụ thể GLP-1 được ưu tiên hơn là insulin nhờ vào khả năng kiểm soát đường huyết tốt, cải thiện chức năng tế bào beta, hiệu quả giảm cân tốt, lợi ích trên tim mạch và tỉ lệ mắc biến chứng hạ đường huyết thấp của GLP-1 RA khi đơn trị liệu hay phối hợp với các thuốc điều trị đái tháo đường dạng uống đã được chứng minh. h) Với BN ĐTĐ típ 2 không đạt mục tiêu điều trị, cần điều trị tích cực ngay không trì hoãn.
+----------------------------------------------------------------------------------------------------
+
+RANK: 5
+CHUNK ID: 5b43c1bbc58f8346cce5e32a5f8f63d6cc257976380c95e28920cf9882f73ffe
+SCORE: 26.786964
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 8: PHÕNG NGỪA VÀ KIỂM SOÁT BIẾN CHỨNG MẠN TÍNH', '1.2. Biến chứng thận:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+1.2. Biến chứng thận: a) Ít nhất mỗi năm một lần đánh giá albumin niệu và mức lọc cầu thận ở tất cả các BN ĐTĐ típ 2, không kể đang điều trị như thế nào b) BN có albumin niệu > 30 mg/g creatinine và/ hoặc mức lọc cầu thận eGFR< 60 mL/phút/1,73m2 cần đánh giá hai lần một năm nhằm định hướng điều trị c) Cần tối ưu kiểm soát đường huyết để giảm nguy cơ hoặc làm chậm quá trình tiến triển bệnh thận mạn d) Bênh nhân ĐTĐ típ 2 mắc kèm bệnh thận do ĐTĐ, cân nhắc sử dụng Ức chế SGLT2 ở BN có độ lọc cầu thận ≥30 mL/phút/1,73m2 và albumin niệu >30 mg/g creatinine, đặc biệt ở những BN có albumin niệu ≥300 mg/g creatinine, để giảm nguy cơ tiến triển bệnh thận mạn và biến cố tim mạch hoặc cả hai. e) BN có bệnh thận mạn có gia tăng nguy cơ gặp biến cố tim mạch, sử dụng GLP-1 RA có thể giảm nguy cơ tiến triển almumin niệu và biến cố tim mạch hoặc cả hai. Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do
+----------------------------------------------------------------------------------------------------
+
+RANK: 6
+CHUNK ID: a2d12b3b169370126a41455879415fcc9f2afa394a47ba8da910b21bd2c73879
+SCORE: 26.163696
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHỤ LỤC 03: DANH MỤC THUỐC THIẾT YẾU ĐIỀU TRỊ']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+PHỤ LỤC 03: DANH MỤC THUỐC THIẾT YẾU ĐIỀU TRỊ ĐÁI THÁO ĐƯỜNG TÍP 2 Cập nhật Gói điều trị thiết yếu cho các bệnh không lây nhiễm (WHO Package of Essential NCD Interventions – WHO PEN) và Thông tư 45/2013/TT-BYT về Danh mục thiết yếu tân dược lần VI để kiểm soát đường huyết cho những người mắc đái tháo đường típ 2 bao gồm: chế độ ăn uống, hoạt động thể chất và metformin là lựa chọn điều trị đầu tay; sulfonylurea là điều trị hàng hai (hoặc điều trị đầu tay nếu metformin chống chỉ định); và insulin là điều trị hàng thứ ba. Bảng : Danh mục thuốc thiết yếu điều trị ĐTĐ típ 2
+----------------------------------------------------------------------------------------------------
+
+RANK: 7
+CHUNK ID: 07956b66c028b07a361737b3dd677752f1fc63c0acc75d74e51d5a18464e091a
+SCORE: 25.499493
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '6.2.2. Điều trị:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Ưu tiên sử dụng statin cường độ cao đến liều tối đa dung nạp được để đạt được mục tiêu điều trị. - Liệu pháp Statin được khuyến cáo là lựa chọn đầu tay cho BN có triglyceride > 2.3mmol/L (>200mg/dL) (nguy cơ cao) để giảm nguy cơ biến cố tim mạch. Nếu vẫn không đạt được mục tiêu với statin ở liều tối đa có thể dung nạp được, có thể phối hợp statin và thuốc hạ lipid máu khác, tuy nhiên các phối hợp này chưa được đánh giá trong các nghiên cứu về hiệu quả lên tim mạch hay tính an toàn. - BN đái tháo đường có nguy cơ tim mạch xơ vữa 10 năm ≥20%, đang điều trị statin với liều tối đa có thể dung nạp được có thể thêm ezetimibe để hạ LDL-C ≥50%. - BN đái tháo đường >75 tuổi đang sử dụng statin thì nên tiếp tục điều trị, nếu chưa dùng statin vẫn nên bắt đầu điều trị statin. - Chống chỉ định statin trong thai kỳ.
+----------------------------------------------------------------------------------------------------
+
+RANK: 8
+CHUNK ID: ae58c9c5959e243d9338cf9af2bd79454af19ffd44f9664849592c20c339c1f5
+SCORE: 25.281832
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHỤ LỤC 01: CÁC NHÓM THUỐC HẠ GLUCOSE MÁU ĐƯỜNG UỐNG VÀ THUỐC DẠNG TIÊM KHÔNG THUỘC NHÓM INSULIN', '8. Các loại thuốc viên phối hợp']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+8. Các loại thuốc viên phối hợp Do bản chất đa dạng của cơ chế bệnh sinh ĐTĐ típ 2, việc phối hợp thuốc trong điều trị sẽ mang lại hiệu quả giảm glucose huyết tốt hơn, đồng thời giảm tác dụng phụ khi tăng liều một loại thuốc đến tối đa. Nguyên tắc phối hợp là không phối hợp 2 loại thuốc trong cùng 1 nhóm, thí dụ không phối hợp gliclazide với glimepiride. Nên phối hợp các thuốc có cơ chế tác dụng bổ sung để hiệp đồng tác dụng. Ngoài ra viên thuốc phối hợp 2 nhóm thuốc sẽ giúp cho số viên thuốc cần sử dụng ít hơn, làm tăng tính tuân thủ dùng thuốc của BN. Bất lợi của viên thuốc phối hợp là không thể chỉnh liều 1 loại thuốc. Việt Nam hiện có các thuốc viên phối hợp Glyburide/ Metformin, Glimepiride/ Metformin, Linagliptin/Metformin, Sitagliptin/ Metformin, Vildagliptin/ Metformin, Saxagliptin/Metformin dạng phóng thích chậm. Pioglitazone/Metformin, Empagliflozin/Metformin và Dapagliflozin/ Metformin dạng phóng thích chậm (XR). Metformin dạng phóng thích chậm (XR) giúp chỉ phải uống thuốc một lần/ ngày và giúp giảm tác dụng phụ trên đường tiêu hóa. Bảng 13: Tóm tắt ưu nhược điểm của các thuốc viên hạ glucose máu đường uống và thuốc tiêm không thuộc nhóm insulin
+----------------------------------------------------------------------------------------------------
+
+RANK: 9
+CHUNK ID: 78d87b3775f8e278530f34462f42b137a716477cb694c856216d0bae1eaba2e9
+SCORE: 24.744106
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '4.2. Lựa chọn cụ thể']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+4.2. Lựa chọn cụ thể a) Metformin là lựa chọn đầu tiên để điều trị BN ĐTĐ típ 2 cùng với thay đổi lối sống (bao gồm kiểm soát cân nặng, chế độ ăn và tập luyện thể lực). Có thể kết hợp thay đổi lối sống và metformin ngay từ đầu. Thay đổi lối sống đơn thuần chỉ thực hiện ở những BN mới chẩn đoán, chưa có biến chứng mạn và mức đường huyết gần bình thường. b) Khi các vấn đề BTMDXV, Suy tim và Bệnh thận mạn đã xuất hiện ở người bệnh đái tháo đường thì chúng ta cần hành động ngay theo chỉ định mới, ưu tiên, không phụ thuộc phác đồ thuốc hạ đường huyết vẫn đang được điều trị cho BN: - Nếu BN có bệnh ĐMDVX hoặc nguy cơ cao ưu tiên lựa chọn thuốc đồng vận thụ thể GLP-1 với các lợi ích rõ ràng trên tim mạch hoặc thuốc ức chế kênh đồng vận chuyển natri-glucose (Ức chế SGLT2) với mức lọc cầu thận phù hợp. (Lưu ý: Thông tin kê toa của thuốc Ức chế SGLT2 liên quan đến mức lọc cầu thận eGFR thay đổi tùy theo từng hoạt chất và từng quốc gia, vui lòng tham khảo thông tin kê toa của các thuốc Ức chế SGLT2 tại Việt Nam để khởi trị hay tiếp tục điều trị với Ức chế SGLT2). - Đối tượng mắc kèm suy tim hoặc bệnh thận mạn: cân nhắc dùng Ức chế SGLT2 để giảm nguy cơ nhập viện do suy tim và/hoặc tiến triển bệnh thận mạn. Nếu SGLT-2i không dung nạp hoặc chống chỉ định hoặc eGFR không phù hợp thì bổ sung GLP-1 RA đã được chứng minh lợi ích trên tim mạch.
+----------------------------------------------------------------------------------------------------
+
+RANK: 10
+CHUNK ID: 91c84a8071ec0b3434b6cfed003139e350117824fabe8a61bd82796745b0b435
+SCORE: 24.677528
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHỤ LỤC 01: CÁC NHÓM THUỐC HẠ GLUCOSE MÁU ĐƯỜNG UỐNG VÀ THUỐC DẠNG TIÊM KHÔNG THUỘC NHÓM INSULIN', '7. Thuốc ức chế kênh đồng vận chuyển Natri-glucose SGLT2 (Sodium Glucose Transporter 2)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Các nghiên cứu cho thấy các thuốc nhóm ức chế SGLT2 (canagliflozin, dapagliflozin và empagliflozin) có khả năng làm giảm biến cố tim mạch lớn ở những BN ĐTĐ típ 2 đã có bệnh lý tim mạch do xơ vữa hoặc có nguy cơ tim mạch cao/ rất cao. Empagliflozin được chỉ định làm giảm nguy cơ tử vong tim mạch ở BN trưởng thành ĐTĐ típ 2 và có sẵn bệnh lý tim mạch. - Tác dụng trên suy tim: Kết quả các thử nghiệm dự hậu tim mạch (CVOTs) ghi nhận các thuốc ức chế SGLT2 ngăn ngừa tái nhập viện do suy tim trên phổ rộng BN ĐTĐ típ 2. Hướng dẫn phòng ngừa bệnh lý tim mạch tiên phát của ACC/AHA cập nhật dữ liệu từ nghiên cứu DECLARE (dapagliflozin) đã khuyến cáo mức độ IIb cho việc sử dụng thuốc Ức chế SGLT2 để dự phòng bệnh lý tim mạch tiên phát ở BN ĐTĐ típ 2 sau khi điều trị với metformin. Đặc biệt nghiên cứu DAPA-HF cho thấy trên nền điều trị chuẩn, dapagliflozin làm giảm tỷ lệ suy tim nặng lên, giảm tử vong do nguyên nhân tim mạch và tử vong do mọi nguyên nhân ở các BN suy tim phân suất tống máu giảm, có hoặc không có mắc kèm ĐTĐ típ 2. - Tác dụng trên thận: Các nghiên cứu CREDENCE (canagliflozin), EMPA-REG OUTCOME (empagliflozin), và DECLARE-TIMI 58 (dapagliflozin) chứng minh rằng các thuốc ức chế SGLT2 có tác dụng bảo vệ thận ( giảm albumin niệu và giảm tiến triển của bệnh thận mạn, giảm tử vong do bệnh thận), độc lập với tác dụng kiểm soát đường huyết ở các BN ĐTĐ típ 2.
+----------------------------------------------------------------------------------------------------
+
+RANK: 11
+CHUNK ID: e49b06d9c9e7e4b42b4e66ba3d3dd50f055e6a295818916bf81ddc4a442cab5e
+SCORE: 24.655870
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '5.2.4. Cách phân bố bữa ăn:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+5.2.4. Cách phân bố bữa ăn: a) Cơ cấu bữa ăn cần cá nhân hóa - BN cần duy trì 3 bữa ăn chính trong ngày. Bữa phụ của BN cần cá nhân hóa - BN kiểm soát tốt đường huyết không khuyến cáo chia nhỏ bữa ăn. - Những BN sử dụng thuốc kích thích insulin, tiêm insulin nếu có nguy cơ bị hạ đường huyết vào thời điểm nào trong ngày thì nên có bữa phụ vào thời điểm đó. - BN tập thể dục thể thao cường độ cao nên có bữa phụ trước khi tập luyện, bổ sung thêm trong khi tập luyện nếu thời gian tập luyện kéo dài. - BN có bệnh lý gan, thận nên hỏi bác sĩ hoặc chuyên gia dinh dưỡng để được hướng dẫn bữa phụ hợp lý. b) Sử dụng bữa phụ: - Không sử dụng các thực phẩm tăng đường huyết nhanh trong bữa phụ như: bánh mỳ, khoai nướng, … - BN có thói quen ăn bữa phụ khi đường huyết cao nên lựa chọn dưa chuột (nhiều xơ, nước, ít bột đường) - Nên sử dụng các sản phẩm dành cho BN đái tháo đường như: bánh, sữa, ngũ cốc. - BN thừa cân hoặc đang trong quá trình giảm cân, nếu giữa các bữa ăn có đường huyết thấp nên báo bác sĩ để điều chỉnh cho phù hợp. - Mức năng lượng bữa phụ phải nằm trong tổng mức năng lượng hàng ngày của người bệnh. Nếu dư thừa có thể gây tăng cân, tăng đường huyết. Thông thường, bữa phụ chỉ nên chiếm 10-15% tổng số năng lượng trong ngày. - Thời điểm bữa phụ: bữa phụ vào cuối buổi chiều hoặc trước khi đi ngủ chỉ được thực hiện nếu có nguy cơ hạ đường huyết cuối buổi chiều hoặc nửa đêm.
+----------------------------------------------------------------------------------------------------
+
+RANK: 12
+CHUNK ID: 6fb76789a5f3fbe8ce27d86226bdab604751ebe89a78edcbedb14db8e15904c0
+SCORE: 23.558053
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 2: CHẨN ĐOÁN VÀ PHÂN LOẠI ĐÁI THÁO ĐƯỜNG', '1.1. Chẩn đoán đái tháo đường']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+1.1. Chẩn đoán đái tháo đường Tiêu chuẩn chẩn đoán đái tháo đường dựa vào 1 trong 4 tiêu chí sau đây: a) Glucose huyết tương lúc đói ≥ 126 mg/dL (hay 7 mmol/L) hoặc: b) Glucose huyết tương ở thời điểm sau 2 giờ làm nghiệm pháp dung nạp với 75g glucose bằng đường uống ≥ 200 mg/dL (hay 11,1 mmol/L) c) HbA1c ≥ 6,5% (48 mmol/mol). Xét nghiệm HbA1c phải được thực hiện bằng phương pháp đã chuẩn hóa theo tiêu chuẩn quốc tế. d) BN có triệu chứng kinh điển của tăng glucose huyết hoặc của cơn tăng glucose huyết cấp kèm mức glucose huyết tương bất kỳ ≥ 200 mg/dL (hay 11,1 mmol/L). Chẩn đoán xác định nếu có 2 kết quả trên ngưỡng chẩn đoán trong cùng 1 mẫu máu xét nghiệm hoặc ở 2 thời điểm khác nhau đối với tiêu chí a, b, hoặc c; riêng tiêu chí d: chỉ cần một lần xét nghiệm duy nhất. Lưu ý: - Glucose huyết đói được đo khi BN nhịn ăn (không uống nước ngọt, có thể uống nước lọc, nước đun sôi để nguội) ít nhất 8 giờ (thường phải nhịn đói qua đêm từ 8 -14 giờ). - Nghiệm pháp dung nạp glucose bằng đường uống phải được thực hiện theo hướng dẫn của Tổ chức Y tế thế giới: BN nhịn đói từ nửa đêm trước khi làm nghiệm pháp, dùng một lượng 75g glucose, hòa trong 250-300 mL nước, uống trong 5 phút; trong 3 ngày trước đó BN ăn khẩu phần có khoảng 150-200 gam carbohydrat mỗi ngày, không mắc các bệnh lý cấp tính và không sử dụng các thuốc làm tăng glucose huyết. Định lượng glucose huyết tương tĩnh mạch.
+----------------------------------------------------------------------------------------------------
+
+RANK: 13
+CHUNK ID: 19fd678ec4d9576e16d8a9ec2edca1a401a5c2b88750d7e67efc82de946bbaf8
+SCORE: 23.244880
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 2: CHẨN ĐOÁN VÀ PHÂN LOẠI ĐÁI THÁO ĐƯỜNG', '2.2. Đái tháo đường típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+2.2. Đái tháo đường típ 2 Đái tháo đường típ 2 trước kia được gọi là ĐTĐ của người lớn tuổi hay ĐTĐ không phụ thuộc insulin, chiếm 90-95% các trường hợp ĐTĐ. Thể bệnh này bao gồm những người có thiếu insulin tương đối cùng với đề kháng insulin. Ít nhất ở giai đoạn đầu hoặc có khi suốt cuộc sống BN ĐTĐ típ 2 không cần insulin để sống sót. Có nhiều nguyên nhân của ĐTĐ típ 2 nhưng không có một nguyên nhân chuyên biệt nào. BN không có sự phá hủy tế bào beta do tự miễn, không có kháng thể tự miễn trong máu. Đa số BN có béo phì hoặc thừa cân và/hoặc béo phì vùng bụng với vòng eo to. Béo phì nhất là béo phì vùng bụng có liên quan với tăng acid béo trong máu, mô mỡ cũng tiết ra một số hormon làm giảm tác dụng của insulin ở các cơ quan đích như gan, tế bào mỡ, tế bào cơ (đề kháng insulin tại các cơ quan đích). Do tình trạng đề kháng insulin, ở giai đoạn đầu tế bào beta bù trừ và tăng tiết insulin trong máu, nếu tình trạng đề kháng insulin kéo dài hoặc nặng dần, tế bào beta sẽ không tiết đủ insulin và ĐTĐ típ 2 lâm sàng sẽ xuất hiện. Tình trạng đề kháng insulin có thể cải thiện khi giảm cân, hoặc dùng một số thuốc nhưng không bao giờ hoàn toàn trở lại bình thường.
+----------------------------------------------------------------------------------------------------
+
+RANK: 14
+CHUNK ID: b702c4233303ff66219e304893306b8997d1fd4a3352a17279645b1139fa2975
+SCORE: 23.123963
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 7 : CHẨN ĐOÁN VÀ ĐIỀU TRỊ BIẾN CHỨNG CẤP TÍNH CỦA ĐÁI', '4.4. Insulin']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+4.4. Insulin Sử dụng insulin regular a) Nên điều trị insulin regular tĩnh mạch cho tất cả những BN đái tháo đường có nhiễm toan ketone hay tăng áp lực thẩm thấu mức độ vừa đến nặng có kali máu ≥ 3,3 mmol/L. Nếu kali máu < 3,3 mmol/L nên bù dịch và kali trước khi điều trị insulin. b) Bắt đầu bằng tiêm tĩnh mạch 1 mũi insulin regular 0,1 UI/kg, sau đó truyền tĩnh mạch liên tục insulin regular 0,1UI/kg/h. Nếu đường huyết chỉ giảm < 50mg/dL trong giờ đầu thì có thể tăng (gấp đôi) liều mỗi giờ cho tới khi đường huyết giảm đến mức này. c) Khi đường huyết giảm xuống 200mg/dL (11 mmol/L) ở BN nhiễm toan ketone hay 250 mg/dL (14 mmol/L) ở BN tăng áp lực thẩm thấu thì chuyển sang truyền glucose 5% + NaCl 0,9% và đồng thời giảm tốc độ truyền insulin xuống 0,02 - 0,05 UI/kg/h. d) Một số BN đái tháo đường có nhiễm toan ketone nhẹ có thể điều trị insulin dưới da
+----------------------------------------------------------------------------------------------------
+
+RANK: 15
+CHUNK ID: bc4045c291488665855d77dfd8bdabf610256f3a0fc31e2a3ccd31d90c5a2f62
+SCORE: 23.123945
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 6', '3. Xử trí']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Vì glucagon có thể tiêm bắp nên tất cả bệnh nhân đái tháo đường đang dung insulin (hoăc gia đình họ) cần luôn mang theo glucagon và biết cách tiêm nếu cần. d) Theo dõi - Chú ý thời gian tác dụng của insulin hoặc các thuốc uống hạ đường máu mà bệnh nhân đã sử dụng. - Kiểm tra đường máu mao mạch mỗi giờ cho tới khi nồng độ glucose máu ổn định. Nói chung bệnh nhân cần được theo dõi qua thời gian tác dụng đỉnh của insulin, cụ thể như khoảng từ 30 phút tới 1-2 giờ đối với insulin lispro hoặc insulin aspart, 2 – 4 giờ đối với regular insulin, hoặc 6 – 8 giờ đối với NPH. Insulin glargine không có hoạt động đỉnh và nói chung bản thân nó không gây hạ đường máu. Những bệnh nhân dùng insulin tác dụng chậm có thời gian tác dụng đỉnh như lente hoặc ultralente, hoặc bệnh nhân uống thuốc sulfonylurea thì cần phải được theo dõi trong bệnh viện.
+----------------------------------------------------------------------------------------------------
+
+RANK: 16
+CHUNK ID: acc1aaf52bb9ab1f4a9665c5814a97d987e4dc43789012354a70de908bffeb3f
+SCORE: 22.642176
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '5. Tư vấn và hỗ trợ thay đổi lối sống']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+- Để ngăn ngừa hạ đường huyết: cần giảm liều insulin, thuốc kích thích tiết insulin trước tập hoặc ăn thêm carbohydrate trước và trong khi tập thể lực. - Nếu đường huyết thấp cần ăn thêm carbohydrate trước, trong lúc tập. - Cần giáo dục BN xử trí hạ đường huyết do tập thể dục. d) Thể dục khi đường huyết cao - Trên đái tháo đường típ 1 có đường huyết cao do ngưng insulin và có ceton, thể dục có thể làm đường huyết tăng thêm. Không nên thể dục trong trường hợp này cho tới khi dùng đủ insulin và hết ceton. - BN đái tháo đường típ 2 nếu thấy khoẻ và không có ceton, vẫn có thể thể dục và cần uống nước đầy đủ. e) Khuyến cáo hoạt động thể lực cho đái tháo đường típ 2 - BN nên chọn hình thức hoạt động thể lực phù hợp mà có thể duy trì lâu dài. Đi bộ là hình thức vận động thuận tiện về thời gian và không tốn chi phí. - Đối với đái tháo đường típ 2, chương trình luyện tập thể lực được giám sát có hiệu quả cải thiện kiểm soát đường huyết, giảm nhu cầu thuốc uống đái tháo đường và insulin, giảm và duy trì cân nặng. - Nên tập thể dục 5 ngày mỗi tuần, tốt nhất là thể dục hết các ngày trong tuần. - Loại hình luyện tập thông dụng và dễ áp dụng nhất: đi bộ tổng cộng 150 phút mỗi tuần (hoặc 30 phút mỗi ngày), không nên ngưng luyện tập 2 ngày liên tiếp. Mỗi tuần nên tập kháng lực 2-3 lần (kéo dây thun, nâng tạ). - Có thể thay thế bằng cách chia nhỏ thời gian tập thể dục trong ngày. Ví dụ: đi bộ sau 3 bữa ăn, mỗi lần 10-15 phút.
+----------------------------------------------------------------------------------------------------
+
+RANK: 17
+CHUNK ID: e5baca6fe8b0e0b1b0009f398b1e1c6ec21351a615c76f096c8dac3587b5bde1
+SCORE: 22.460015
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2
+
+Đặc điểm: Nhiễm ceton, tăng ceton trong máu, nước tiểu | Đái tháo đường típ 1: Dương tính | Đái tháo đường típ 2: Thường không có
+
+Chú thích: bảng trên chỉ có tính tham khảo, có nhiều thể bệnh trùng lấp giữa các đặc điểm. Khi biểu hiện bệnh lý không rõ ràng, cần theo dõi một thời gian để phân loại đúng bệnh. Điều trị chủ yếu dựa trên bệnh cảnh lâm sàng của BN để quyết định có cần dùng ngay insulin hay không.
+----------------------------------------------------------------------------------------------------
+
+RANK: 18
+CHUNK ID: 4b6a6f1db1d5d9f80ff361e0ad49436b0e4c5479ef633c90feac0bc162f2c3da
+SCORE: 22.405029
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '5.2.3. Nguồn cung cấp năng lượng:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+5.2.3. Nguồn cung cấp năng lượng: a) Chất bột đường (Glucid): - Nguồn gốc: + Ngũ cốc và các sản phẩm chế biến: Gạo, bún, phở, ngô, bánh mỳ + Khoai củ: Khoai tây, khoai lang, khoai sọ, sắn, dong, từ, miến dong + Hoa quả: chuối tây, chuối tiêu, lê, nho, mận, …. (xem bảng 1) - Nhu cầu: + Lượng Glucid ăn vào nên chiếm 50 – 60% tổng số năng lượng. + Tối thiểu: 130g Glucid/ngày. - Khuyến cáo lựa chọn thực phẩm: + Bữa ăn nên sử dụng các thực phẩm chứa nhiều chất xơ như rau, đậu, các loại ngũ cốc nguyên hạt như gạo lứt/gạo lật, khoai củ, bánh mỳ đen, hoa quả. + Nên hạn chế các thức ăn chứa nhiều đường như bánh kẹo, mứt sấy khô, mật ong, hoa quả ngọt như mít, đu đủ, xoài, … - Chỉ số tăng đường huyết thực phẩm là gì? + Các loại thực ăn mặc dù có lượng Glucid như nhau nhưng sau khi ăn sẽ làm tăng mức đường huyết khác nhau. + Khả năng làm tăng đường huyết sau ăn khi ăn được gọi là chỉ số đường huyết của loại thức ăn đó + Phân loại các loại thức ăn có chỉ số tăng đường huyết :
+----------------------------------------------------------------------------------------------------
+
+RANK: 19
+CHUNK ID: eb829ba640911a22b87156b8e1692169f284da0ec18de53b988bc4fcbb6646b5
+SCORE: 22.364783
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 1: ĐỊNH NGHĨA VÀ DỊCH TỄ HỌC']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+PHẦN 1: ĐỊNH NGHĨA VÀ DỊCH TỄ HỌC Bệnh đái tháo đường là bệnh rối loạn chuyển hóa, có đặc điểm tăng glucose huyết mạn tính do khiếm khuyết về tiết insulin, về tác động của insulin, hoặc cả hai. Tăng glucose mạn tính trong thời gian dài gây nên những rối loạn chuyển hóa carbohydrate, protide, lipide, gây tổn thương ở nhiều cơ quan khác nhau, đặc biệt ở tim và mạch máu, thận, mắt, thần kinh. Theo Liên đoàn Đái tháo đường Quốc tế (IDF), năm 2019 toàn thế giới có 463 triệu người (trong độ tuổi 20-79) bị bệnh đái tháo đường (ĐTĐ), dự kiến sẽ đạt 578 triệu người vào năm 2030 và 700 triệu người vào năm 2045. Ước tính hơn 4 triệu người trong độ tuổi từ 20-79 đã tử vong vì các nguyên nhân liên quan đến ĐTĐ trong năm 2019. Bên cạnh đó, cùng với việc tăng sử dụng thực phẩm không thích hợp, ít hoặc không hoạt động thể lực ở trẻ em, bệnh ĐTĐ típ 2 đang có xu hướng tăng ở cả trẻ em, trở thành vấn đề sức khỏe cộng đồng nghiêm trọng. Bệnh ĐTĐ gây nên nhiều biến chứng nguy hiểm, là nguyên nhân hàng đầu gây bệnh tim mạch, mù lòa, suy thận, và cắt cụt chi.
+----------------------------------------------------------------------------------------------------
+
+RANK: 20
+CHUNK ID: 09eddd46a15b23963ed5b4dd0204996348ed3ed22f8eb207b8b7d0534f7c1ef8
+SCORE: 22.317993
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '5.2.3. Nguồn cung cấp năng lượng:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
++ BN có biến chứng thận, khuyến cáo mức protein là 0,8g/kg cân nặng/ngày. Tùy từng giai đoạn suy thận, mức protein sẽ được điều chỉnh phù hợp nhằm đảm bảo cung cấp đủ lượng a. amin cần thiết cho cơ thể nhưng không làm nặng lên tình trạng suy thận. + Tăng cường sử dụng cá và thủy hải sản + Ăn các loại thịt bò, thịt lợn ít mỡ + Ăn thịt gia cầm bỏ da + Hạn chế các thực phẩm giàu Cholesterol: phủ tạng động vật, chocolate, … + Có thể sử dụng trứng 2-4 quả/tuần, ăn cả lòng đỏ và lòng trắng. + Chọn các thực phẩm có nhiều chất béo chưa bão hòa có lợi cho sức khỏe: đậu đỗ, lạc, vừng, dầu oliu, dầu cá, … d) Vi chất dinh dưỡng: Bao gồm: vitamin và muối khoáng - Người bệnh đái tháo đường cần được cung cấp các vi chất dinh dưỡng như người bình thường. - Vi chất dinh dưỡng có nhiều trong rau và trái cây - Nên sử dụng vi chất có trong tự nhiên Trái cây + Là nguồn cung cấp vitamin chính. + Ăn trái cây nên ăn nguyên múi, nguyên miếng không nên ăn nước ép trái cây vì quá trình chế biến đã bị mất chất xơ nên đường bị hấp thu nhanh hơn. + Không nên ăn hoa quả quá 20% mức năng lượng hàng ngày, vì quá mức sẽ gây ảnh hưởng không tốt đến chuyển hóa chất béo, chất bột đường. + Chọn những trái cây có chỉ số đường huyết thấp: ổi, lê, táo, cam. + Ăn vừa phải trái cây có đường huyết trung bình: chuối, đu đủ. + Hạn chế trái cây có chỉ số tăng đường huyết nhanh: dưa hấu, vải, nhãn, xoài (xem thêm ở Bảng 2) e) Muối:
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+BGE-M3 TOP-20 | TOTAL: 20
+====================================================================================================
+
+RANK: 1
+CHUNK ID: d66264210b5a6d454f7dfac3e012901725b95e546653e548eda9967e54d23bc9
+SCORE: 0.751395
+RETRIEVER: dense
+DOCUMENT: dia_kidney_disease
+VERSION: 8b568e01046798eb29071e3b03f5023d2c486e2ed852afcce313c752e5a2b27a
+LANGUAGE: en
+SECTION: ['Kidney Disease and Diabetes', 'Treatment of Diabetes-Related Kidney Disease', 'Metabolic and Inflammatory Control and Insulin-Sensitizing Therapies']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK609462/
+
+FULL TEXT:
+Metformin is one of the most commonly prescribed therapies for management of hyperglycemia in type 2 diabetes and exerts its blood glucose-lowering effects primarily through inhibition of gluconeogenesis in the liver (558). Despite widespread use of metformin in type 2 diabetes, large-scale clinical trials with DKD-specific primary endpoints are lacking. In a small trial of 51 adults with type 2 diabetes and DKD who received a 12-week course of either the sulfonylurea glibenclamide or metformin, those who were treated with metformin exhibited a significant attenuation of albuminuria (559). The Hyperinsulinemia: The Outcome of its Metabolic Effects (HOME) study also evaluated the effects of metformin versus placebo when used in conjunction with insulin and found no significant difference in urine albumin excretion with metformin therapy (560). In A Diabetes Outcome Progression Trial (ADOPT), 4,351 recently diagnosed, drug-naïve adults with type 2 diabetes were randomized to treatment with metformin, the thiazolidinedione rosiglitazone, or the sulfonylurea glyburide for 4 years (561). Changes in the eGFR via the Modification of Diet in Renal Disease (MDRD) Study equation from baseline were +1.4% (95% CI 0.0%–2.9%) with metformin, +5.1% (95% CI 3.6%–6.7%) for rosiglitazone, and -0.4% (95% CI -2.0%–1.2%) for glyburide (p=0.0005 for metformin vs. rosiglitazone); there were no differences between treatment groups in incident moderate albuminuria, hypertension, or an eGFR <60 mL/min/1.73 m2 (561).
+----------------------------------------------------------------------------------------------------
+
+RANK: 2
+CHUNK ID: 7bbe33abff90182763cc04bdca3395faed69e3f637d6c1f4e50edb594b91cd24
+SCORE: 0.732166
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHỤ LỤC 01: CÁC NHÓM THUỐC HẠ GLUCOSE MÁU ĐƯỜNG UỐNG VÀ THUỐC DẠNG TIÊM KHÔNG THUỘC NHÓM INSULIN', '2. Metformin']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Cách dùng: dùng trước hoặc sau ăn, nên khởi đầu ở liều thấp và tăng liều từ từ mỗi 5 – 7 ngày để làm giảm tác dụng phụ trên đường tiêu hóa, dạng bào chế phóng thích chậm (XR) có thể giảm tác dụng phụ trên đường tiêu hóa Metformin thường được lựa chọn là thuốc khởi đầu điều trị ở BN đái tháo đường típ 2.
+----------------------------------------------------------------------------------------------------
+
+RANK: 3
+CHUNK ID: 78d87b3775f8e278530f34462f42b137a716477cb694c856216d0bae1eaba2e9
+SCORE: 0.715731
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '4.2. Lựa chọn cụ thể']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+4.2. Lựa chọn cụ thể a) Metformin là lựa chọn đầu tiên để điều trị BN ĐTĐ típ 2 cùng với thay đổi lối sống (bao gồm kiểm soát cân nặng, chế độ ăn và tập luyện thể lực). Có thể kết hợp thay đổi lối sống và metformin ngay từ đầu. Thay đổi lối sống đơn thuần chỉ thực hiện ở những BN mới chẩn đoán, chưa có biến chứng mạn và mức đường huyết gần bình thường. b) Khi các vấn đề BTMDXV, Suy tim và Bệnh thận mạn đã xuất hiện ở người bệnh đái tháo đường thì chúng ta cần hành động ngay theo chỉ định mới, ưu tiên, không phụ thuộc phác đồ thuốc hạ đường huyết vẫn đang được điều trị cho BN: - Nếu BN có bệnh ĐMDVX hoặc nguy cơ cao ưu tiên lựa chọn thuốc đồng vận thụ thể GLP-1 với các lợi ích rõ ràng trên tim mạch hoặc thuốc ức chế kênh đồng vận chuyển natri-glucose (Ức chế SGLT2) với mức lọc cầu thận phù hợp. (Lưu ý: Thông tin kê toa của thuốc Ức chế SGLT2 liên quan đến mức lọc cầu thận eGFR thay đổi tùy theo từng hoạt chất và từng quốc gia, vui lòng tham khảo thông tin kê toa của các thuốc Ức chế SGLT2 tại Việt Nam để khởi trị hay tiếp tục điều trị với Ức chế SGLT2). - Đối tượng mắc kèm suy tim hoặc bệnh thận mạn: cân nhắc dùng Ức chế SGLT2 để giảm nguy cơ nhập viện do suy tim và/hoặc tiến triển bệnh thận mạn. Nếu SGLT-2i không dung nạp hoặc chống chỉ định hoặc eGFR không phù hợp thì bổ sung GLP-1 RA đã được chứng minh lợi ích trên tim mạch.
+----------------------------------------------------------------------------------------------------
+
+RANK: 4
+CHUNK ID: 175a3e8133f3e5e1f1bcf82ed3b718125559d967a82fe51f547fb564e4cf3ae0
+SCORE: 0.707820
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'KHUYẾN CÁO VỀ BIẾN CHỨNG THẬN DO ĐÁI THÁO ĐƯỜNG']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+KHUYẾN CÁO VỀ BIẾN CHỨNG THẬN DO ĐÁI THÁO ĐƯỜNG
+
+2. Kiểm soát đường huyết chặt chẽ là nền tảng để phòng ngừa và làm chậm biến chứng thận do ĐTĐ. Metformin là thuốc lựa chọn đầu tay trừ khi có chống chỉ định (eGFR < 30mL/ph/1,73m2 da). Ức chế SGLT-2 được chỉ định là thuốc hàng thứ nhì khi có tỷ số A/C > 30 mg/g. Nếu có nguy cơ cao tim mạch kèm theo, đồng vận thụ thể GLP-1 được xem xét chỉ định.
+----------------------------------------------------------------------------------------------------
+
+RANK: 5
+CHUNK ID: 1d5849ba0eb8ecd4d5362d3cbc5d10e857cfc45dea6d589fca88b3bd8b7f0c4e
+SCORE: 0.699876
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Pharmacological and Surgical Interventions', 'Clinical Trials of Metformin for Type 2 Diabetes Prevention']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+Multiple randomized trials have investigated the efficacy and safety of medications for the primary prevention of type 2 diabetes, and the strongest evidence supports the use of metformin (Table 2). This medication in the biguanide class inhibits gluconeogenesis in the liver and has secondary effects on decreasing intestinal glucose absorption and increasing insulin sensitivity (78). The DPP included an arm that was randomly assigned to take metformin 850 mg twice daily. In this study (79), participants randomized to the metformin arm lost 2.1 kg and experienced a corresponding 31% reduction in diabetes incidence during 2.8 years of follow-up (51). The following demographic groups experienced a greater diabetes risk reduction from metformin: younger adults age 25–44 years (44%) and middle-aged adults age 45–59 years (31%), Black participants (44%), women with histories of gestational diabetes (50%), and those with fasting glucose 110–125 mg/dL (48%) or a body mass index (BMI) ≥35 kg/m2 (53%) (6,51,80). The efficacy of metformin for reducing type 2 diabetes incidence was not statistically significant among adults age ≥60 years (11%, 95% CI -33% to 41%) (51). ADA practice guidelines for type 2 diabetes prevention recommend considering metformin use for adults with prediabetes with a history of gestational diabetes, those age 25–59 years with BMI ≥35 kg/m2, and those with FPG ≥110 mg/dL or A1C ≥6.0% (6). A short-term study was conducted to determine the effect of temporarily stopping metformin on type 2 diabetes incidence, which is discussed in-depth in the Disentangling Glucose-Lowering Effects Alone From Primary Prevention section. Long-term follow-up of DPP participants after the initial trial period demonstrated that relative risk reductions observed for participants randomized to the metformin arm diminished over time but remained 18% lower than placebo controls over 10–15 years (81,82).
+----------------------------------------------------------------------------------------------------
+
+RANK: 6
+CHUNK ID: 4f7c6d4497d0360a8a08ee97b1f8c41683752c7af5a2b950ce839f0076d8f587
+SCORE: 0.690258
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng : Danh mục thuốc thiết yếu điều trị ĐTĐ típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng : Danh mục thuốc thiết yếu điều trị ĐTĐ típ 2
+
+STT: 1 | Tên thuốc: Metformin | Đường dùng: Uống | Dạng bào chế: Viên | Hàm lượng, nồng độ: 500 mg, 850 mg
+----------------------------------------------------------------------------------------------------
+
+RANK: 7
+CHUNK ID: 52674c77158f9dcd5ff45e8d062dd15fe60b075164ccdd4c61790325ea387c3c
+SCORE: 0.686072
+RETRIEVER: dense
+DOCUMENT: niddk_diabetes_medicines
+VERSION: 14e68c15b7b6343113b74563706b581f4d681b6f56f28657895683c13e7c9ac6
+LANGUAGE: en
+SECTION: ['Insulin, Medicines, & Other Diabetes Treatments', 'What oral medicines treat type 2 diabetes?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/insulin-medicines-treatments
+
+FULL TEXT:
+You may need to take medicines to manage your type 2 diabetes, in addition to consuming healthy foods and beverages and being physically active. You can take many diabetes medicines by mouth. These medicines are called oral medicines. Most people with type 2 diabetes start with metformin pills. Metformin also comes as a liquid. Metformin helps your liver make less glucose and helps your body use insulin better. This drug may help you lose a small amount of weight. Other oral medicines act in different ways to lower blood glucose levels. Combining two or three kinds of diabetes medicines can lower blood glucose levels better than taking just one medicine. Read about different kinds of diabetes medicines (PDF, 2.8 MB) from the FDA.
+----------------------------------------------------------------------------------------------------
+
+RANK: 8
+CHUNK ID: c03ec38bad4926d75335ae76d093bec93c7b099ef757427df7f5736ecffd5eb8
+SCORE: 0.680094
+RETRIEVER: dense
+DOCUMENT: dia_medication_use
+VERSION: e575b390642a5fb768040eb82e6a973eaf31b6e88a1e0e554a1ef861afa8b757
+LANGUAGE: en
+SECTION: ['Medication Use and Self-Care Practices in Persons With Diabetes', 'Type 2 Diabetes in Adults', 'Antihyperglycemic Medications']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK607283/
+
+FULL TEXT:
+Among NHANES participants with type 2 diabetes who were treated with antihyperglycemic medication in 2015–March 2020, the most common drug class was biguanide (i.e., metformin) (63%), followed by sulfonylurea (25.6%) and insulin (22.3%), whereas thiazolidinedione was the least used medication (4.3%) (Table 7). Fewer than one-half (41.9%) of adults with diagnosed type 2 diabetes were on monotherapy with one of the seven major drug classes, among whom 70% received metformin. Metformin, sulfonylureas, and insulin were also the top three medications for patients on combination therapy. Use of antihyperglycemic drug classes differed by participant characteristics. Older age was associated with higher frequency of sulfonylurea and insulin use. Use of thiazolidinedione and DPP-4 inhibitors was also higher in those age ≥45 years compared to younger individuals. In contrast, use of GLP-1 RAs and SGLT2 inhibitors was more common in individuals age 20–44 and 45–64 years (range 5%–8%) compared to those age ≥65 years (range 2%–4%). Insulin use did not differ by sex, but men were more often treated with medications for all other drug classes than women. Compared to non-Hispanic White individuals, non-Hispanic Black individuals had a higher prevalence of using insulin but lower prevalence of all other medications, while Hispanic persons were less likely to use any medication.
+----------------------------------------------------------------------------------------------------
+
+RANK: 9
+CHUNK ID: ae58c9c5959e243d9338cf9af2bd79454af19ffd44f9664849592c20c339c1f5
+SCORE: 0.676830
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHỤ LỤC 01: CÁC NHÓM THUỐC HẠ GLUCOSE MÁU ĐƯỜNG UỐNG VÀ THUỐC DẠNG TIÊM KHÔNG THUỘC NHÓM INSULIN', '8. Các loại thuốc viên phối hợp']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+8. Các loại thuốc viên phối hợp Do bản chất đa dạng của cơ chế bệnh sinh ĐTĐ típ 2, việc phối hợp thuốc trong điều trị sẽ mang lại hiệu quả giảm glucose huyết tốt hơn, đồng thời giảm tác dụng phụ khi tăng liều một loại thuốc đến tối đa. Nguyên tắc phối hợp là không phối hợp 2 loại thuốc trong cùng 1 nhóm, thí dụ không phối hợp gliclazide với glimepiride. Nên phối hợp các thuốc có cơ chế tác dụng bổ sung để hiệp đồng tác dụng. Ngoài ra viên thuốc phối hợp 2 nhóm thuốc sẽ giúp cho số viên thuốc cần sử dụng ít hơn, làm tăng tính tuân thủ dùng thuốc của BN. Bất lợi của viên thuốc phối hợp là không thể chỉnh liều 1 loại thuốc. Việt Nam hiện có các thuốc viên phối hợp Glyburide/ Metformin, Glimepiride/ Metformin, Linagliptin/Metformin, Sitagliptin/ Metformin, Vildagliptin/ Metformin, Saxagliptin/Metformin dạng phóng thích chậm. Pioglitazone/Metformin, Empagliflozin/Metformin và Dapagliflozin/ Metformin dạng phóng thích chậm (XR). Metformin dạng phóng thích chậm (XR) giúp chỉ phải uống thuốc một lần/ ngày và giúp giảm tác dụng phụ trên đường tiêu hóa. Bảng 13: Tóm tắt ưu nhược điểm của các thuốc viên hạ glucose máu đường uống và thuốc tiêm không thuộc nhóm insulin
+----------------------------------------------------------------------------------------------------
+
+RANK: 10
+CHUNK ID: 8bb2cfeb4339fb499db6ba90a9fc5dc950299027d821d5539975f0629a3a5cbe
+SCORE: 0.673300
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHỤ LỤC 01: CÁC NHÓM THUỐC HẠ GLUCOSE MÁU ĐƯỜNG UỐNG VÀ THUỐC DẠNG TIÊM KHÔNG THUỘC NHÓM INSULIN', '2. Metformin']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+2. Metformin Là thuốc duy nhất trong nhóm biguanide còn được sử dụng hiện nay. Thuốc khác trong nhóm là phenformin đã bị cấm dùng vì tăng nguy cơ nhiễm acid lactic. Cơ chế tác dụng: giảm sản xuất glucose ở gan. Có tác dụng yếu trên tăng hiệu ứng incretin. Thuốc làm giảm HbA1c khoảng 1 – 1,5%. Liều thường dùng 500-2000 mg/ngày. Ít khi cần dùng đến liều 2500mg/ngày, ở liều này tác dụng giảm glucose huyết không tăng nhiều nhưng tác dụng phụ sẽ nhiều hơn. Chống chỉ định: BN suy thận (độ lọc cầu thận ước tính eGFR < 30 mL/phút, giảm liều khi độ lọc cầu thận ước tính trong khoảng 30-45 mL/phút), suy tim nặng, các tình huống giảm lượng máu đến tổ chức (mô) và/hoặc giảm oxy đến các tổ chức (mô) như choáng, bệnh phổi tắc nghẽn mạn tính. Nếu BN đái tháo đường mới chẩn đoán đã có độ lọc cầu thận ước tính <45mL/phút, nên cân nhắc cẩn thận việc dùng metformin. Thận trọng khi dùng Metformin ở BN > 80 tuổi, những BN có nguy cơ nhiễm acid lactic như suy thận, nghiện rượu mạn. Ngưng Metformin 24 giờ trước khi chụp hình với thuốc cản quang, phẫu thuật. Cho BN uống đủ nước hay truyền dịch để phòng ngừa suy thận do thuốc cản quang. Thuốc dùng đơn độc không gây hạ glucose máu, không làm thay đổi cân nặng hoặc có thể giảm cân nhẹ, làm giảm hấp thu vitamin B12 nhưng ít khi gây thiếu máu. Tác dụng phụ thường gặp là buồn nôn, đau bụng, tiêu chảy, có thể hạn chế bằng cách dùng liều thấp tăng dần, uống sau bữa ăn hoặc dùng dạng phóng thích chậm. Thuốc có thể làm giảm nguy cơ tim mạch và nguy cơ ung thư, tuy nhiên bằng chứng chưa rõ ràng.
+----------------------------------------------------------------------------------------------------
+
+RANK: 11
+CHUNK ID: 1252b3622ec1b46956d85cb49a7d3ffbf5247d8db92efacf168a7dd5a2b3ea77
+SCORE: 0.668158
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Pharmacological and Surgical Interventions', 'Disentangling Glucose-Lowering Effects Alone From Primary Prevention']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+There has always been some controversy regarding the role of antidiabetes class medications for diabetes prevention. When these drugs are actively being taken, most lower blood glucose by directly increasing insulin secretion or improving insulin sensitivity reversibly while the drug remains bioavailable. If these medications are observed to have more lasting effects, through mechanisms such as weight loss or by preserving β-cell mass and responsiveness, then they likely have stalled or delayed the pathophysiological process leading towards type 2 diabetes. However, if effects are not durable after the drug is withheld for a short time, then this approach is akin to initiating diabetes treatment earlier, rather than actually preventing it. Some efficacy trials of pharmacotherapies for diabetes prevention have attempted to answer this question by conducting “wash-out” studies that withdraw the medication until it is no longer bioavailable and then reassess diabetes status. One prominent example is provided by the DPP. Upon completion of trial’s final assessment, DPP participants randomized to the metformin arm who had not yet developed type 2 diabetes were asked to stop their medication for 1–2 weeks and return for a reassessment; 48 out of 668 participants tested positive for diabetes following this brief wash-out interval. Taking these new cases of incident diabetes into account, the risk reduction estimate for metformin treatment was lowered from 31% to 25% (109). Some argued that this 1–2-week period was too brief to definitively examine whether metformin’s diabetes prevention effect was durable after stopping the medication, while others argued that the residual risk reduction may have been driven by the modest weight loss experienced by metformin participants. Other trials involving treatment with antidiabetic medications conducted longer wash-out studies ranging from 10 to 52 weeks (85,110,111,112), generally discovering that the medications’ effects on lowering type 2 diabetes incidence were no longer evident.
+----------------------------------------------------------------------------------------------------
+
+RANK: 12
+CHUNK ID: ccaed4467c0ec9e6f6ed7bc32e7030904f7fe5021266aea22588332d4ca116c1
+SCORE: 0.667913
+RETRIEVER: dense
+DOCUMENT: dia_medication_use
+VERSION: e575b390642a5fb768040eb82e6a973eaf31b6e88a1e0e554a1ef861afa8b757
+LANGUAGE: en
+SECTION: ['Medication Use and Self-Care Practices in Persons With Diabetes', 'Type 2 Diabetes in Adults', 'Antihyperglycemic Medications']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK607283/
+
+FULL TEXT:
+Trends in medication use by drug classes reflect the change in clinical practice over time due to evidence of their relative benefits and risks, introduction of new pharmacologic options (e.g., GLP-1 RAs and SGLT2 inhibitors), cost, change in healthcare coverage, medical care guidelines, and patient and provider preferences. Among NHANES participants age ≥20 years with diagnosed diabetes, use of metformin, insulin, DPP-4 inhibitors, SGLT2 inhibitors, and GLP-1 RAs increased significantly from 1999–2002 to 2015–2018 (63). Meanwhile, the prevalence of sulfonylurea use decreased substantially, as did that of thiazolidinediones. When stratifying by monotherapy versus combination therapy, only metformin monotherapy increased among participants on monotherapy, doubling in 2015–2016 compared to 2003–2004 (62). In participants on combination therapy (two or more medications), use of metformin remained stable, while use of insulin, DPP-4 inhibitors, SGLT2 inhibitors, and GLP-1 RAs all increased. Among one million patients newly diagnosed with type 2 diabetes who were identified from the 2005–2016 Centricity Electronic Medical Records, including U.S. primary and secondary ambulatory care systems, metformin was the most commonly initiated therapy (11). The share of metformin increased significantly from 2005 to 2016, and its rate of discontinuation within one year was low (8%). Despite a decrease in use over time, sulfonylureas were still the most popular second-line agent. Similar findings were reported in a study using Medicare and commercial insurance databases (64). In 2019, although the use of SGLT2 inhibitors and GLP-1 RAs was generally low, their use increased among individuals with cardiovascular disease due to recent evidence of their cardiovascular benefits (64). Among people new to insulin, use of long-acting insulin increased almost twofold from 2007 to 2014 in Medicare patients (65). While use of short-acting and combination insulin regimens decreased over time, 16% and 27% of individuals, respectively, were using these regimens in 2014.
+----------------------------------------------------------------------------------------------------
+
+RANK: 13
+CHUNK ID: cc1cddafc5bc6763880d477b382860fa75f1372b1015a789861487513e22a4c5
+SCORE: 0.667468
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '4.2. Lựa chọn cụ thể']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+c) Phối hợp thuốc sớm nên được cân nhắc ở một số BN khi bắt đầu khởi trị để hạn chế thất bại và đạt mục tiêu điều trị nhanh, tốt hơn. Không lựa chọn các thuốc cùng 1 nhóm, cùng cơ chế tác dụng. d) Sau khi khởi trị, metformin nên được duy trì nếu vẫn dung nạp và không có chống chỉ định. e) Với các BN không có bệnh tim mạch do vữa xơ hoặc không có yếu tố nguy cơ BTMDVX: sau khi khởi trị metformin mà không đạt mục tiêu đường huyết thì cân nhắc lựa chọn các nhóm khác theo phác đồ: - Nếu chi phí điều trị là vấn đề chính: ưu tiên chọn SU, TZD - Nếu người bệnh có nguy cơ cao hạ glucose máu: ưu tiên chọn DPP-4i, SGLT-2i, GLP-1, TZD - Nếu người bệnh cần giảm cân: ưu tiên chọn SGLT-2i, GLP-1 f) Sử dụng sớm insulin nên cân nhắc nếu có bằng chứng của dị hóa (giảm cân), triệu chứng tăng đường huyết, hoặc nếu mức A1C ≥9% hoặc mức glucose huyết rất cao ≥300 mg/dL (16.7 mmol/L). g) Ở BN ĐTĐ típ 2 không đạt được HbA1c mục tiêu với thuốc hạ đường huyết uống thì thuốc đồng vận thụ thể GLP-1 được ưu tiên hơn là insulin nhờ vào khả năng kiểm soát đường huyết tốt, cải thiện chức năng tế bào beta, hiệu quả giảm cân tốt, lợi ích trên tim mạch và tỉ lệ mắc biến chứng hạ đường huyết thấp của GLP-1 RA khi đơn trị liệu hay phối hợp với các thuốc điều trị đái tháo đường dạng uống đã được chứng minh. h) Với BN ĐTĐ típ 2 không đạt mục tiêu điều trị, cần điều trị tích cực ngay không trì hoãn.
+----------------------------------------------------------------------------------------------------
+
+RANK: 14
+CHUNK ID: 3ae352479f50e1a05ba29c9d1d50b0d8e952a11d3f212b4af9b7e9e85e4dbf00
+SCORE: 0.660127
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Existing Activities and Implementation Challenges in U.S. Diabetes Prevention', 'National Data on Metformin Use for Type 2 Diabetes Prevention']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+The USPSTF includes both intensive behavioral interventions and metformin as effective preventive strategies in its most recent (2021) grade “B” recommendation that clinicians should offer or refer overweight and obese adults with prediabetes who are between ages 35 and 70 years to effective preventive interventions (197), although they highlight the prevailing barrier that metformin has not received approval for type 2 diabetes prevention by the FDA. The fact that metformin use for type 2 diabetes prevention is considered “off-label” prescribing is likely to contribute to its limited use in the clinical community.
+----------------------------------------------------------------------------------------------------
+
+RANK: 15
+CHUNK ID: 9c9cde10425357f5c9641331e08645dd0f9ab1931899d9097afb2eeb0dcb62c8
+SCORE: 0.659389
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Pharmacological and Surgical Interventions', 'Clinical Trials of Metformin for Type 2 Diabetes Prevention']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+Though metformin-based intensive glycemic management reduces the risk of long-term complications when it is initiated for adults who already have diabetes (14), long-term follow-up studies of diabetes prevention trials have not demonstrated a significant reduction in microvascular or macrovascular complications associated with the use of metformin for type 2 diabetes prevention (53,55). Possible reasons for this discrepancy are discussed above. The Indian Diabetes Prevention Programme clinical trial demonstrated a 26.4% relative risk reduction among participants with IGT who were randomized to receive metformin at a lower dose of 250 mg twice daily (83). A systematic review examined the effectiveness of metformin for diabetes prevention from seven clinical trials and post-hoc subgroup analyses (84). This study found that metformin reduced the risk of incident diabetes by 7%–32%, with higher risk reductions observed in the same subgroups that were identified in the DPP (84).
+----------------------------------------------------------------------------------------------------
+
+RANK: 16
+CHUNK ID: a2d12b3b169370126a41455879415fcc9f2afa394a47ba8da910b21bd2c73879
+SCORE: 0.658088
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHỤ LỤC 03: DANH MỤC THUỐC THIẾT YẾU ĐIỀU TRỊ']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+PHỤ LỤC 03: DANH MỤC THUỐC THIẾT YẾU ĐIỀU TRỊ ĐÁI THÁO ĐƯỜNG TÍP 2 Cập nhật Gói điều trị thiết yếu cho các bệnh không lây nhiễm (WHO Package of Essential NCD Interventions – WHO PEN) và Thông tư 45/2013/TT-BYT về Danh mục thiết yếu tân dược lần VI để kiểm soát đường huyết cho những người mắc đái tháo đường típ 2 bao gồm: chế độ ăn uống, hoạt động thể chất và metformin là lựa chọn điều trị đầu tay; sulfonylurea là điều trị hàng hai (hoặc điều trị đầu tay nếu metformin chống chỉ định); và insulin là điều trị hàng thứ ba. Bảng : Danh mục thuốc thiết yếu điều trị ĐTĐ típ 2
+----------------------------------------------------------------------------------------------------
+
+RANK: 17
+CHUNK ID: 5106ad8e55d0bb34f8498a49a4c9435f3aeadf8c923f3607ec0492057d13342d
+SCORE: 0.654932
+RETRIEVER: dense
+DOCUMENT: dia_medication_use
+VERSION: e575b390642a5fb768040eb82e6a973eaf31b6e88a1e0e554a1ef861afa8b757
+LANGUAGE: en
+SECTION: ['Medication Use and Self-Care Practices in Persons With Diabetes', 'Summary']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK607283/
+
+FULL TEXT:
+For adults with type 2 diabetes, the most common antihyperglycemic drug class used was biguanide (i.e., metformin), followed by sulfonylurea and insulin, whereas thiazolidinedione was the least used medication in 2015–2020. In adults with type 2 diabetes, increased use of the GLP-1 receptor agonists (GLP-1 RAs) and sodium-glucose cotransporter-2 (SGLT2) inhibitors, when appropriate, could have a beneficial impact on cardiovascular and renal disease. Use of CGM has become more common among adults with type 2 diabetes and is now covered by most private insurance and by the Centers for Medicare and Medicaid Services (CMS). The cost of and access to these newer technologies and medications have been major barriers.
+----------------------------------------------------------------------------------------------------
+
+RANK: 18
+CHUNK ID: 763c6dd3877dd4f20023f193ea6b1eb8f0439169b18eb30f57f2972bfe350c23
+SCORE: 0.647626
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Existing Activities and Implementation Challenges in U.S. Diabetes Prevention', 'Strategies to Improve Reach of Diabetes Prevention, Overall and Among High-Risk Groups Facing Access Barriers', 'Potential Precision Medicine Approaches in the Type 2 Diabetes Prevention Field']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+The DPP findings of differences in hazard reduction associated with metformin treatment for participants with higher BMI, older age, or a history of gestational diabetes are examples of effective modification (51,248). DPP data also demonstrated that baseline participant characteristics beyond baseline glycemic severity alone could predict absolute risk of developing type 2 diabetes during the trial (249). This study showed that lifestyle intervention treatment produced similar hazard ratios (i.e., relative risk reduction) regardless of baseline type 2 diabetes risk, such that those with the highest absolute risk experienced the largest absolute risk reduction and lowest number needed to treat to prevent one case of type 2 diabetes. Conversely, the hazard ratio for metformin varied considerably by baseline type 2 diabetes risk, such that most of the effect observed in that treatment arm was driven by the risk reduction among participants in the highest quartile of baseline diabetes risk. Such a model could be useful in focusing clinical treatment selection towards lifestyle-based treatments and away from metformin for individuals with lower baseline risk. Notably, although waist circumference and serum triglyceride concentration were also significant in the model, the main drivers of the risk prediction were the baseline fasting glucose or A1C severity (2-hour glucose was not included because it is generally not available clinically), so an even simpler stratification might be to offer metformin therapy only among individuals with higher levels of fasting glucose or A1C. These findings were replicated in a second study using DPP data that also considered treatment adherence as a moderating variable of the hazard reduction in type 2 diabetes with each treatment arm (250). Adherence, per se, was defined at the 6-month visit for the metformin arm as taking 80% or more of assigned medication and for the lifestyle arm as having achieved a weight loss ≥5% of baseline weight.
+----------------------------------------------------------------------------------------------------
+
+RANK: 19
+CHUNK ID: 258a4ed904d122b5b70b103cf843e6b438360bef65c7e85e00343eed97b3f1f7
+SCORE: 0.644700
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Existing Activities and Implementation Challenges in U.S. Diabetes Prevention', 'National Data on Metformin Use for Type 2 Diabetes Prevention']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+Notably, the generally low rates of implementation and uptake also extend to the use of metformin for diabetes prevention (193,194,195,196). Using nationally representative data from 2005–2012, the age-adjusted prevalence of metformin use was 0.7% among adults with prediabetes, which is similar in magnitude to rates of DPP participation in the prediabetes population (194). Though metformin use appears greater among adults with higher BMI and more severe dysglycemia, metformin use was still low among those with BMI ≥35 kg/m2, a group for whom metformin is more highly recommended (194). Use of metformin was similar by race, poverty-to-income ratio, and educational attainment (194). Prescription rates for metformin from insurance claims data are slightly higher, though still low. For example, in a national sample of 17,352 working-age adults with prediabetes who were continuously insured from 2010 to 2012, 3.7% were prescribed metformin (193). After adjusting for age, income, and educational attainment, women and adults with obesity were nearly twice as likely to be prescribed metformin, and those with two or more comorbid cardiometabolic conditions received metformin prescriptions at nearly the same rate (193). More recent data show similarly low patterns of use; in a 2012–2018 analysis of 53,551 patients with prediabetes from the IBM MarketScan research database, 2.4% of patients received a metformin prescription within 1 year of laboratory-confirmed prediabetes (195). In a study of more than 1 million U.S. veterans with incident prediabetes, 1.1% were prescribed metformin during an average of 3.4 years after diagnosis (196). Low uptake of metformin in the United States may be explained by multiple factors, such as clinical practice recommendations that in many ways frame it as a second-line alternative to lifestyle interventions (6), low clinician and patient awareness, and preferences to prevent or delay additional medication use, rather than to adopt a medication for primary prevention.
+----------------------------------------------------------------------------------------------------
+
+RANK: 20
+CHUNK ID: 4ea7871972498bc5fdd80ef5b63c2e1e0abf7305c405b791f74f822ff61eec22
+SCORE: 0.635746
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '4. Lựa chọn thuốc kiểm soát đường huyết cho người bệnh đái tháo đường típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+4. Lựa chọn thuốc kiểm soát đường huyết cho người bệnh đái tháo đường típ 2 Hình 2: Lược đồ lựa chọn thuốc và phương pháp điều trị ĐTĐ típ 2 4. 1. Các yếu tố cần xem xét khi chọn lựa thuốc điều trị: a) Hiệu quả giảm glucose huyết b) Nguy cơ hạ glucose máu: sulfonylurea, insulin c) Tăng cân: Pioglitazon, insulin, sulfonylurea d) Giảm cân: GLP-1 RA, ức chế SGLT2, ức chế DPP-4 (giảm cân ít) e) Không ảnh hưởng nhiều lên cân nặng: ức chế enzym DPP-4, metformin f) Ảnh hưởng lên bệnh lý tim mạch do xơ vữa: - Hiệu quả có lợi (bằng chứng rõ ràng: GLP-1 RA và ức chế SGLT-2 trừ lixisenatide trung tính) - Có thể có lợi pioglitazone và metformin g) Ảnh hưởng lên suy tim, đặc biệt suy tim phân suất tống máu giảm LVEF<45%: - SGLT-2i giảm tiến triển suy tim, nguy cơ nhập viện do duy tim - Chống chỉ định dùng nhóm TZD do tăng suy tim sung huyết h) Ảnh hưởng lên thận: - Tác động tốt, giúp phục hồi chức năng thận, giảm tiến triển bệnh thận mạn: AECi, SGLT-2i. Nếu không dung nạp hoặc chống chỉ định với SGLT-2i hoặc mức lọc cầu thận không phù hợp, bổ sung GLP-1 RA - Tác động không có lợi hoặc thận trọng, giảm liều khi suy thận: SU, Metformin i) Các đối tượng BN đặc biệt: - Người cao tuổi ( > 65 tuổi): Không cần chỉnh liều GLP-1 RA, SGLT-2i - Suy thận: Không cần chỉnh liều GLP-1 RA, Linaglipin đối với suy thận nhẹ, trung bình hay nặng. SGLT-2i được ưu tiên trên BN có eGFR 30-60 mL/phút/1,73m2 da hoặc albumin niệu>30mg/g creatinin để giảm tiến triển bệnh thận mạn - Suy gan: Không cần chỉnh liều GLP-1 RA, SGLT-2i đối với suy gan nhẹ hoặc trung bình.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RRF TOP-7 | TOTAL: 7
+====================================================================================================
+
+RANK: 1
+CHUNK ID: 78d87b3775f8e278530f34462f42b137a716477cb694c856216d0bae1eaba2e9
+RRF SCORE: 0.030366
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '4.2. Lựa chọn cụ thể']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+4.2. Lựa chọn cụ thể a) Metformin là lựa chọn đầu tiên để điều trị BN ĐTĐ típ 2 cùng với thay đổi lối sống (bao gồm kiểm soát cân nặng, chế độ ăn và tập luyện thể lực). Có thể kết hợp thay đổi lối sống và metformin ngay từ đầu. Thay đổi lối sống đơn thuần chỉ thực hiện ở những BN mới chẩn đoán, chưa có biến chứng mạn và mức đường huyết gần bình thường. b) Khi các vấn đề BTMDXV, Suy tim và Bệnh thận mạn đã xuất hiện ở người bệnh đái tháo đường thì chúng ta cần hành động ngay theo chỉ định mới, ưu tiên, không phụ thuộc phác đồ thuốc hạ đường huyết vẫn đang được điều trị cho BN: - Nếu BN có bệnh ĐMDVX hoặc nguy cơ cao ưu tiên lựa chọn thuốc đồng vận thụ thể GLP-1 với các lợi ích rõ ràng trên tim mạch hoặc thuốc ức chế kênh đồng vận chuyển natri-glucose (Ức chế SGLT2) với mức lọc cầu thận phù hợp. (Lưu ý: Thông tin kê toa của thuốc Ức chế SGLT2 liên quan đến mức lọc cầu thận eGFR thay đổi tùy theo từng hoạt chất và từng quốc gia, vui lòng tham khảo thông tin kê toa của các thuốc Ức chế SGLT2 tại Việt Nam để khởi trị hay tiếp tục điều trị với Ức chế SGLT2). - Đối tượng mắc kèm suy tim hoặc bệnh thận mạn: cân nhắc dùng Ức chế SGLT2 để giảm nguy cơ nhập viện do suy tim và/hoặc tiến triển bệnh thận mạn. Nếu SGLT-2i không dung nạp hoặc chống chỉ định hoặc eGFR không phù hợp thì bổ sung GLP-1 RA đã được chứng minh lợi ích trên tim mạch.
+----------------------------------------------------------------------------------------------------
+
+RANK: 2
+CHUNK ID: cc1cddafc5bc6763880d477b382860fa75f1372b1015a789861487513e22a4c5
+RRF SCORE: 0.029324
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '4.2. Lựa chọn cụ thể']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+c) Phối hợp thuốc sớm nên được cân nhắc ở một số BN khi bắt đầu khởi trị để hạn chế thất bại và đạt mục tiêu điều trị nhanh, tốt hơn. Không lựa chọn các thuốc cùng 1 nhóm, cùng cơ chế tác dụng. d) Sau khi khởi trị, metformin nên được duy trì nếu vẫn dung nạp và không có chống chỉ định. e) Với các BN không có bệnh tim mạch do vữa xơ hoặc không có yếu tố nguy cơ BTMDVX: sau khi khởi trị metformin mà không đạt mục tiêu đường huyết thì cân nhắc lựa chọn các nhóm khác theo phác đồ: - Nếu chi phí điều trị là vấn đề chính: ưu tiên chọn SU, TZD - Nếu người bệnh có nguy cơ cao hạ glucose máu: ưu tiên chọn DPP-4i, SGLT-2i, GLP-1, TZD - Nếu người bệnh cần giảm cân: ưu tiên chọn SGLT-2i, GLP-1 f) Sử dụng sớm insulin nên cân nhắc nếu có bằng chứng của dị hóa (giảm cân), triệu chứng tăng đường huyết, hoặc nếu mức A1C ≥9% hoặc mức glucose huyết rất cao ≥300 mg/dL (16.7 mmol/L). g) Ở BN ĐTĐ típ 2 không đạt được HbA1c mục tiêu với thuốc hạ đường huyết uống thì thuốc đồng vận thụ thể GLP-1 được ưu tiên hơn là insulin nhờ vào khả năng kiểm soát đường huyết tốt, cải thiện chức năng tế bào beta, hiệu quả giảm cân tốt, lợi ích trên tim mạch và tỉ lệ mắc biến chứng hạ đường huyết thấp của GLP-1 RA khi đơn trị liệu hay phối hợp với các thuốc điều trị đái tháo đường dạng uống đã được chứng minh. h) Với BN ĐTĐ típ 2 không đạt mục tiêu điều trị, cần điều trị tích cực ngay không trì hoãn.
+----------------------------------------------------------------------------------------------------
+
+RANK: 3
+CHUNK ID: ae58c9c5959e243d9338cf9af2bd79454af19ffd44f9664849592c20c339c1f5
+RRF SCORE: 0.029199
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHỤ LỤC 01: CÁC NHÓM THUỐC HẠ GLUCOSE MÁU ĐƯỜNG UỐNG VÀ THUỐC DẠNG TIÊM KHÔNG THUỘC NHÓM INSULIN', '8. Các loại thuốc viên phối hợp']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+8. Các loại thuốc viên phối hợp Do bản chất đa dạng của cơ chế bệnh sinh ĐTĐ típ 2, việc phối hợp thuốc trong điều trị sẽ mang lại hiệu quả giảm glucose huyết tốt hơn, đồng thời giảm tác dụng phụ khi tăng liều một loại thuốc đến tối đa. Nguyên tắc phối hợp là không phối hợp 2 loại thuốc trong cùng 1 nhóm, thí dụ không phối hợp gliclazide với glimepiride. Nên phối hợp các thuốc có cơ chế tác dụng bổ sung để hiệp đồng tác dụng. Ngoài ra viên thuốc phối hợp 2 nhóm thuốc sẽ giúp cho số viên thuốc cần sử dụng ít hơn, làm tăng tính tuân thủ dùng thuốc của BN. Bất lợi của viên thuốc phối hợp là không thể chỉnh liều 1 loại thuốc. Việt Nam hiện có các thuốc viên phối hợp Glyburide/ Metformin, Glimepiride/ Metformin, Linagliptin/Metformin, Sitagliptin/ Metformin, Vildagliptin/ Metformin, Saxagliptin/Metformin dạng phóng thích chậm. Pioglitazone/Metformin, Empagliflozin/Metformin và Dapagliflozin/ Metformin dạng phóng thích chậm (XR). Metformin dạng phóng thích chậm (XR) giúp chỉ phải uống thuốc một lần/ ngày và giúp giảm tác dụng phụ trên đường tiêu hóa. Bảng 13: Tóm tắt ưu nhược điểm của các thuốc viên hạ glucose máu đường uống và thuốc tiêm không thuộc nhóm insulin
+----------------------------------------------------------------------------------------------------
+
+RANK: 4
+CHUNK ID: a2d12b3b169370126a41455879415fcc9f2afa394a47ba8da910b21bd2c73879
+RRF SCORE: 0.028309
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHỤ LỤC 03: DANH MỤC THUỐC THIẾT YẾU ĐIỀU TRỊ']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+PHỤ LỤC 03: DANH MỤC THUỐC THIẾT YẾU ĐIỀU TRỊ ĐÁI THÁO ĐƯỜNG TÍP 2 Cập nhật Gói điều trị thiết yếu cho các bệnh không lây nhiễm (WHO Package of Essential NCD Interventions – WHO PEN) và Thông tư 45/2013/TT-BYT về Danh mục thiết yếu tân dược lần VI để kiểm soát đường huyết cho những người mắc đái tháo đường típ 2 bao gồm: chế độ ăn uống, hoạt động thể chất và metformin là lựa chọn điều trị đầu tay; sulfonylurea là điều trị hàng hai (hoặc điều trị đầu tay nếu metformin chống chỉ định); và insulin là điều trị hàng thứ ba. Bảng : Danh mục thuốc thiết yếu điều trị ĐTĐ típ 2
+----------------------------------------------------------------------------------------------------
+
+RANK: 5
+CHUNK ID: 9f7ad91b174d0f835a215881827acca5cfedfbcb3b9d404d8683dcfe5c23dcaf
+RRF SCORE: 0.016393
+RETRIEVERS: ['bm25']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 2: CHẨN ĐOÁN VÀ PHÂN LOẠI ĐÁI THÁO ĐƯỜNG', '2. Phân loại đái tháo đường']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+2. Phân loại đái tháo đường Bệnh đái tháo đường được phân thành 4 loại chính a) Đái tháo đường típ 1 (do phá hủy tế bào beta tụy, dẫn đến thiếu insulin tuyệt đối). b) Đái tháo đường típ 2 (do giảm chức năng của tế bào beta tụy tiến triển trên nền tảng đề kháng insulin). c) Đái tháo đường thai kỳ (là ĐTĐ được chẩn đoán trong 3 tháng giữa hoặc 3 tháng cuối của thai kỳ và không có bằng chứng về ĐTĐ típ 1, típ 2 trước đó). d) Các loại ĐTĐ đặc biệt do các nguyên nhân khác, như ĐTĐ sơ sinh hoặc đái tháo đường do sử dụng thuốc và hoá chất như sử dụng glucocorticoid, điều trị HIV/AIDS hoặc sau cấy ghép mô…
+----------------------------------------------------------------------------------------------------
+
+RANK: 6
+CHUNK ID: d66264210b5a6d454f7dfac3e012901725b95e546653e548eda9967e54d23bc9
+RRF SCORE: 0.016393
+RETRIEVERS: ['dense']
+DOCUMENT: dia_kidney_disease
+VERSION: 8b568e01046798eb29071e3b03f5023d2c486e2ed852afcce313c752e5a2b27a
+LANGUAGE: en
+SECTION: ['Kidney Disease and Diabetes', 'Treatment of Diabetes-Related Kidney Disease', 'Metabolic and Inflammatory Control and Insulin-Sensitizing Therapies']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK609462/
+
+FULL TEXT:
+Metformin is one of the most commonly prescribed therapies for management of hyperglycemia in type 2 diabetes and exerts its blood glucose-lowering effects primarily through inhibition of gluconeogenesis in the liver (558). Despite widespread use of metformin in type 2 diabetes, large-scale clinical trials with DKD-specific primary endpoints are lacking. In a small trial of 51 adults with type 2 diabetes and DKD who received a 12-week course of either the sulfonylurea glibenclamide or metformin, those who were treated with metformin exhibited a significant attenuation of albuminuria (559). The Hyperinsulinemia: The Outcome of its Metabolic Effects (HOME) study also evaluated the effects of metformin versus placebo when used in conjunction with insulin and found no significant difference in urine albumin excretion with metformin therapy (560). In A Diabetes Outcome Progression Trial (ADOPT), 4,351 recently diagnosed, drug-naïve adults with type 2 diabetes were randomized to treatment with metformin, the thiazolidinedione rosiglitazone, or the sulfonylurea glyburide for 4 years (561). Changes in the eGFR via the Modification of Diet in Renal Disease (MDRD) Study equation from baseline were +1.4% (95% CI 0.0%–2.9%) with metformin, +5.1% (95% CI 3.6%–6.7%) for rosiglitazone, and -0.4% (95% CI -2.0%–1.2%) for glyburide (p=0.0005 for metformin vs. rosiglitazone); there were no differences between treatment groups in incident moderate albuminuria, hypertension, or an eGFR <60 mL/min/1.73 m2 (561).
+----------------------------------------------------------------------------------------------------
+
+RANK: 7
+CHUNK ID: 7bbe33abff90182763cc04bdca3395faed69e3f637d6c1f4e50edb594b91cd24
+RRF SCORE: 0.016129
+RETRIEVERS: ['dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHỤ LỤC 01: CÁC NHÓM THUỐC HẠ GLUCOSE MÁU ĐƯỜNG UỐNG VÀ THUỐC DẠNG TIÊM KHÔNG THUỘC NHÓM INSULIN', '2. Metformin']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Cách dùng: dùng trước hoặc sau ăn, nên khởi đầu ở liều thấp và tăng liều từ từ mỗi 5 – 7 ngày để làm giảm tác dụng phụ trên đường tiêu hóa, dạng bào chế phóng thích chậm (XR) có thể giảm tác dụng phụ trên đường tiêu hóa Metformin thường được lựa chọn là thuốc khởi đầu điều trị ở BN đái tháo đường típ 2.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+SUMMARY
+BM25 RESULTS: 20
+BGE-M3 RESULTS: 20
+OVERLAP: 4
+UNIQUE CANDIDATES: 36
+RRF RESULTS: 7

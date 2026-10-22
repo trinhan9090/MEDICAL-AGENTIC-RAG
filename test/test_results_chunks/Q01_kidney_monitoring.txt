@@ -1,0 +1,765 @@
+QUERY ID: Q01
+QUERY: Người bệnh đái tháo đường típ 2 cần thực hiện những xét nghiệm nào để theo dõi và đánh giá biến chứng thận?
+CONFIG: BM25 Top-20 | BGE-M3 Top-20 | RRF k=60 | RRF Top-7
+
+====================================================================================================
+BM25 TOP-20 | TOTAL: 20
+====================================================================================================
+
+RANK: 1
+CHUNK ID: 17f9b0ad1ef5e0edc7fbf112384ed18bdd8172bde76eb42165b4002995abe364
+SCORE: 38.244202
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'KHUYẾN CÁO VỀ BIẾN CHỨNG THẬN DO ĐÁI THÁO ĐƯỜNG']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+KHUYẾN CÁO VỀ BIẾN CHỨNG THẬN DO ĐÁI THÁO ĐƯỜNG
+
+1. Cần tầm soát biến chứng thận cho người bệnh ĐTĐ típ 1 sau 5 năm và người bệnh ĐTĐ típ 2 ngay khi chẩn đoán. Tỷ số A/C niệu là xét nghiệm tầm soát hiệu quả nhất. Tầm soát và đánh giá lại tối thiểu 6-12 tháng một lần. BN có tỷ số A/C > 30mg/g và/hoặc eGFR < 60mL/ph/1,73m2 da được định nghĩa là bệnh thận do ĐTĐ và theo dõi sát hơn (mỗi 6 tháng)
+----------------------------------------------------------------------------------------------------
+
+RANK: 2
+CHUNK ID: 4e9bbb89a52894f82eff49d1857fe9d046b5aec59df07410717d973572963153
+SCORE: 33.553253
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '2. Mục tiêu điều trị']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+* Đánh giá về kiểm soát đường huyết: - Thực hiện xét nghiệm HbA1c ít nhất 2 lần trong 1 năm ở những người bệnh đáp ứng mục tiêu điều trị (và những người có đường huyết được kiểm soát ổn định). - Thực hiện xét nghiệm HbA1c hàng quý ở những người bệnh được thay đổi liệu pháp điều trị hoặc những người không đáp ứng mục tiêu về glucose huyết. Thực hiện xét nghiệm HbA1c tại thời điểm người bệnh đến khám, chữa bệnh để tạo cơ hội cho việc thay đổi điều trị kịp thời hơn.
+----------------------------------------------------------------------------------------------------
+
+RANK: 3
+CHUNK ID: 5b43c1bbc58f8346cce5e32a5f8f63d6cc257976380c95e28920cf9882f73ffe
+SCORE: 33.507538
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 8: PHÕNG NGỪA VÀ KIỂM SOÁT BIẾN CHỨNG MẠN TÍNH', '1.2. Biến chứng thận:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+1.2. Biến chứng thận: a) Ít nhất mỗi năm một lần đánh giá albumin niệu và mức lọc cầu thận ở tất cả các BN ĐTĐ típ 2, không kể đang điều trị như thế nào b) BN có albumin niệu > 30 mg/g creatinine và/ hoặc mức lọc cầu thận eGFR< 60 mL/phút/1,73m2 cần đánh giá hai lần một năm nhằm định hướng điều trị c) Cần tối ưu kiểm soát đường huyết để giảm nguy cơ hoặc làm chậm quá trình tiến triển bệnh thận mạn d) Bênh nhân ĐTĐ típ 2 mắc kèm bệnh thận do ĐTĐ, cân nhắc sử dụng Ức chế SGLT2 ở BN có độ lọc cầu thận ≥30 mL/phút/1,73m2 và albumin niệu >30 mg/g creatinine, đặc biệt ở những BN có albumin niệu ≥300 mg/g creatinine, để giảm nguy cơ tiến triển bệnh thận mạn và biến cố tim mạch hoặc cả hai. e) BN có bệnh thận mạn có gia tăng nguy cơ gặp biến cố tim mạch, sử dụng GLP-1 RA có thể giảm nguy cơ tiến triển almumin niệu và biến cố tim mạch hoặc cả hai. Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do
+----------------------------------------------------------------------------------------------------
+
+RANK: 4
+CHUNK ID: 23591a5e5bb85bbdeb34984109dce5b05ff14f6d7f0dd5a73c404dc5851605e1
+SCORE: 27.879849
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 6', '1. Khuyến cáo:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+1. Khuyến cáo: a) Với các BN có nguy cơ hạ đường huyết: cần hỏi bệnh kỹ các cơn hạ đường huyết có triệu chứng và hạ đường huyết không triệu chứng mỗi lần thăm khám b) Với người bệnh dùng các nhóm thuốc có nguy cơ hạ đường huyết (insulin, SU) cần theo dõi, đánh giá, sàng lọc và hướng dẫn nhận biết nguy cơ và sự tái xuất hiện những cơn hạ đường huyết do người bệnh có thể không biết cơn hạ đường huyết c) Điều trị cơn hạ đường huyết cho người bệnh tỉnh táo, tự uống được (Glucose huyết <3,9 mmol/L hay 70mg/dL) bằng 15-20g glucose pha nước uống, hoặc bất cứ loại thực phẩm nào chứa carbonhydrate có glucose dùng thay thế. Thử lại glucose huyết mao mạch sau 15 phút. Nếu vẫn còn thấp, điều trị nhắc lại liều như trên. Nếu glucose huyết về bình thường: cho người bệnh ăn nhẹ ngay để tránh nguy cơ tái xuất hiện hạ glucose huyết. d) Người bệnh hạ glucose huyết mức độ 2 trở lên cần được tiêm glucagon (nếu có) e) Người bệnh có nhiều cơn hạ đường huyết, hạ đường huyết không triệu chứng hoặc hạ đường huyết nặng cần được rà soát lại phác đồ điều trị, tìm nguyên nhân và có kế hoạch điều trị phù hợp. f) Với những BN đang điều trị bằng insulin mà xuất hiện hạ đường huyết không nhận biết, hạ đường huyết mức độ nặng thì cần điều chỉnh nới lỏng mục tiêu kiểm soát đường huyết trong vài tuần, nhằm giảm nguy cơ hạ đường huyết. g) Cần đánh giá chức năng nhận thức cho những BN có nhiều cơn hạ đường huyết hoặc cơn hạ đường huyết nặng để kịp thời điều chỉnh phác đồ điều trị
+----------------------------------------------------------------------------------------------------
+
+RANK: 5
+CHUNK ID: 591e4a0a2e2ea3ea0dce60c6ce7770157ea863e3752c6a405677a29a7a63c359
+SCORE: 26.886807
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Tăng huyết áp | Đánh giá lâm sàng và cận lâm sàng: Huyết áp và cân nặng
+----------------------------------------------------------------------------------------------------
+
+RANK: 6
+CHUNK ID: 124ff786c12683350af905eb11c55155c86bc4b83e2afc1c697cf14a7fe1238e
+SCORE: 26.408154
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Thiếu máu | Đánh giá lâm sàng và cận lâm sàng: Sắt, hemoglobin
+----------------------------------------------------------------------------------------------------
+
+RANK: 7
+CHUNK ID: a9d56dd2c95a06e92c2ec449098de6214284a6e36c6f0669ebd13d18d8d00058
+SCORE: 26.079636
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Rối loạn điện giải | Đánh giá lâm sàng và cận lâm sàng: Khám lâm sàng, điện tâm đồ, điện giải đồ
+----------------------------------------------------------------------------------------------------
+
+RANK: 8
+CHUNK ID: 755b3db219986de2151c3a361d5ed718b1b5fcdeceb651ae85c871423bbc723a
+SCORE: 25.998863
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Quá tải dịch | Đánh giá lâm sàng và cận lâm sàng: Bệnh sử, khám lâm sàng, cân nặng
+----------------------------------------------------------------------------------------------------
+
+RANK: 9
+CHUNK ID: 9d1d216d1d79a516a7aae6440a4f3dffdde5913e069de3db9cf51804c1d209dd
+SCORE: 25.918621
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Toan chuyển hóa | Đánh giá lâm sàng và cận lâm sàng: Khám lâm sàng, điện giải đồ, khí máu
+----------------------------------------------------------------------------------------------------
+
+RANK: 10
+CHUNK ID: d4a0da18041b1f9e9d2489a27af508efba497985f8e33f0b306897c727e77b8a
+SCORE: 25.906068
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '6.1.3. Điều trị:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+g) Nếu đang dùng thuốc ức chế men chuyển, ức chế thụ thể hay lợi tiểu, cần phải theo dõi chức năng thận và nồng độ kali máu. h) BN bị đái tháo đường thường có tăng huyết áp, với tần suất vào khoảng 50-70%, thay đổi tùy thuộc loại đái tháo đường, tuổi, béo phì … Tăng huyết áp là yếu tố nguy cơ chính của bệnh mạch vành, đột quị và biến chứng mạch máu nhỏ. Ở BN bị đái tháo đường típ 1 tăng huyết áp là hậu quả của biến chứng thận, ngược lại ở BN đái tháo đường típ 2 tăng huyết áp thường có sẵn cùng với các yếu tố nguy cơ tim mạch chuyển hóa khác. i) Trong các thuốc hạ đường huyết, nhóm thuốc GLP-1 RA và Ức chế SGLT2 ngoài kiểm soát đường huyết còn có tác dụng giảm nhẹ huyết áp, có thể cân nhắc trong điều trị.
+----------------------------------------------------------------------------------------------------
+
+RANK: 11
+CHUNK ID: c9976bd7e5aef1ac43cfcf35cfe28739e9f2cfda7ef9c13be40fd7ee64bd51dd
+SCORE: 25.759709
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Bệnh xương do chuyển hóa | Đánh giá lâm sàng và cận lâm sàng: Calci, Phosphor, vitamin D, PTH máu
+----------------------------------------------------------------------------------------------------
+
+RANK: 12
+CHUNK ID: f50900b993ffb996499abeb11f3c585be2b8d3bbd98258c060abd231a9004753
+SCORE: 25.177960
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 8: PHÕNG NGỪA VÀ KIỂM SOÁT BIẾN CHỨNG MẠN TÍNH', '3. Biến chứng thần kinh:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+3. Biến chứng thần kinh: Tất cả BN cần được đánh giá về bệnh thần kinh ngoại biên tại thời điểm bắt đầu được chẩn đoán đoán ĐTĐ típ 2 và 5 năm sau khi chẩn đoán bệnh tiểu đường típ 1, sau đó ít nhất mỗi năm một lần. KHUYẾN CÁO VỀ BIẾN CHỨNG THẦN KINH DO ĐÁI THÁO ĐƯỜNG
+----------------------------------------------------------------------------------------------------
+
+RANK: 13
+CHUNK ID: 78d87b3775f8e278530f34462f42b137a716477cb694c856216d0bae1eaba2e9
+SCORE: 23.939393
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '4.2. Lựa chọn cụ thể']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+4.2. Lựa chọn cụ thể a) Metformin là lựa chọn đầu tiên để điều trị BN ĐTĐ típ 2 cùng với thay đổi lối sống (bao gồm kiểm soát cân nặng, chế độ ăn và tập luyện thể lực). Có thể kết hợp thay đổi lối sống và metformin ngay từ đầu. Thay đổi lối sống đơn thuần chỉ thực hiện ở những BN mới chẩn đoán, chưa có biến chứng mạn và mức đường huyết gần bình thường. b) Khi các vấn đề BTMDXV, Suy tim và Bệnh thận mạn đã xuất hiện ở người bệnh đái tháo đường thì chúng ta cần hành động ngay theo chỉ định mới, ưu tiên, không phụ thuộc phác đồ thuốc hạ đường huyết vẫn đang được điều trị cho BN: - Nếu BN có bệnh ĐMDVX hoặc nguy cơ cao ưu tiên lựa chọn thuốc đồng vận thụ thể GLP-1 với các lợi ích rõ ràng trên tim mạch hoặc thuốc ức chế kênh đồng vận chuyển natri-glucose (Ức chế SGLT2) với mức lọc cầu thận phù hợp. (Lưu ý: Thông tin kê toa của thuốc Ức chế SGLT2 liên quan đến mức lọc cầu thận eGFR thay đổi tùy theo từng hoạt chất và từng quốc gia, vui lòng tham khảo thông tin kê toa của các thuốc Ức chế SGLT2 tại Việt Nam để khởi trị hay tiếp tục điều trị với Ức chế SGLT2). - Đối tượng mắc kèm suy tim hoặc bệnh thận mạn: cân nhắc dùng Ức chế SGLT2 để giảm nguy cơ nhập viện do suy tim và/hoặc tiến triển bệnh thận mạn. Nếu SGLT-2i không dung nạp hoặc chống chỉ định hoặc eGFR không phù hợp thì bổ sung GLP-1 RA đã được chứng minh lợi ích trên tim mạch.
+----------------------------------------------------------------------------------------------------
+
+RANK: 14
+CHUNK ID: 830f418a844cf302aff0151f81ac9b3e4219e2d8ba8fdb35a4c6d827256e5b4d
+SCORE: 23.094931
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2
+
+Đặc điểm: Khởi phát | Đái tháo đường típ 1: Các triệu chứng rầm rộ | Đái tháo đường típ 2: Chậm, thường không rõ triệu chứng
+
+Chú thích: bảng trên chỉ có tính tham khảo, có nhiều thể bệnh trùng lấp giữa các đặc điểm. Khi biểu hiện bệnh lý không rõ ràng, cần theo dõi một thời gian để phân loại đúng bệnh. Điều trị chủ yếu dựa trên bệnh cảnh lâm sàng của BN để quyết định có cần dùng ngay insulin hay không.
+----------------------------------------------------------------------------------------------------
+
+RANK: 15
+CHUNK ID: e5baca6fe8b0e0b1b0009f398b1e1c6ec21351a615c76f096c8dac3587b5bde1
+SCORE: 22.974424
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2
+
+Đặc điểm: Nhiễm ceton, tăng ceton trong máu, nước tiểu | Đái tháo đường típ 1: Dương tính | Đái tháo đường típ 2: Thường không có
+
+Chú thích: bảng trên chỉ có tính tham khảo, có nhiều thể bệnh trùng lấp giữa các đặc điểm. Khi biểu hiện bệnh lý không rõ ràng, cần theo dõi một thời gian để phân loại đúng bệnh. Điều trị chủ yếu dựa trên bệnh cảnh lâm sàng của BN để quyết định có cần dùng ngay insulin hay không.
+----------------------------------------------------------------------------------------------------
+
+RANK: 16
+CHUNK ID: cf5b07375462033ab2f1fcfa90d2491f2e0cb78cbcd0eef459a35f71029234b3
+SCORE: 22.439320
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'KHUYẾN CÁO VỀ BIẾN CHỨNG THẬN DO ĐÁI THÁO ĐƯỜNG']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+KHUYẾN CÁO VỀ BIẾN CHỨNG THẬN DO ĐÁI THÁO ĐƯỜNG
+
+3. Thuốc ức chế men chuyển hay ức chế thụ thể angiotensin II được chỉ định trên người bệnh có tăng huyết áp có/không có albumin niệu. Không kết hợp hai thuốc và không khuyến cáo trên người bệnh không tăng huyết áp để phòng ngừa nguyên phát bệnh thận do ĐTĐ. Kiểm tra định kỳ creatinine huyết thanh và kali ở người bệnh có dùng ức chế men chuyển hay ức chế thụ thể angiotensin II.
+----------------------------------------------------------------------------------------------------
+
+RANK: 17
+CHUNK ID: 19fd678ec4d9576e16d8a9ec2edca1a401a5c2b88750d7e67efc82de946bbaf8
+SCORE: 21.846184
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 2: CHẨN ĐOÁN VÀ PHÂN LOẠI ĐÁI THÁO ĐƯỜNG', '2.2. Đái tháo đường típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+2.2. Đái tháo đường típ 2 Đái tháo đường típ 2 trước kia được gọi là ĐTĐ của người lớn tuổi hay ĐTĐ không phụ thuộc insulin, chiếm 90-95% các trường hợp ĐTĐ. Thể bệnh này bao gồm những người có thiếu insulin tương đối cùng với đề kháng insulin. Ít nhất ở giai đoạn đầu hoặc có khi suốt cuộc sống BN ĐTĐ típ 2 không cần insulin để sống sót. Có nhiều nguyên nhân của ĐTĐ típ 2 nhưng không có một nguyên nhân chuyên biệt nào. BN không có sự phá hủy tế bào beta do tự miễn, không có kháng thể tự miễn trong máu. Đa số BN có béo phì hoặc thừa cân và/hoặc béo phì vùng bụng với vòng eo to. Béo phì nhất là béo phì vùng bụng có liên quan với tăng acid béo trong máu, mô mỡ cũng tiết ra một số hormon làm giảm tác dụng của insulin ở các cơ quan đích như gan, tế bào mỡ, tế bào cơ (đề kháng insulin tại các cơ quan đích). Do tình trạng đề kháng insulin, ở giai đoạn đầu tế bào beta bù trừ và tăng tiết insulin trong máu, nếu tình trạng đề kháng insulin kéo dài hoặc nặng dần, tế bào beta sẽ không tiết đủ insulin và ĐTĐ típ 2 lâm sàng sẽ xuất hiện. Tình trạng đề kháng insulin có thể cải thiện khi giảm cân, hoặc dùng một số thuốc nhưng không bao giờ hoàn toàn trở lại bình thường.
+----------------------------------------------------------------------------------------------------
+
+RANK: 18
+CHUNK ID: de33f3a2d2bdac90129043a4b94723be4201bd2d8fe17d96d99eb1667f3f30fc
+SCORE: 21.680433
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2
+
+Đặc điểm: Các bệnh lý đi kèm lúc mới chẩn đoán: tăng huyết áp, rối loạn chuyển hóa lipid, béo phì | Đái tháo đường típ 1: Không có Nếu có, phải tìm các bệnh lý khác đồng mắc | Đái tháo đường típ 2: Thường gặp, nhất là hội chứng chuyển hóa
+
+Chú thích: bảng trên chỉ có tính tham khảo, có nhiều thể bệnh trùng lấp giữa các đặc điểm. Khi biểu hiện bệnh lý không rõ ràng, cần theo dõi một thời gian để phân loại đúng bệnh. Điều trị chủ yếu dựa trên bệnh cảnh lâm sàng của BN để quyết định có cần dùng ngay insulin hay không.
+----------------------------------------------------------------------------------------------------
+
+RANK: 19
+CHUNK ID: 71d3a5b5d7cb302cfdf07a4d85c5703ca860f1d737802db8ad75f8cca9255457
+SCORE: 21.398982
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2
+
+Đặc điểm: Biểu hiện lâm sàng | Đái tháo đường típ 1: - Sút cân nhanh chóng. - Đái nhiều. - Uống nhiều | Đái tháo đường típ 2: - Bệnh diễn tiến âm ỉ, ít triệu chứng - Thể trạng béo, thừa cân - Tiền sử gia đình có người mắc bệnh đái tháo đường típ 2. - Đặc tính dân tộc có tỷ lệ mắc bệnh cao. - Dấu gai đen (Acanthosis nigricans) - Hội chứng buồng trứng đa nang
+
+Chú thích: bảng trên chỉ có tính tham khảo, có nhiều thể bệnh trùng lấp giữa các đặc điểm. Khi biểu hiện bệnh lý không rõ ràng, cần theo dõi một thời gian để phân loại đúng bệnh. Điều trị chủ yếu dựa trên bệnh cảnh lâm sàng của BN để quyết định có cần dùng ngay insulin hay không.
+----------------------------------------------------------------------------------------------------
+
+RANK: 20
+CHUNK ID: 7fa1300491731374739bc5d298bfbe5babd48827d9a361a47839e66b0334e59c
+SCORE: 21.175940
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 8: PHÕNG NGỪA VÀ KIỂM SOÁT BIẾN CHỨNG MẠN TÍNH', '2. Hỏi bệnh sử, khám lâm sàng và các test đơn giản dùng để đánh giá biến chứng']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+2. Hỏi bệnh sử, khám lâm sàng và các test đơn giản dùng để đánh giá biến chứng thần kinh do ĐTĐ. Khám cảm giác đau và cảm giác nhiệt được dùng để chẩn đoán biến chứng thần kinh sợi trục nhỏ. Monofilament 10g và rung âm thoa 128 Hz được dùng để chẩn đoán biến chứng thần kinh sợi trục lớn và cảm giác bảo vệ. Cần khám các biến chứng thần kinh tự chủ do ĐTĐ.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+BGE-M3 TOP-20 | TOTAL: 20
+====================================================================================================
+
+RANK: 1
+CHUNK ID: 5b43c1bbc58f8346cce5e32a5f8f63d6cc257976380c95e28920cf9882f73ffe
+SCORE: 0.718521
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 8: PHÕNG NGỪA VÀ KIỂM SOÁT BIẾN CHỨNG MẠN TÍNH', '1.2. Biến chứng thận:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+1.2. Biến chứng thận: a) Ít nhất mỗi năm một lần đánh giá albumin niệu và mức lọc cầu thận ở tất cả các BN ĐTĐ típ 2, không kể đang điều trị như thế nào b) BN có albumin niệu > 30 mg/g creatinine và/ hoặc mức lọc cầu thận eGFR< 60 mL/phút/1,73m2 cần đánh giá hai lần một năm nhằm định hướng điều trị c) Cần tối ưu kiểm soát đường huyết để giảm nguy cơ hoặc làm chậm quá trình tiến triển bệnh thận mạn d) Bênh nhân ĐTĐ típ 2 mắc kèm bệnh thận do ĐTĐ, cân nhắc sử dụng Ức chế SGLT2 ở BN có độ lọc cầu thận ≥30 mL/phút/1,73m2 và albumin niệu >30 mg/g creatinine, đặc biệt ở những BN có albumin niệu ≥300 mg/g creatinine, để giảm nguy cơ tiến triển bệnh thận mạn và biến cố tim mạch hoặc cả hai. e) BN có bệnh thận mạn có gia tăng nguy cơ gặp biến cố tim mạch, sử dụng GLP-1 RA có thể giảm nguy cơ tiến triển almumin niệu và biến cố tim mạch hoặc cả hai. Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do
+----------------------------------------------------------------------------------------------------
+
+RANK: 2
+CHUNK ID: 17f9b0ad1ef5e0edc7fbf112384ed18bdd8172bde76eb42165b4002995abe364
+SCORE: 0.698572
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'KHUYẾN CÁO VỀ BIẾN CHỨNG THẬN DO ĐÁI THÁO ĐƯỜNG']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+KHUYẾN CÁO VỀ BIẾN CHỨNG THẬN DO ĐÁI THÁO ĐƯỜNG
+
+1. Cần tầm soát biến chứng thận cho người bệnh ĐTĐ típ 1 sau 5 năm và người bệnh ĐTĐ típ 2 ngay khi chẩn đoán. Tỷ số A/C niệu là xét nghiệm tầm soát hiệu quả nhất. Tầm soát và đánh giá lại tối thiểu 6-12 tháng một lần. BN có tỷ số A/C > 30mg/g và/hoặc eGFR < 60mL/ph/1,73m2 da được định nghĩa là bệnh thận do ĐTĐ và theo dõi sát hơn (mỗi 6 tháng)
+----------------------------------------------------------------------------------------------------
+
+RANK: 3
+CHUNK ID: c9976bd7e5aef1ac43cfcf35cfe28739e9f2cfda7ef9c13be40fd7ee64bd51dd
+SCORE: 0.690196
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Bệnh xương do chuyển hóa | Đánh giá lâm sàng và cận lâm sàng: Calci, Phosphor, vitamin D, PTH máu
+----------------------------------------------------------------------------------------------------
+
+RANK: 4
+CHUNK ID: 1a29f4495a6423a4fb8d53fbf76164f13578439403679ecc7016042396ce6ccd
+SCORE: 0.689905
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 2: Xét nghiệm đối với người bệnh đái tháo đường']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 2: Xét nghiệm đối với người bệnh đái tháo đường
+
+Tên xét nghiệm: Acid uric | Lần đầu: x | Tái khám: Tùy tình trạng người bệnh: Suy thận, gút mạn, viêm khớp…
+----------------------------------------------------------------------------------------------------
+
+RANK: 5
+CHUNK ID: 9d1d216d1d79a516a7aae6440a4f3dffdde5913e069de3db9cf51804c1d209dd
+SCORE: 0.688889
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Toan chuyển hóa | Đánh giá lâm sàng và cận lâm sàng: Khám lâm sàng, điện giải đồ, khí máu
+----------------------------------------------------------------------------------------------------
+
+RANK: 6
+CHUNK ID: a9d56dd2c95a06e92c2ec449098de6214284a6e36c6f0669ebd13d18d8d00058
+SCORE: 0.688721
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Rối loạn điện giải | Đánh giá lâm sàng và cận lâm sàng: Khám lâm sàng, điện tâm đồ, điện giải đồ
+----------------------------------------------------------------------------------------------------
+
+RANK: 7
+CHUNK ID: 124ff786c12683350af905eb11c55155c86bc4b83e2afc1c697cf14a7fe1238e
+SCORE: 0.681943
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Thiếu máu | Đánh giá lâm sàng và cận lâm sàng: Sắt, hemoglobin
+----------------------------------------------------------------------------------------------------
+
+RANK: 8
+CHUNK ID: 09eddd46a15b23963ed5b4dd0204996348ed3ed22f8eb207b8b7d0534f7c1ef8
+SCORE: 0.676697
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '5.2.3. Nguồn cung cấp năng lượng:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
++ BN có biến chứng thận, khuyến cáo mức protein là 0,8g/kg cân nặng/ngày. Tùy từng giai đoạn suy thận, mức protein sẽ được điều chỉnh phù hợp nhằm đảm bảo cung cấp đủ lượng a. amin cần thiết cho cơ thể nhưng không làm nặng lên tình trạng suy thận. + Tăng cường sử dụng cá và thủy hải sản + Ăn các loại thịt bò, thịt lợn ít mỡ + Ăn thịt gia cầm bỏ da + Hạn chế các thực phẩm giàu Cholesterol: phủ tạng động vật, chocolate, … + Có thể sử dụng trứng 2-4 quả/tuần, ăn cả lòng đỏ và lòng trắng. + Chọn các thực phẩm có nhiều chất béo chưa bão hòa có lợi cho sức khỏe: đậu đỗ, lạc, vừng, dầu oliu, dầu cá, … d) Vi chất dinh dưỡng: Bao gồm: vitamin và muối khoáng - Người bệnh đái tháo đường cần được cung cấp các vi chất dinh dưỡng như người bình thường. - Vi chất dinh dưỡng có nhiều trong rau và trái cây - Nên sử dụng vi chất có trong tự nhiên Trái cây + Là nguồn cung cấp vitamin chính. + Ăn trái cây nên ăn nguyên múi, nguyên miếng không nên ăn nước ép trái cây vì quá trình chế biến đã bị mất chất xơ nên đường bị hấp thu nhanh hơn. + Không nên ăn hoa quả quá 20% mức năng lượng hàng ngày, vì quá mức sẽ gây ảnh hưởng không tốt đến chuyển hóa chất béo, chất bột đường. + Chọn những trái cây có chỉ số đường huyết thấp: ổi, lê, táo, cam. + Ăn vừa phải trái cây có đường huyết trung bình: chuối, đu đủ. + Hạn chế trái cây có chỉ số tăng đường huyết nhanh: dưa hấu, vải, nhãn, xoài (xem thêm ở Bảng 2) e) Muối:
+----------------------------------------------------------------------------------------------------
+
+RANK: 9
+CHUNK ID: 175a3e8133f3e5e1f1bcf82ed3b718125559d967a82fe51f547fb564e4cf3ae0
+SCORE: 0.676510
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'KHUYẾN CÁO VỀ BIẾN CHỨNG THẬN DO ĐÁI THÁO ĐƯỜNG']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+KHUYẾN CÁO VỀ BIẾN CHỨNG THẬN DO ĐÁI THÁO ĐƯỜNG
+
+2. Kiểm soát đường huyết chặt chẽ là nền tảng để phòng ngừa và làm chậm biến chứng thận do ĐTĐ. Metformin là thuốc lựa chọn đầu tay trừ khi có chống chỉ định (eGFR < 30mL/ph/1,73m2 da). Ức chế SGLT-2 được chỉ định là thuốc hàng thứ nhì khi có tỷ số A/C > 30 mg/g. Nếu có nguy cơ cao tim mạch kèm theo, đồng vận thụ thể GLP-1 được xem xét chỉ định.
+----------------------------------------------------------------------------------------------------
+
+RANK: 10
+CHUNK ID: 591e4a0a2e2ea3ea0dce60c6ce7770157ea863e3752c6a405677a29a7a63c359
+SCORE: 0.670992
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Tăng huyết áp | Đánh giá lâm sàng và cận lâm sàng: Huyết áp và cân nặng
+----------------------------------------------------------------------------------------------------
+
+RANK: 11
+CHUNK ID: 2a9bc6eb0ac742c68912e36bb7069d69d4e691f9c1ea1bb8ee3602680ccea921
+SCORE: 0.670135
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 2: Xét nghiệm đối với người bệnh đái tháo đường']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 2: Xét nghiệm đối với người bệnh đái tháo đường
+
+Tên xét nghiệm: Siêu âm tim, Doppler mạch | Lần đầu: x | Tái khám: Tùy tình trạng người bệnh
+----------------------------------------------------------------------------------------------------
+
+RANK: 12
+CHUNK ID: 755b3db219986de2151c3a361d5ed718b1b5fcdeceb651ae85c871423bbc723a
+SCORE: 0.666910
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Quá tải dịch | Đánh giá lâm sàng và cận lâm sàng: Bệnh sử, khám lâm sàng, cân nặng
+----------------------------------------------------------------------------------------------------
+
+RANK: 13
+CHUNK ID: b0c223d8e4d1612c4c872d5308ba151494ee9a21a6feada2be1bc12db0d59133
+SCORE: 0.660362
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 2: Xét nghiệm đối với người bệnh đái tháo đường']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 2: Xét nghiệm đối với người bệnh đái tháo đường
+
+Tên xét nghiệm: Tổng phân tích nước tiểu | Lần đầu: x | Tái khám: Mỗi lần khám
+----------------------------------------------------------------------------------------------------
+
+RANK: 14
+CHUNK ID: 96df9db177be6515fe029aac03a6610c24cc090fcd1e318091e01e426f790f06
+SCORE: 0.660322
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 2: Xét nghiệm đối với người bệnh đái tháo đường']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 2: Xét nghiệm đối với người bệnh đái tháo đường
+
+Tên xét nghiệm: Na+, K+, Ca++, Cl- | Tùy tình trạng người bệnh
+----------------------------------------------------------------------------------------------------
+
+RANK: 15
+CHUNK ID: 3e8e036297c9528b09219dfb0f1bc634e975b108f25f33cd059230169400cf86
+SCORE: 0.658181
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 2: Xét nghiệm đối với người bệnh đái tháo đường']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 2: Xét nghiệm đối với người bệnh đái tháo đường
+
+Tên xét nghiệm: ABI, CK, CKMB, BNP, Pro-BNP | Lần đầu: x | Tái khám: Tùy tình trạng người bệnh
+----------------------------------------------------------------------------------------------------
+
+RANK: 16
+CHUNK ID: 71d3a5b5d7cb302cfdf07a4d85c5703ca860f1d737802db8ad75f8cca9255457
+SCORE: 0.658150
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2
+
+Đặc điểm: Biểu hiện lâm sàng | Đái tháo đường típ 1: - Sút cân nhanh chóng. - Đái nhiều. - Uống nhiều | Đái tháo đường típ 2: - Bệnh diễn tiến âm ỉ, ít triệu chứng - Thể trạng béo, thừa cân - Tiền sử gia đình có người mắc bệnh đái tháo đường típ 2. - Đặc tính dân tộc có tỷ lệ mắc bệnh cao. - Dấu gai đen (Acanthosis nigricans) - Hội chứng buồng trứng đa nang
+
+Chú thích: bảng trên chỉ có tính tham khảo, có nhiều thể bệnh trùng lấp giữa các đặc điểm. Khi biểu hiện bệnh lý không rõ ràng, cần theo dõi một thời gian để phân loại đúng bệnh. Điều trị chủ yếu dựa trên bệnh cảnh lâm sàng của BN để quyết định có cần dùng ngay insulin hay không.
+----------------------------------------------------------------------------------------------------
+
+RANK: 17
+CHUNK ID: 4ea7871972498bc5fdd80ef5b63c2e1e0abf7305c405b791f74f822ff61eec22
+SCORE: 0.657875
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '4. Lựa chọn thuốc kiểm soát đường huyết cho người bệnh đái tháo đường típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+4. Lựa chọn thuốc kiểm soát đường huyết cho người bệnh đái tháo đường típ 2 Hình 2: Lược đồ lựa chọn thuốc và phương pháp điều trị ĐTĐ típ 2 4. 1. Các yếu tố cần xem xét khi chọn lựa thuốc điều trị: a) Hiệu quả giảm glucose huyết b) Nguy cơ hạ glucose máu: sulfonylurea, insulin c) Tăng cân: Pioglitazon, insulin, sulfonylurea d) Giảm cân: GLP-1 RA, ức chế SGLT2, ức chế DPP-4 (giảm cân ít) e) Không ảnh hưởng nhiều lên cân nặng: ức chế enzym DPP-4, metformin f) Ảnh hưởng lên bệnh lý tim mạch do xơ vữa: - Hiệu quả có lợi (bằng chứng rõ ràng: GLP-1 RA và ức chế SGLT-2 trừ lixisenatide trung tính) - Có thể có lợi pioglitazone và metformin g) Ảnh hưởng lên suy tim, đặc biệt suy tim phân suất tống máu giảm LVEF<45%: - SGLT-2i giảm tiến triển suy tim, nguy cơ nhập viện do duy tim - Chống chỉ định dùng nhóm TZD do tăng suy tim sung huyết h) Ảnh hưởng lên thận: - Tác động tốt, giúp phục hồi chức năng thận, giảm tiến triển bệnh thận mạn: AECi, SGLT-2i. Nếu không dung nạp hoặc chống chỉ định với SGLT-2i hoặc mức lọc cầu thận không phù hợp, bổ sung GLP-1 RA - Tác động không có lợi hoặc thận trọng, giảm liều khi suy thận: SU, Metformin i) Các đối tượng BN đặc biệt: - Người cao tuổi ( > 65 tuổi): Không cần chỉnh liều GLP-1 RA, SGLT-2i - Suy thận: Không cần chỉnh liều GLP-1 RA, Linaglipin đối với suy thận nhẹ, trung bình hay nặng. SGLT-2i được ưu tiên trên BN có eGFR 30-60 mL/phút/1,73m2 da hoặc albumin niệu>30mg/g creatinin để giảm tiến triển bệnh thận mạn - Suy gan: Không cần chỉnh liều GLP-1 RA, SGLT-2i đối với suy gan nhẹ hoặc trung bình.
+----------------------------------------------------------------------------------------------------
+
+RANK: 18
+CHUNK ID: de33f3a2d2bdac90129043a4b94723be4201bd2d8fe17d96d99eb1667f3f30fc
+SCORE: 0.657790
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2
+
+Đặc điểm: Các bệnh lý đi kèm lúc mới chẩn đoán: tăng huyết áp, rối loạn chuyển hóa lipid, béo phì | Đái tháo đường típ 1: Không có Nếu có, phải tìm các bệnh lý khác đồng mắc | Đái tháo đường típ 2: Thường gặp, nhất là hội chứng chuyển hóa
+
+Chú thích: bảng trên chỉ có tính tham khảo, có nhiều thể bệnh trùng lấp giữa các đặc điểm. Khi biểu hiện bệnh lý không rõ ràng, cần theo dõi một thời gian để phân loại đúng bệnh. Điều trị chủ yếu dựa trên bệnh cảnh lâm sàng của BN để quyết định có cần dùng ngay insulin hay không.
+----------------------------------------------------------------------------------------------------
+
+RANK: 19
+CHUNK ID: e5baca6fe8b0e0b1b0009f398b1e1c6ec21351a615c76f096c8dac3587b5bde1
+SCORE: 0.653709
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2
+
+Đặc điểm: Nhiễm ceton, tăng ceton trong máu, nước tiểu | Đái tháo đường típ 1: Dương tính | Đái tháo đường típ 2: Thường không có
+
+Chú thích: bảng trên chỉ có tính tham khảo, có nhiều thể bệnh trùng lấp giữa các đặc điểm. Khi biểu hiện bệnh lý không rõ ràng, cần theo dõi một thời gian để phân loại đúng bệnh. Điều trị chủ yếu dựa trên bệnh cảnh lâm sàng của BN để quyết định có cần dùng ngay insulin hay không.
+----------------------------------------------------------------------------------------------------
+
+RANK: 20
+CHUNK ID: 2262b1a6ccda740b5215e0da0606b881688abd1bae6bced36739423735dad5fa
+SCORE: 0.649044
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 2: Xét nghiệm đối với người bệnh đái tháo đường']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 2: Xét nghiệm đối với người bệnh đái tháo đường
+
+Tên xét nghiệm: Fructosamin | Tái khám: Mỗi 2 tuần, trừ lần khám có làm HbA1c
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RRF TOP-7 | TOTAL: 7
+====================================================================================================
+
+RANK: 1
+CHUNK ID: 17f9b0ad1ef5e0edc7fbf112384ed18bdd8172bde76eb42165b4002995abe364
+RRF SCORE: 0.032522
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'KHUYẾN CÁO VỀ BIẾN CHỨNG THẬN DO ĐÁI THÁO ĐƯỜNG']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+KHUYẾN CÁO VỀ BIẾN CHỨNG THẬN DO ĐÁI THÁO ĐƯỜNG
+
+1. Cần tầm soát biến chứng thận cho người bệnh ĐTĐ típ 1 sau 5 năm và người bệnh ĐTĐ típ 2 ngay khi chẩn đoán. Tỷ số A/C niệu là xét nghiệm tầm soát hiệu quả nhất. Tầm soát và đánh giá lại tối thiểu 6-12 tháng một lần. BN có tỷ số A/C > 30mg/g và/hoặc eGFR < 60mL/ph/1,73m2 da được định nghĩa là bệnh thận do ĐTĐ và theo dõi sát hơn (mỗi 6 tháng)
+----------------------------------------------------------------------------------------------------
+
+RANK: 2
+CHUNK ID: 5b43c1bbc58f8346cce5e32a5f8f63d6cc257976380c95e28920cf9882f73ffe
+RRF SCORE: 0.032266
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 8: PHÕNG NGỪA VÀ KIỂM SOÁT BIẾN CHỨNG MẠN TÍNH', '1.2. Biến chứng thận:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+1.2. Biến chứng thận: a) Ít nhất mỗi năm một lần đánh giá albumin niệu và mức lọc cầu thận ở tất cả các BN ĐTĐ típ 2, không kể đang điều trị như thế nào b) BN có albumin niệu > 30 mg/g creatinine và/ hoặc mức lọc cầu thận eGFR< 60 mL/phút/1,73m2 cần đánh giá hai lần một năm nhằm định hướng điều trị c) Cần tối ưu kiểm soát đường huyết để giảm nguy cơ hoặc làm chậm quá trình tiến triển bệnh thận mạn d) Bênh nhân ĐTĐ típ 2 mắc kèm bệnh thận do ĐTĐ, cân nhắc sử dụng Ức chế SGLT2 ở BN có độ lọc cầu thận ≥30 mL/phút/1,73m2 và albumin niệu >30 mg/g creatinine, đặc biệt ở những BN có albumin niệu ≥300 mg/g creatinine, để giảm nguy cơ tiến triển bệnh thận mạn và biến cố tim mạch hoặc cả hai. e) BN có bệnh thận mạn có gia tăng nguy cơ gặp biến cố tim mạch, sử dụng GLP-1 RA có thể giảm nguy cơ tiến triển almumin niệu và biến cố tim mạch hoặc cả hai. Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do
+----------------------------------------------------------------------------------------------------
+
+RANK: 3
+CHUNK ID: 124ff786c12683350af905eb11c55155c86bc4b83e2afc1c697cf14a7fe1238e
+RRF SCORE: 0.030077
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Thiếu máu | Đánh giá lâm sàng và cận lâm sàng: Sắt, hemoglobin
+----------------------------------------------------------------------------------------------------
+
+RANK: 4
+CHUNK ID: a9d56dd2c95a06e92c2ec449098de6214284a6e36c6f0669ebd13d18d8d00058
+RRF SCORE: 0.030077
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Rối loạn điện giải | Đánh giá lâm sàng và cận lâm sàng: Khám lâm sàng, điện tâm đồ, điện giải đồ
+----------------------------------------------------------------------------------------------------
+
+RANK: 5
+CHUNK ID: c9976bd7e5aef1ac43cfcf35cfe28739e9f2cfda7ef9c13be40fd7ee64bd51dd
+RRF SCORE: 0.029958
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Bệnh xương do chuyển hóa | Đánh giá lâm sàng và cận lâm sàng: Calci, Phosphor, vitamin D, PTH máu
+----------------------------------------------------------------------------------------------------
+
+RANK: 6
+CHUNK ID: 9d1d216d1d79a516a7aae6440a4f3dffdde5913e069de3db9cf51804c1d209dd
+RRF SCORE: 0.029877
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Toan chuyển hóa | Đánh giá lâm sàng và cận lâm sàng: Khám lâm sàng, điện giải đồ, khí máu
+----------------------------------------------------------------------------------------------------
+
+RANK: 7
+CHUNK ID: 591e4a0a2e2ea3ea0dce60c6ce7770157ea863e3752c6a405677a29a7a63c359
+RRF SCORE: 0.029670
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do ĐTĐ (ngoài ACR và độ thanh lọc cầu thận ước tính)
+
+Biến chứng của bệnh thận mạn: Tăng huyết áp | Đánh giá lâm sàng và cận lâm sàng: Huyết áp và cân nặng
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+SUMMARY
+BM25 RESULTS: 20
+BGE-M3 RESULTS: 20
+OVERLAP: 11
+UNIQUE CANDIDATES: 29
+RRF RESULTS: 7

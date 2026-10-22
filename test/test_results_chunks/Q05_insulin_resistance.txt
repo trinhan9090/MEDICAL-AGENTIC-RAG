@@ -1,0 +1,705 @@
+QUERY ID: Q05
+QUERY: How does insulin resistance contribute to the development of type 2 diabetes?
+CONFIG: BM25 Top-20 | BGE-M3 Top-20 | RRF k=60 | RRF Top-7
+
+====================================================================================================
+BM25 TOP-20 | TOTAL: 20
+====================================================================================================
+
+RANK: 1
+CHUNK ID: 10769d89c5f15b988b520003d8a15913e79e10522f7d11e262705975bfc042f0
+SCORE: 22.678955
+RETRIEVER: bm25
+DOCUMENT: niddk_diabetes_medicines
+VERSION: 14e68c15b7b6343113b74563706b581f4d681b6f56f28657895683c13e7c9ac6
+LANGUAGE: en
+SECTION: ['Insulin, Medicines, & Other Diabetes Treatments', 'What are the different types of insulin?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/insulin-medicines-treatments
+
+FULL TEXT:
+Several types of insulin are available. Each type starts to work at a different speed, known as “onset,” and its effects last a different length of time, known as “duration.” Most types of insulin reach a peak, which is when they have the strongest effect. After the peak, the effects of the insulin wear off over the next few hours or so. Table 1 lists the different types of insulin, how fast they start to work, when they peak, and how long they last.
+
+Table 1. Types of insulin and how they work1,2
+
+Insulin Type | How Fast It Starts to Work (onset) | When It Peaks | How Long It Lasts (duration)
+rapid-acting/ ultra rapid-acting | 15 minutes | 1 hour | 2 to 4 hours (rapid) 5 to 7 hours (ultra)
+rapid-acting, inhaled | 10 to 15 minutes | 30 minutes | 3 hours
+regular, also called short-acting | 30 minutes | 2 to 3 hours | 3 to 6 hours
+intermediate-acting | 2 to 4 hours | 4 to 12 hours | 12 to 18 hours
+long-acting | 2 hours | does not peak | 24 hours
+ultra long-acting | 6 hours | does not peak | 36 hours or longer
+
+Your doctor will work with you to review your medication options. Talk with your doctor about your activity level, what you eat and drink, how well you manage your blood glucose levels, your age and lifestyle, and how long your body takes to absorb insulin.
+----------------------------------------------------------------------------------------------------
+
+RANK: 2
+CHUNK ID: bbc527d4f86f03bfbbced8db3dac974b69ba991ed3bb917d964cc51de96c93c3
+SCORE: 21.542189
+RETRIEVER: bm25
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Prediabetes as a Classification for High-Risk Individuals']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+A1C, which yields a similar result when assessed before versus after meals, is the most common and practical diabetes diagnostic test performed in U.S. clinical practice today. A1C reflects average daily blood glucose concentrations over the past 40–70 days (45,46), but it does not differentiate specific patterns of insulin resistance or insufficient insulin secretion as do IFG and IGT. The presence of either IFG or IGT may contribute to average blood glucose and to the A1C level, but only 37% of U.S. adults with A1C 5.7%–6.4% have IFG, and only 31% have IGT (47). Moreover, 61% of adults with prediabetes overall have IFG or IGT but a normal A1C value (i.e., <5.7%) (47). Finally, among U.S. adults who meet any one of the three recommended glycemic definitions for prediabetes, insulin sensitivity is estimated as abnormal for only about 40%–45%, normal for 20%–25%, and “intermediate” for about 30%–35% (48). Thus, the use of these three tests to define prediabetes identifies different high-risk groups with only modest overlap, and together they offer a pragmatic yet imprecise approach to identify high-risk individuals. In spite of the limitations of testing for prediabetes, IFG, IGT, and elevated A1C all identify groups with increased average probability of progression to future type 2 diabetes. Figure 1 illustrates the 10-year probability of progression to a clinical diabetes diagnosis for groups of individuals with different A1C levels below the diabetes threshold. Although there is a steep gradient towards increasing risk as the A1C result approaches the diabetes threshold, it is notable that about half of individuals with subthreshold A1C results of 6.0%–6.4% (42–46 mmol/mol) do not progress to type 2 diabetes within 10 years. Similar relationships have been demonstrated for both fasting and 2-hour plasma glucose tests. Table 1 summarizes the underlying metabolic defects and average risk of progression to type 2 diabetes associated with groups of individuals who express different phenotypes of prediabetes, as currently defined.
+----------------------------------------------------------------------------------------------------
+
+RANK: 3
+CHUNK ID: bd7b1f62d64f191c9dc31b4ca4336f0207b1b10949ebebd067460b8f56b5f822
+SCORE: 20.158711
+RETRIEVER: bm25
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Overview of the Goals and Outline for This Article']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+This article focuses on preventing the most common phenotype of type 2 diabetes, which often presents in middle-aged adults with overweight or obesity. Research has described less common phenotypes of type 2 diabetes, including ketosis-prone, maturity-onset diabetes of the young, and latent autoimmune diabetes in adults (4,5). Because these phenotypes of type 2 diabetes are not fully understood, and most type 2 diabetes prevention trials did not distinguish progression to these distinct type 2 diabetes phenotypes, their primary prevention is considered beyond the scope of this review. This article also does not review the emerging literature on prevention of type 1 diabetes, given the significant differences in its underlying pathophysiology and treatment approaches (6). The evidence to date for type 2 diabetes primary prevention has been the strongest in the areas of lifestyle and pharmacological interventions targeting high-risk adults. This article outlines the major goals of type 2 diabetes prevention and the progression of intervention evidence, including clinical trials demonstrating efficacy and safety, followed by translational research investigating an array of implementation strategies to increase adoption, reach, and population effectiveness, including implications for individuals and groups that are at high risk but have proved challenging to reach or appear to benefit less from current implementation strategies. Finally, we summarize gaps in the literature and implications for future research and policy. Comprehending the evidence base for type 2 diabetes primary prevention will benefit first from a short overview of nutrient metabolism with and without normal insulin action, what it means to develop type 2 diabetes, both biologically and clinically, and how individuals can be identified in the months to years prior to a type 2 diabetes diagnosis, when primary prevention is still achievable.
+----------------------------------------------------------------------------------------------------
+
+RANK: 4
+CHUNK ID: 92f7594fb346df7e13f96ec7ae54591a494d1d285e93a7be43e3bf03597a6b77
+SCORE: 20.050370
+RETRIEVER: bm25
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Dimensions of Type 2 Diabetes Primary Prevention']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+Primary prevention refers to actions taken before the onset of a disease to prevent the disease from ever occurring (23). Type 2 diabetes primary prevention involves actions to reduce the numbers of individuals without diabetes today from developing type 2 diabetes in the future. Since biological progression of type 2 diabetes is defined by exceeding specific thresholds for plasma glucose concentration or A1C level, an effective primary prevention strategy might be defined as any approach that prevents or slows the progression of abnormally high blood glucose (10). Mechanistically, this might be interpreted as any strategy with the potential to safely and effectively slow or reverse type 2 diabetes’ underlying metabolic impairments, namely insulin resistance and insufficient insulin secretion (10). However, from a purely biological perspective, there is little difference in the risk for symptoms or for acute or chronic complications between individuals with blood glucose just below versus just above the type 2 diabetes diagnosis threshold. For example, Figure 1 depicts a graded relationship between the proportion of individuals who newly develop microvascular and macrovascular complications over 10 years, based only on increasing levels of their A1C. The relationship reveals no abrupt change or step-up at the diabetes threshold, and similar relationships have been demonstrated with fasting and 2-hour plasma glucose tests. This pattern implies that initiating type 2 diabetes treatment at an A1C level 0.1% higher or lower has very little implication for the risk of either acute or long-term type 2 diabetes complications for an individual patient. What does change, however, is the experience of being given that diagnosis and the incremental burden of its treatment. In this context, the benefits of type 2 diabetes prevention from both an individual and societal level lie more in the opportunity to reduce the emotional, physical, social, and financial burden of the clinical diagnosis and intensive management of type 2 diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 5
+CHUNK ID: 458fece72c62d72abf810cade02c6f289b2708152f1588210cd39375a174f9e0
+SCORE: 19.670097
+RETRIEVER: bm25
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Prediabetes as a Classification for High-Risk Individuals']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+There currently is no single test to identify precisely who will develop diabetes in the future and who will not; however, multiple tests are useful clinically in risk stratifying adults for the purposes of providing more targeted support for type 2 diabetes prevention. The ADA recommends classifying adults as high risk for type 2 diabetes (i.e., “prediabetes”) when the result of the FPG test is 100–125 mg/dL (i.e., impaired fasting glucose [IFG]; 5.6–6.9 mmol/L), the 2-hr post-glucose load plasma glucose is 140–199 mg/dL (i.e., impaired glucose tolerance [IGT]; 7.8–11.0 mmol/L), or the A1C is 5.7%–6.4% (39–46 mmol/mol) (12). Fasting and 2-hour plasma glucose tests help to identify one or both of the underlying pathophysiological impairments (i.e., insulin resistance and insufficient β-cell insulin secretion) that underlie and precede progression of blood glucose to exceed the type 2 diabetes threshold (10,43,44). Fasting glucose increases in the presence of hepatic insulin resistance. As hepatic insulin resistance progresses, hepatic glucose production and insufficient hepatic glucose clearance result in higher levels of plasma glucose many hours after the last meal, in addition to increased compensatory insulin secretion by β-cells (i.e., hyperinsulinemia). Elevation of 2-hour plasma glucose increases with impaired glucose uptake by myocytes following a meal (i.e., muscle insulin resistance) and insufficient insulin secretion in response to the meal. Patterns in which plasma glucose concentrations are at the higher end of the population distribution, despite ongoing insulin secretion, reflect either insulin resistance, insufficient β-cell insulin secretion, or both. Diagnostic tests to assess plasma insulin concentration are rarely performed in routine clinical practice, so plasma glucose tests alone are used to implicate early pathophysiological defects in insulin sensitivity and secretion. Moreover, the OGTT used to assess 2-hour plasma glucose is burdensome to perform in clinical practice and rarely used. Fasting glucose tests require return visits following an overnight fast, which presents an additional barrier to timely test completion.
+----------------------------------------------------------------------------------------------------
+
+RANK: 6
+CHUNK ID: 1e014209ad4a166d1f2d836ad686e434ea12ab1759b976e2a5099e689e49fe7a
+SCORE: 19.628767
+RETRIEVER: bm25
+DOCUMENT: niddk_t2dm_symptoms_causes
+VERSION: 4d37f4386a4a9863d08e0c237fea737b28058b15cb016843e13bb80ee4f8207e
+LANGUAGE: en
+SECTION: ['Symptoms & Causes of Diabetes', 'What causes type 2 diabetes?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/symptoms-causes
+
+FULL TEXT:
+Type 2 diabetes is the most common form of diabetes. Type 2 diabetes develops when your pancreas doesn’t produce enough insulin, and your body has trouble using insulin, a condition called insulin resistance. Insulin resistance is when the cells in your muscles, fat, and liver don’t respond well to insulin. When there isn’t enough insulin to balance blood glucose levels, they begin to rise. When blood glucose levels are higher than normal but not high enough to be diagnosed as type 2 diabetes, you have a condition called prediabetes. You have type 2 diabetes when health care professionals diagnose your blood glucose level as being too high. Researchers don’t fully know what causes problems with insulin production and insulin resistance in type 2 diabetes. However, people are more likely to develop type 2 diabetes if they have overweight, obesity, or a large waist size. are age 35 or older. Children and teens can also develop type 2 diabetes, but the risk increases as a person gets older. have a family history of type 2 diabetes. are African American, American Indian, Asian American, Hispanic, Latino, or Pacific Islander. are not physically active, because of a job that requires sitting for long periods of time or because of difficulty moving their body. smoke, including tobacco products and e-cigarettes, or are exposed to secondhand smoke. have prediabetes. have a history of gestational diabetes, a type of diabetes that develops during pregnancy, or gave birth to a baby weighing 9 pounds or more. You can’t change some of these risk factors, such as your age, family history, or race. However, you may be able to change some risk factors and prevent or delay type 2 diabetes by maintaining a healthy weight, being physically active, and stopping smoking. You may be able to prevent type 2 diabetes by maintaining a healthy weight and being physically active.
+----------------------------------------------------------------------------------------------------
+
+RANK: 7
+CHUNK ID: aa79bac0938e16e8647f1ccec055fa0ee53242598296cab2831e9428af455355
+SCORE: 19.561986
+RETRIEVER: bm25
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Pharmacological and Surgical Interventions', 'Disentangling Glucose-Lowering Effects Alone From Primary Prevention']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+One meta-analysis pooled data across six of these large wash-out studies, including DPP, and reported that the prevention effect was no longer significant after discontinuing the medications (relative risk 0.95, 95% CI 0.79–1.14) (113). By contrast, trials of semaglutide demonstrated reductions in insulin resistance, which were mediated primarily by weight loss (114). The STEP-10 trial found that 81% of participants taking semaglutide reverted to normoglycemia after 52 weeks of treatment, but this proportion decreased to 44% after participants discontinued the medication for 28 weeks (102). These data suggest that a potential type 2 diabetes prevention effect may remain after discontinuing semaglutide, depending on the duration of weight loss maintenance. The bariatric surgery literature also reports long-term remission of type 2 diabetes with sustained weight loss that is comparable to findings after treatment with semaglutide and tirzepatide (115,116). Because prior research has demonstrated that weight loss can improve insulin sensitivity and may be protective of ß-cell function, it is possible that these medications will have a more durable impact on altering the underlying pathophysiology of prediabetes and type 2 diabetes development.
+----------------------------------------------------------------------------------------------------
+
+RANK: 8
+CHUNK ID: 85f24c893a0dd2c630cbeac55b9c2729729726acccb07b75a2696ed93883ac1e
+SCORE: 19.244030
+RETRIEVER: bm25
+DOCUMENT: dia_kidney_disease
+VERSION: 8b568e01046798eb29071e3b03f5023d2c486e2ed852afcce313c752e5a2b27a
+LANGUAGE: en
+SECTION: ['Kidney Disease and Diabetes', 'Risk Factors for Diabetes-Related Kidney Disease', 'Lipids']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK609462/
+
+FULL TEXT:
+Dyslipidemia may contribute to onset and progression of DKD through mechanisms similar to those responsible for arterial atherogenesis (398,415,416). Hypercholesterolemia may impair the kidney’s hemodynamic responses and tubular function by decreasing nitric oxide production and/or increasing superoxide activity in the kidney (417,418,419,420,421), with resulting antidiuretic and antinatriuretic effects (422). Although not directly affecting GFR, these actions may play a role in the development of systemic hypertension associated with diabetes (422). Oxidized LDL and free fatty acids can cause structural and functional damage to podocytes by inducing mitochondrial dysfunction and accumulation of reactive oxygen species (423), suggesting a direct causal role in the development and progression of proteinuria. Experimental rodent models of type 1 and type 2 diabetes indicate that down-regulation of glomerular ATP-binding cassette transporter (ABCA1) expression can lead to excessive cholesterol accumulation in podocytes (424,425). Under normal conditions, ABCA1 mediates the efflux of cholesterol to lipid-poor apolipoproteins (primarily Apo A1) to form HDLs. This mechanism has also been demonstrated in glomerular transcripts from persons with DKD when compared with living normal controls (426,427). Nevertheless, a definitive role for dyslipidemia in the development and progression of DKD in humans remains to be established.
+----------------------------------------------------------------------------------------------------
+
+RANK: 9
+CHUNK ID: 3ba5f40725852f7b4165966215647defee9e5d92839130fe7df1f6ee538faa0f
+SCORE: 18.740749
+RETRIEVER: bm25
+DOCUMENT: dia_kidney_disease
+VERSION: 8b568e01046798eb29071e3b03f5023d2c486e2ed852afcce313c752e5a2b27a
+LANGUAGE: en
+SECTION: ['Kidney Disease and Diabetes', 'Pathophysiology and Clinical Course', 'Morphometry']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK609462/
+
+FULL TEXT:
+Podocyte injury appears to play an essential role in the progression of DKD. The podocyte, with its extended foot processes, provides structural support for the glomerular capillaries, as well as hydraulic resistance, and prevents the escape of proteins into the urinary space (123). With glomerular hypertrophy, the podocytes, which have a limited proliferative potential (124,125,126,127), stretch their foot processes more broadly to maintain coverage of the expanded glomerular basement membrane, a compensatory mechanism believed to influence their functional integrity (128). In addition, glomerular endothelial cell dysfunction, which precedes podocyte injury (121), appears to contribute to the latter through several mechanisms, including protein overload and toxicity at the podocyte level due to saturation of clearance mechanisms (129), increased shear stress (110), decreased endothelial nitric oxide synthase (eNOS) expression and activity (130,131), and production of cytokines, proteoglycans, and growth factors (113). Podocytes are known to absorb excess albumin arriving in the surrounding urinary space, and this increased workload may initiate inflammatory signaling and contribute to changes in podocyte-associated molecules and foot process effacement (132,133). Sustained mechanical stress and glomerular hypertension may ultimately lead to podocyte detachment and loss in the urine, leaving areas of bare glomerular basement membrane that further enhance loss of protein (Figure 7) (115). These denuded areas may initiate glomerular-tubular junction abnormalities and focal or global glomerular sclerosis (134). In persons with either type 1 (135) or type 2 (115,136) diabetes, podocyte changes may occur even before the increase in ACR, suggesting that diabetes itself may induce podocyte alterations. In a study of persons with type 2 diabetes, moderate albuminuria was associated with 20% and severe albuminuria with 40% podocyte loss relative to normal albuminuria (128). Moreover, individuals with moderate albuminuria had a 35% decline in the number of podocytes per glomerulus, and one-half of them progressed to severe albuminuria during 4 years of follow-up (81).
+----------------------------------------------------------------------------------------------------
+
+RANK: 10
+CHUNK ID: 605fb76dbb24467784a047f1c8448a574b06357545653f03ed23bc36873bbd8c
+SCORE: 18.329227
+RETRIEVER: bm25
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Risk Factors for the Development of Heart Disease in People With Diabetes', 'Metabolic Risk Factors', 'Lipids and Lipoproteins']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Type 2 diabetes and insulin resistance are associated with abnormalities in circulating lipids, including elevated triglycerides and small, dense LDL particles, as well as low concentrations of HDL-C (61). These abnormalities in circulating concentrations of lipids often precede the diagnosis of type 2 diabetes (62,63,64,65). For a given concentration of LDL-C, the lipoprotein particles tend to be smaller and denser in patients with type 2 diabetes than in patients without diabetes (66). Patients with type 2 diabetes tend to have higher triglyceride and lower HDL-C concentrations than patients without diabetes, and until recently, there has been disagreement as to whether triglycerides or HDL-C play a causal role in the development of ASCVD. Large observational studies have noted an association between triglyceride concentrations and cardiovascular events. In a comparison of individuals in the top third with those in the bottom third of usual log-triglyceride values, the adjusted odds ratio (OR) for CHD was 1.57 (95% CI 1.10–2.24) in the EPIC-Norfolk study and 1.76 (95% CI 1.39–2.21) in the Reykjavik study (67). However, the prevalence of diabetes at baseline in the two cohorts was low (2% and 3%, respectively). After adjusting for baseline values of established risk factors, including a history of diabetes, the strength of these associations was attenuated but remained statistically significant. Mendelian randomization studies are consistent with the hypothesis, but do not prove, that triglycerides or triglyceride-rich remnant lipoprotein particles cause atherosclerosis, even when accounting for LDL-C concentrations (68,69). As discussed in detail below, therapies to lower LDL-C concentrations have demonstrated important reductions in major adverse cardiovascular event (MACE) rates. Therapies directed at improving HDL-C and triglyceride concentrations have had more mixed success.
+----------------------------------------------------------------------------------------------------
+
+RANK: 11
+CHUNK ID: c4a6714f1ef1d80c53bb39dd5aafe87cfdd0a89454a02355a56ae51e5225f37e
+SCORE: 18.323599
+RETRIEVER: bm25
+DOCUMENT: niddk_diabetes_medicines
+VERSION: 14e68c15b7b6343113b74563706b581f4d681b6f56f28657895683c13e7c9ac6
+LANGUAGE: en
+SECTION: ['Insulin, Medicines, & Other Diabetes Treatments', 'Do I have other treatment options for my diabetes?', 'Weight-loss surgery']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/insulin-medicines-treatments
+
+FULL TEXT:
+Weight-loss surgery are operations that help you lose weight by making changes to your digestive system. Weight-loss surgery is also called bariatric or metabolic surgery. This type of surgery may help some people who have obesity and type 2 diabetes lose a large amount of weight and bring their blood glucose levels back to a healthy range. How long the improved response lasts can vary by patient, type of weight-loss surgery, and the amount of weight the person lost. Other factors include how long a person had diabetes and whether the person used insulin. Some people with type 2 diabetes may no longer need to use diabetes medicines after weight-loss surgery.4 Researchers are studying whether weight-loss surgery can help control blood glucose levels in people with type 1 diabetes who have obesity.5
+----------------------------------------------------------------------------------------------------
+
+RANK: 12
+CHUNK ID: 0dccc2ebe2e77d37d5e05c5b22547f4a125b0e65a180279c882916e9fbff0754
+SCORE: 18.282947
+RETRIEVER: bm25
+DOCUMENT: niddk_t2dm_overview
+VERSION: 3465d2365ab3fdd91b1c87d3b9b4a36073bf2a538dc422e38ee9022450fa7ce4
+LANGUAGE: en
+SECTION: ['Type 2 Diabetes', 'What is type 2 diabetes?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes
+
+FULL TEXT:
+Type 2 diabetes, the most common type of diabetes, is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes mainly from the food you eat. Insulin, a hormone made by the pancreas, helps glucose get into your cells to be used for energy. In type 2 diabetes, your body doesn’t make enough insulin or doesn’t use insulin well. Too much glucose then stays in your blood, and not enough reaches your cells. The good news is that you can take steps to prevent or delay the development of type 2 diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 13
+CHUNK ID: 66a8957f138f3fbcd29238382b53a4661323755a84de0121ca62f147c83cd0b3
+SCORE: 17.943306
+RETRIEVER: bm25
+DOCUMENT: dia_kidney_disease
+VERSION: 8b568e01046798eb29071e3b03f5023d2c486e2ed852afcce313c752e5a2b27a
+LANGUAGE: en
+SECTION: ['Kidney Disease and Diabetes', 'Introduction']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK609462/
+
+FULL TEXT:
+Important progress has been made since Diabetes in America, 3rd edition, was published in understanding the course and determinants of diabetes-related kidney disease (DKD) and its treatment (1). A new equation was developed for estimating glomerular filtration rate (GFR) that does not include a race term (2,3). Our understanding of glomerular hemodynamics and how it affects DKD progression has evolved (4,5). The management of DKD in type 2 diabetes was revolutionized by new medication classes, including sodium-glucose cotransporter-2 (SGLT2) inhibitors and glucagon-like peptide-1 (GLP-1) receptor agonists (RAs), and newer mineralocorticoid receptor antagonists (MRAs), which are effective at slowing kidney disease progression in diabetes (6,7,8,9). Newly updated guidelines were published that considered these findings, as well as emerging data on the role of multidisciplinary approaches in the management of DKD (10). Nevertheless, kidney disease remains a major cause of morbidity and mortality in persons with diabetes, as indicated by the dramatic increase in the number of persons receiving renal replacement therapy since the 1980s. Increased availability of dialysis and transplant and the rising prevalence of diabetes are primarily responsible for this trend. For 2022, approximately 25% of U.S. health expenditures, or $503.4 billion, were incurred by people with diabetes; 32% of the diabetes cost was attributable to associated chronic kidney disease (CKD) (11). Because kidney disease in diabetes is strongly associated with cardiovascular disease (CVD) and the development of kidney failure, the combined cost incurred by CKD and diabetes is associated with a greater percentage of the Medicare budget than that associated with congestive heart failure, another common and costly condition (12).
+----------------------------------------------------------------------------------------------------
+
+RANK: 14
+CHUNK ID: 7993eac98c16bd074958fb36abe0c8e836b4e71c4e08925d2535edb045317374
+SCORE: 17.767564
+RETRIEVER: bm25
+DOCUMENT: dia_kidney_disease
+VERSION: 8b568e01046798eb29071e3b03f5023d2c486e2ed852afcce313c752e5a2b27a
+LANGUAGE: en
+SECTION: ['Kidney Disease and Diabetes', 'Treatment of Diabetes-Related Kidney Disease', 'Endothelin Receptor Antagonists']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK609462/
+
+FULL TEXT:
+Inappropriate endothelin receptor activation is thought to contribute to CKD. Endothelin receptor antagonists (ERA) primarily target the ETA receptor and have demonstrated kidney-protective effects. The ERA atrasentan attenuated progression of DKD in adults with type 2 diabetes in the Study of Diabetic Nephropathy with Atrasentan (SONAR) trial (596). Unlike SGLT2 inhibitors, ERAs increase sodium and fluid retention, resulting in edema and increased risk of developing heart failure (597,598). This effect has limited the development and widespread use of agents in this class, especially in people who are predisposed to volume overload, including individuals with DKD. Indeed, a large randomized controlled trial in patients with type 2 diabetes and DKD using a relatively nonselective ERA avosentan was terminated early due to increased rates of heart failure (597). Additionally, a higher rate (3.5% vs. 2.6%) of heart failure hospitalization with atrasentan was observed in the SONAR trial despite the use of diuretics and exclusion of patients with heart failure or high B-type natriuretic peptide (BNP) concentrations (596). Accordingly, while ERAs hold promise as a therapy for DKD, it is unclear whether benefits would outweigh risks, and ERAs are likely best used in combination with a natriuretic or diuretic agent, such as an SGLT2 inhibitor. No ERA trial data in persons with type 1 diabetes are available as of July 2024.
+----------------------------------------------------------------------------------------------------
+
+RANK: 15
+CHUNK ID: fd92ce25ef1de9b3eb22440ec4fbada9380b963ee78b13af150f982bf0dfdca1
+SCORE: 17.754176
+RETRIEVER: bm25
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Scope and Limitations of Individual Interventions to Prevent Type 2 Diabetes']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+Individual-level interventions with efficacy to slow biological progression to type 2 diabetes include surgical, pharmacological, and behavioral interventions that operate through a variety of mechanisms to slow the pathophysiologic progression of insulin resistance or insufficient insulin secretion leading to type 2 diabetes. Surgical procedures bring about anatomic changes that reduce gastric capacity or bypass a portion of the small intestine to reduce appetite, increase satiety, and reduce calorie absorption, all of which produce significant weight loss that improves insulin sensitivity and reduces demand on β-cells to hyper-secrete insulin in order to maintain glucose homeostasis (36,37). These procedures also alter gut hormone signals that have direct effects on increasing insulin secretion even before weight loss ensues (38). Some metabolic medications stimulate acute improvements in insulin secretion or sensitivity while the drug remains bioavailable, and others suppress appetite and increase satiety, leading to lower caloric intake and weight loss sufficient to improve both insulin sensitivity and secretion. Behavioral interventions provide education, behavioral skills training, and recurring motivational, coping, and problem-solving support delivered through professionals (i.e., coaches) or technology to enable and sustain efforts to reduce dietary calories, increase physical activities, and lose weight (39). Physical activity also directly increases skeletal muscle glucose uptake acutely during exercise and stimulates subacute improvements in insulin sensitivity for up to 72 hours afterwards (40). Weight loss achieved through any of these modalities is associated with reductions in visceral ectopic fat, accompanied by lasting improvements in insulin sensitivity and signaling so long as the weight loss is maintained. Maintaining weight loss is a challenge with all interventions, and weight regain increases sharply when metabolic medications or behavioral intervention support is stopped. There is strong evidence from rigorous, randomized controlled trials that offering interventions with these properties to groups of high-risk individuals without type 2 diabetes, who already have signs of insulin resistance, can reduce the proportion of them who experience future progression to type 2 diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 16
+CHUNK ID: 859846c55ef617545adf8ef311a2b324561527679694126c077e85efd4e1e5cc
+SCORE: 17.497749
+RETRIEVER: bm25
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Introduction']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Although coronary heart disease (CHD) is the major cause of morbidity and mortality in patients with type 2 diabetes, historically the diabetes-CHD association received little systematic study, even after the publication of Kelly West’s monumental book Epidemiology of Diabetes Mellitus and Its Vascular Lesions (1) and the development of standard World Health Organization (WHO) (2) and National Diabetes Data Group (3) criteria for the definition of diabetes in the 1980s. According to the Centers for Disease Control and Prevention (CDC) (4), the proportion of diabetes in the United States that is type 1 is 5%–10%, while type 2 diabetes accounts for 90%–95%. The epidemiology and etiology of type 1 (insulin-dependent) diabetes are described elsewhere (5). Aside from the Diabetes Control and Complications Trial (DCCT), there is a relative paucity of trials with cardiovascular outcomes in people with type 1 diabetes. Although longstanding type 1 diabetes carries a cardiovascular disease (CVD) mortality risk similar to type 2 diabetes (6), type 2 diabetes is the primary focus of the analyses herein, based on papers reporting diabetes defined by elevated fasting plasma glucose (FPG) values or diabetes by history. The literature on diabetes and CVD, particularly from studies reporting the results from cardiovascular outcome trials (CVOTs) of newer glucose-lowering agents, has increased exponentially since Diabetes in America, 3rd edition, was published in 2018 (7,8). Here, each section usually starts with a review of the evidence and, whenever possible, concludes showing a large systematic review or meta-analysis that addresses each topic. In order to improve generalizability and statistical power, no attempt was made to exclude prospective studies done outside the United States that were included in these meta-analyses. Diabetes is clearly an established risk factor for CHD (9,10), but how much its effect varies by age, sex, country, or levels of conventional risk factors for CHD remains unresolved (11).
+----------------------------------------------------------------------------------------------------
+
+RANK: 17
+CHUNK ID: d1d08bc280cd68b6842a5ab9d032558fca0edefa9a25393ccb5d96e0000c0ce2
+SCORE: 17.364939
+RETRIEVER: bm25
+DOCUMENT: niddk_diabetes_medicines
+VERSION: 14e68c15b7b6343113b74563706b581f4d681b6f56f28657895683c13e7c9ac6
+LANGUAGE: en
+SECTION: ['Insulin, Medicines, & Other Diabetes Treatments', 'What are the different types of insulin?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/insulin-medicines-treatments
+
+FULL TEXT:
+Several types of insulin are available. Each type starts to work at a different speed, known as “onset,” and its effects last a different length of time, known as “duration.” Most types of insulin reach a peak, which is when they have the strongest effect. After the peak, the effects of the insulin wear off over the next few hours or so. Table 1 lists the different types of insulin, how fast they start to work, when they peak, and how long they last. Table 1. Types of insulin and how they work1,2
+----------------------------------------------------------------------------------------------------
+
+RANK: 18
+CHUNK ID: 7efc8365509bcd4ad102486a8a7e28b4c9715931358afe46c5c5e54845bc60bc
+SCORE: 17.328611
+RETRIEVER: bm25
+DOCUMENT: niddk_t2dm_overview
+VERSION: 3465d2365ab3fdd91b1c87d3b9b4a36073bf2a538dc422e38ee9022450fa7ce4
+LANGUAGE: en
+SECTION: ['Type 2 Diabetes', 'What causes type 2 diabetes?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes
+
+FULL TEXT:
+Type 2 diabetes is caused by several factors, including overweight and obesity not being physically active insulin resistance genes Learn more about the causes of type 2 diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 19
+CHUNK ID: 19f9a6b2e50c7e3691e6e663cff66deb77ddca6a7f6cf94e3bb4adddab6379ab
+SCORE: 17.276007
+RETRIEVER: bm25
+DOCUMENT: dia_kidney_disease
+VERSION: 8b568e01046798eb29071e3b03f5023d2c486e2ed852afcce313c752e5a2b27a
+LANGUAGE: en
+SECTION: ['Kidney Disease and Diabetes', 'Elevated Albuminuria', 'Prevalence of Elevated Albuminuria']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK609462/
+
+FULL TEXT:
+By design, the NHANES does not differentiate the type of diabetes, and results in the adult population with self-reported diabetes largely reflect the experience of persons with type 2 diabetes. In a new analysis of NHANES 2011–2020 data conducted for Diabetes in America, the prevalence of DKD by type of diabetes was estimated using a published algorithm (224) to define persons with type 1 diabetes (Table 6). Results showed a higher prevalence of DKD in those with type 2 diabetes than in those with type 1 diabetes, regardless of sex or race and ethnicity. For both type 1 and type 2 diabetes, DKD prevalence was higher with age and was higher in non-Hispanic Black than in non-Hispanic White persons. DKD was also more frequent in persons with hypertension or CVD, regardless of type of diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 20
+CHUNK ID: 0dc59cdda3aeac70561c242bff6bef6f17f2dbe6921fcfae862d94f8c6da43fc
+SCORE: 17.272837
+RETRIEVER: bm25
+DOCUMENT: niddk_healthy_living
+VERSION: 05ba1d70ccb2f74167c144cada6d7f010803f5f141dba38cc00afa75284d417d
+LANGUAGE: en
+SECTION: ['Healthy Living with Diabetes', 'How can physical activity help manage my diabetes?', 'Stay safe during physical activity', 'Avoid high blood glucose and ketoacidosis']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes
+
+FULL TEXT:
+Taking less insulin before physical activity may help prevent low blood glucose, but it may also make you more likely to have high blood glucose. If your body does not have enough insulin, it can’t use glucose as a source of energy and will use fat instead. When your body uses fat for energy, your body makes chemicals called ketones. High levels of ketones in your blood can lead to a condition called diabetic ketoacidosis (DKA). DKA is a medical emergency that should be treated right away. DKA is most common in people with type 1 diabetes. Occasionally, DKA may affect people with type 2 diabetes who have lost their ability to produce insulin. Ask your health care professional how much insulin you should take before physical activity, whether you need to test your urine for ketones, and what level of ketones is dangerous for you.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+BGE-M3 TOP-20 | TOTAL: 20
+====================================================================================================
+
+RANK: 1
+CHUNK ID: 1e014209ad4a166d1f2d836ad686e434ea12ab1759b976e2a5099e689e49fe7a
+SCORE: 0.728605
+RETRIEVER: dense
+DOCUMENT: niddk_t2dm_symptoms_causes
+VERSION: 4d37f4386a4a9863d08e0c237fea737b28058b15cb016843e13bb80ee4f8207e
+LANGUAGE: en
+SECTION: ['Symptoms & Causes of Diabetes', 'What causes type 2 diabetes?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/symptoms-causes
+
+FULL TEXT:
+Type 2 diabetes is the most common form of diabetes. Type 2 diabetes develops when your pancreas doesn’t produce enough insulin, and your body has trouble using insulin, a condition called insulin resistance. Insulin resistance is when the cells in your muscles, fat, and liver don’t respond well to insulin. When there isn’t enough insulin to balance blood glucose levels, they begin to rise. When blood glucose levels are higher than normal but not high enough to be diagnosed as type 2 diabetes, you have a condition called prediabetes. You have type 2 diabetes when health care professionals diagnose your blood glucose level as being too high. Researchers don’t fully know what causes problems with insulin production and insulin resistance in type 2 diabetes. However, people are more likely to develop type 2 diabetes if they have overweight, obesity, or a large waist size. are age 35 or older. Children and teens can also develop type 2 diabetes, but the risk increases as a person gets older. have a family history of type 2 diabetes. are African American, American Indian, Asian American, Hispanic, Latino, or Pacific Islander. are not physically active, because of a job that requires sitting for long periods of time or because of difficulty moving their body. smoke, including tobacco products and e-cigarettes, or are exposed to secondhand smoke. have prediabetes. have a history of gestational diabetes, a type of diabetes that develops during pregnancy, or gave birth to a baby weighing 9 pounds or more. You can’t change some of these risk factors, such as your age, family history, or race. However, you may be able to change some risk factors and prevent or delay type 2 diabetes by maintaining a healthy weight, being physically active, and stopping smoking. You may be able to prevent type 2 diabetes by maintaining a healthy weight and being physically active.
+----------------------------------------------------------------------------------------------------
+
+RANK: 2
+CHUNK ID: 7efc8365509bcd4ad102486a8a7e28b4c9715931358afe46c5c5e54845bc60bc
+SCORE: 0.646830
+RETRIEVER: dense
+DOCUMENT: niddk_t2dm_overview
+VERSION: 3465d2365ab3fdd91b1c87d3b9b4a36073bf2a538dc422e38ee9022450fa7ce4
+LANGUAGE: en
+SECTION: ['Type 2 Diabetes', 'What causes type 2 diabetes?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes
+
+FULL TEXT:
+Type 2 diabetes is caused by several factors, including overweight and obesity not being physically active insulin resistance genes Learn more about the causes of type 2 diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 3
+CHUNK ID: 0dccc2ebe2e77d37d5e05c5b22547f4a125b0e65a180279c882916e9fbff0754
+SCORE: 0.634707
+RETRIEVER: dense
+DOCUMENT: niddk_t2dm_overview
+VERSION: 3465d2365ab3fdd91b1c87d3b9b4a36073bf2a538dc422e38ee9022450fa7ce4
+LANGUAGE: en
+SECTION: ['Type 2 Diabetes', 'What is type 2 diabetes?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes
+
+FULL TEXT:
+Type 2 diabetes, the most common type of diabetes, is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes mainly from the food you eat. Insulin, a hormone made by the pancreas, helps glucose get into your cells to be used for energy. In type 2 diabetes, your body doesn’t make enough insulin or doesn’t use insulin well. Too much glucose then stays in your blood, and not enough reaches your cells. The good news is that you can take steps to prevent or delay the development of type 2 diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 4
+CHUNK ID: 19fd678ec4d9576e16d8a9ec2edca1a401a5c2b88750d7e67efc82de946bbaf8
+SCORE: 0.633325
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 2: CHẨN ĐOÁN VÀ PHÂN LOẠI ĐÁI THÁO ĐƯỜNG', '2.2. Đái tháo đường típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+2.2. Đái tháo đường típ 2 Đái tháo đường típ 2 trước kia được gọi là ĐTĐ của người lớn tuổi hay ĐTĐ không phụ thuộc insulin, chiếm 90-95% các trường hợp ĐTĐ. Thể bệnh này bao gồm những người có thiếu insulin tương đối cùng với đề kháng insulin. Ít nhất ở giai đoạn đầu hoặc có khi suốt cuộc sống BN ĐTĐ típ 2 không cần insulin để sống sót. Có nhiều nguyên nhân của ĐTĐ típ 2 nhưng không có một nguyên nhân chuyên biệt nào. BN không có sự phá hủy tế bào beta do tự miễn, không có kháng thể tự miễn trong máu. Đa số BN có béo phì hoặc thừa cân và/hoặc béo phì vùng bụng với vòng eo to. Béo phì nhất là béo phì vùng bụng có liên quan với tăng acid béo trong máu, mô mỡ cũng tiết ra một số hormon làm giảm tác dụng của insulin ở các cơ quan đích như gan, tế bào mỡ, tế bào cơ (đề kháng insulin tại các cơ quan đích). Do tình trạng đề kháng insulin, ở giai đoạn đầu tế bào beta bù trừ và tăng tiết insulin trong máu, nếu tình trạng đề kháng insulin kéo dài hoặc nặng dần, tế bào beta sẽ không tiết đủ insulin và ĐTĐ típ 2 lâm sàng sẽ xuất hiện. Tình trạng đề kháng insulin có thể cải thiện khi giảm cân, hoặc dùng một số thuốc nhưng không bao giờ hoàn toàn trở lại bình thường.
+----------------------------------------------------------------------------------------------------
+
+RANK: 5
+CHUNK ID: 35907d53fce9bf3c2fe0058dbcb3de7af5dd9e899e6aed6b918ce794440727cd
+SCORE: 0.629929
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Historical Clues for Identifying and Modifying Risk for Type 2 Diabetes']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+Epidemiologic research during the past century showed that family history, middle age, centripetal obesity, physical inactivity, and poverty all are associated with increased risk for developing type 2 diabetes (3). Serial cross-sectional studies showed striking shifts in the population prevalence of diabetes and obesity (2,17), suggesting that something causative was increasing in the environment and driving susceptible individuals to develop type 2 diabetes more often (18) and that obesity was either an intermediate state or parallel outcome of that process. It also was apparent that genes, aging, dietary composition, physical activity, visceral fat accumulation, and environmental conditions were critical to understanding the pathophysiology and prevention of type 2 diabetes. Observations from the treatment of type 2 diabetes held important clues for its prevention. Low calorie diets have been useful in the clinical management of type 2 diabetes for hundreds of years, improving glucose control and reducing the need for glucose-lowering medications (19). Physical activity not only lowers blood glucose acutely but also amplifies the effects of insulin treatment on blood glucose control for up to 72 hours, suggesting that exercise somehow restores, albeit temporarily, some of the lost sensitivity to insulin (20,21). Finally, weight loss achieved through behavioral changes, medications, and metabolic bariatric surgery has significant effects on insulin sensitivity and secretion, so long as weight loss is maintained (22). Observations such as these, dating back many decades, catalyzed a new era of experimental diabetes prevention research beginning in about the 1990s, which now serves as the foundation for the evidence reviewed by this article.
+----------------------------------------------------------------------------------------------------
+
+RANK: 6
+CHUNK ID: 87285a38f8ac7c11b23c20d031017d5d2866d608796eaf8359c27f736e65d9a8
+SCORE: 0.626820
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Development of Type 2 Diabetes']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+All individuals with type 2 diabetes have acquired defects in both insulin action and secretion. Even when insulin is present, cells are insensitive to its normal effects. This insulin “resistance” begins and typically progresses over months to years before diabetes is diagnosed (10). Pancreatic β-cells compensate by producing additional insulin to overcome this resistance, stimulating cells to remove rather than produce glucose, and restoring blood glucose to normal physiological levels (11). This compensatory response eventually becomes insufficient, resulting in severe and prolonged elevation of blood glucose after a meal. Hepatic glucose production also persists unrestrained, and hepatic glucose uptake and storage become insufficient to return blood glucose back to normal even many hours after a meal. When these deficits become severe enough, glucose levels rise above the thresholds for a diabetes diagnosis. The American Diabetes Association (ADA) currently defines diabetes based on the results of any one of three different diagnostic tests: plasma glucose after an 8–14-hour overnight fast (i.e., fasting plasma glucose [FPG]) ≥126 mg/dL (≥7.0 mmol/L), plasma glucose measured 2 hours after oral ingestion of a 75 g glucose solution (i.e., 2-hour plasma glucose) ≥200 mg/dL (≥11.1 mmol/L), or glycated hemoglobin (A1C; a test of the level of glycation of the red blood cell protein hemoglobin) ≥6.5% (≥48 mmol/mol) (12). Management goals for people with blood glucose meeting or exceeding these thresholds focus on monitoring and lowering blood glucose (often with one or more medications), intensifying the medication management of other atherosclerotic disease risk factors, and monitoring and promptly treating microvascular and neuropathic complications (6,13). Individuals who initiate treatment for type 2 diabetes are less likely to suffer acute or long-term complications of persisting hyperglycemia (14), but they also encounter additional cognitive, emotional, and physical burden resulting from diabetes self-management tasks and behaviors and may experience direct harms of treatment (e.g., medication side effects or hypoglycemia). Healthcare use also becomes more frequent, complex, and costly.
+----------------------------------------------------------------------------------------------------
+
+RANK: 7
+CHUNK ID: fd92ce25ef1de9b3eb22440ec4fbada9380b963ee78b13af150f982bf0dfdca1
+SCORE: 0.625445
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Scope and Limitations of Individual Interventions to Prevent Type 2 Diabetes']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+Individual-level interventions with efficacy to slow biological progression to type 2 diabetes include surgical, pharmacological, and behavioral interventions that operate through a variety of mechanisms to slow the pathophysiologic progression of insulin resistance or insufficient insulin secretion leading to type 2 diabetes. Surgical procedures bring about anatomic changes that reduce gastric capacity or bypass a portion of the small intestine to reduce appetite, increase satiety, and reduce calorie absorption, all of which produce significant weight loss that improves insulin sensitivity and reduces demand on β-cells to hyper-secrete insulin in order to maintain glucose homeostasis (36,37). These procedures also alter gut hormone signals that have direct effects on increasing insulin secretion even before weight loss ensues (38). Some metabolic medications stimulate acute improvements in insulin secretion or sensitivity while the drug remains bioavailable, and others suppress appetite and increase satiety, leading to lower caloric intake and weight loss sufficient to improve both insulin sensitivity and secretion. Behavioral interventions provide education, behavioral skills training, and recurring motivational, coping, and problem-solving support delivered through professionals (i.e., coaches) or technology to enable and sustain efforts to reduce dietary calories, increase physical activities, and lose weight (39). Physical activity also directly increases skeletal muscle glucose uptake acutely during exercise and stimulates subacute improvements in insulin sensitivity for up to 72 hours afterwards (40). Weight loss achieved through any of these modalities is associated with reductions in visceral ectopic fat, accompanied by lasting improvements in insulin sensitivity and signaling so long as the weight loss is maintained. Maintaining weight loss is a challenge with all interventions, and weight regain increases sharply when metabolic medications or behavioral intervention support is stopped. There is strong evidence from rigorous, randomized controlled trials that offering interventions with these properties to groups of high-risk individuals without type 2 diabetes, who already have signs of insulin resistance, can reduce the proportion of them who experience future progression to type 2 diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 8
+CHUNK ID: 605fb76dbb24467784a047f1c8448a574b06357545653f03ed23bc36873bbd8c
+SCORE: 0.612585
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Risk Factors for the Development of Heart Disease in People With Diabetes', 'Metabolic Risk Factors', 'Lipids and Lipoproteins']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Type 2 diabetes and insulin resistance are associated with abnormalities in circulating lipids, including elevated triglycerides and small, dense LDL particles, as well as low concentrations of HDL-C (61). These abnormalities in circulating concentrations of lipids often precede the diagnosis of type 2 diabetes (62,63,64,65). For a given concentration of LDL-C, the lipoprotein particles tend to be smaller and denser in patients with type 2 diabetes than in patients without diabetes (66). Patients with type 2 diabetes tend to have higher triglyceride and lower HDL-C concentrations than patients without diabetes, and until recently, there has been disagreement as to whether triglycerides or HDL-C play a causal role in the development of ASCVD. Large observational studies have noted an association between triglyceride concentrations and cardiovascular events. In a comparison of individuals in the top third with those in the bottom third of usual log-triglyceride values, the adjusted odds ratio (OR) for CHD was 1.57 (95% CI 1.10–2.24) in the EPIC-Norfolk study and 1.76 (95% CI 1.39–2.21) in the Reykjavik study (67). However, the prevalence of diabetes at baseline in the two cohorts was low (2% and 3%, respectively). After adjusting for baseline values of established risk factors, including a history of diabetes, the strength of these associations was attenuated but remained statistically significant. Mendelian randomization studies are consistent with the hypothesis, but do not prove, that triglycerides or triglyceride-rich remnant lipoprotein particles cause atherosclerosis, even when accounting for LDL-C concentrations (68,69). As discussed in detail below, therapies to lower LDL-C concentrations have demonstrated important reductions in major adverse cardiovascular event (MACE) rates. Therapies directed at improving HDL-C and triglyceride concentrations have had more mixed success.
+----------------------------------------------------------------------------------------------------
+
+RANK: 9
+CHUNK ID: fb8223e7919df022a175344fdf1c70bd3d87356c4b8098f9cf31e675352492d7
+SCORE: 0.605606
+RETRIEVER: dense
+DOCUMENT: niddk_t2dm_symptoms_causes
+VERSION: 4d37f4386a4a9863d08e0c237fea737b28058b15cb016843e13bb80ee4f8207e
+LANGUAGE: en
+SECTION: ['Symptoms & Causes of Diabetes', 'What else can cause diabetes?', 'Endocrine diseases']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/symptoms-causes
+
+FULL TEXT:
+Some endocrine diseases make the body produce too much of certain hormones. High levels of these hormones may cause insulin resistance or diabetes. Endocrine diseases that may cause insulin resistance or diabetes include Cushing’s syndrome, which can cause the body to produce too much cortisol—often called the “stress hormone” acromegaly, which can cause the body to produce too much growth hormone hyperthyroidism, which can cause the body to produce too much thyroid hormone hypothyroidism, which can cause the body to produce too little thyroid hormone
+----------------------------------------------------------------------------------------------------
+
+RANK: 10
+CHUNK ID: 048210089bb779ebbd704af8cbe3cce0c8658498d95e96430879b4cb38764156
+SCORE: 0.597966
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'A Population Problem With No Imminent Population-Wide Solution']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+For example, multiple chemicals used as pesticides, in manufacturing, or in food processing have been associated with diabetes and other metabolic impairments in animal studies (30,31). Poverty also has strong effects on type 2 diabetes progression, and one landmark randomized trial even demonstrated that providing housing vouchers that enabled low-income women and children to move to a lower-poverty neighborhood reduced obesity and incident diabetes over 12 years (32). Despite the importance and promise of population-wide strategies for type 2 diabetes primary prevention, existing science regarding the environmental causes of type 2 diabetes remains incomplete, and there has been limited public and political will to support or sustain population-wide interventions with strong promise for preventing obesity and type 2 diabetes (25,33,34,35). These barriers currently make the available evidence for population-wide approaches less actionable, and the remainder of our article focuses on evidence for interventions targeting high-risk individuals and how they are being implemented.
+----------------------------------------------------------------------------------------------------
+
+RANK: 11
+CHUNK ID: 34c94bf6a14994afe2c581d78794defa640f39daa52f5f304dad053c354988fb
+SCORE: 0.597319
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Summary']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+Type 2 diabetes is a progressive condition that can lead to multiple organ damage, disability, and premature death. Prediabetes, a high-risk state marked by elevated blood glucose levels below the diagnostic threshold for type 2 diabetes, currently affects 98 million U.S. adults. Individual-level interventions, including intensive lifestyle programs and select medications, have proven effective in delaying or preventing the progression from prediabetes to type 2 diabetes. Landmark clinical trials in the 1990s established the efficacy of these treatment approaches, with lifestyle changes demonstrating greater benefits than medications such as metformin, alpha-glucosidase inhibitors, or lipase inhibitors and more favorable safety than thiazolidinediones. These findings catalyzed translational research to enhance the feasibility, acceptability, and sustainability of delivering intensive lifestyle interventions in real-world settings. Adapted interventions remained effective and were found cost-effective, contributing to policies that established the U.S. National Diabetes Prevention Program (NDPP) and reimbursement from public and private payors. The NDPP now exists to expand access to evidence-based lifestyle intervention programs nationwide and has reached nearly 819,000 adults through a nationwide network of almost 1,400 community-based organizations and healthcare partnerships. The Centers for Medicare and Medicaid Services leveraged the NDPP infrastructure to offer Diabetes Prevention Program (DPP)-like intervention services as a covered health benefit for high-risk Medicare beneficiaries. However, despite these remarkable examples of translating research into policy and practice, only a small proportion of U.S. adults living with prediabetes today are aware they are at high risk for type 2 diabetes, and far fewer have knowledge of or have taken part in a DPP-like intervention program. Emerging research highlights the need for innovative strategies to improve engagement, including leveraging technology and tailoring interventions to diverse social and cultural contexts. Although multiple medications have efficacy in type 2 diabetes prevention, none have received U.S.
+----------------------------------------------------------------------------------------------------
+
+RANK: 12
+CHUNK ID: 21dd0becb69cd5fe89f2a06ff6fb2d1c4e28d61f88f7e600cf567f76968f1643
+SCORE: 0.595124
+RETRIEVER: dense
+DOCUMENT: niddk_t2dm_risk_factors
+VERSION: 14d2a0c12fc93337bae599bba579f3c7caa2b127840a07e2a3644ebc5897697f
+LANGUAGE: en
+SECTION: ['Risk Factors for Type 2 Diabetes']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/risk-factors-type-2-diabetes
+
+FULL TEXT:
+Your chances of developing type 2 diabetes depend on a combination of risk factors. Although you can’t change risk factors related to family history, age, race, or ethnicity, you may be able to avoid some risk factors by maintaining a healthy weight and being physically active.1 Read about risk factors for type 2 diabetes below, and see which ones apply to you. Acting on the factors you can change may help delay or prevent type 2 diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 13
+CHUNK ID: d227fd30097ecc613517a8522aa2480c65f41a5574f6b8f561c7a8d2f3cf644c
+SCORE: 0.592630
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Risk Factors for the Development of Heart Disease in People With Diabetes', 'Metabolic Risk Factors', 'Novel Risk Markers', 'Adipokines']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Adipokines, such as leptin, adiponectin, and resistin, are endogenous hormones that are released from adipose tissue and influence several metabolic processes, including insulin sensitivity, endothelial function, and appetite regulation (131). Proinflammatory adipokines promote inflammation and insulin resistance, whereas anti-inflammatory adipokines appear to have a protective role. Adverse levels of adipokines may predict risk of incident type 2 diabetes (132). Studies have identified an association between an adverse adipokine profile with incident diabetes (133) and ASCVD (134,135,136,137,138). Adiponectin, a favorable adipokine, was associated with decreased risk for type 2 diabetes in a large meta-analysis (132), but its association with ASCVD was not as robust (139). Leptin, an unfavorable adipokine, has been associated with increased risk of incident diabetes (140,141); however, the association of leptin with incident CVD has been mixed, with some studies showing increased risk, while other studies found the association to be attenuated after adjusting for BMI (142,143). Currently, adipokine levels are not routinely measured as part of clinical management or risk assessment.
+----------------------------------------------------------------------------------------------------
+
+RANK: 14
+CHUNK ID: 002637c8c71e44849cbac03a6c3503cf13ff49b7be42adb396ac612dd5623ed4
+SCORE: 0.589715
+RETRIEVER: dense
+DOCUMENT: dia_medication_use
+VERSION: e575b390642a5fb768040eb82e6a973eaf31b6e88a1e0e554a1ef861afa8b757
+LANGUAGE: en
+SECTION: ['Medication Use and Self-Care Practices in Persons With Diabetes', 'Type 2 Diabetes in Adults', 'Medication Adherence']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK607283/
+
+FULL TEXT:
+If lifestyle changes fail to achieve the target A1C, individuals with type 2 diabetes will usually need to take medication for the rest of their lives (127). In these cases, medication adherence is important to achieve improved glycemic control, lower weight, lower risk of hypoglycemia, and higher quality of life (128,129,130,131). While nonadherence could lead to higher residual risks of macrovascular and microvascular complications even after intensive glycemic control and increased all-cause mortality, medication adherence results in lower health care utilization and saves costs (132,133,134,135,136,137). For example, adherence to insulin pen therapy is associated with decreased medical costs in privately insured and Medicaid patients with type 2 diabetes (138,139). Medication nonadherence is common in patients with type 2 diabetes. Defining medication adherence as administering ≥80% of the amount of medications prescribed within an observational period (140), the prevalence of medication nonadherence was up to 32% for all oral medications in a meta-analysis and 53% for DPP-4 inhibitors among commercially insured patients (141,142). Nonadherence to insulin therapy is also prevalent, ranging from 20% of patients reporting regular insulin injection omission among internet-surveyed patients to 65% of commercially insured patients with <80% of days covered (143,144). Several factors affect medication adherence. Individuals new to pharmacotherapy are less likely to adhere than experienced users (145). Younger age, lower educational level, and lower income are also associated with medication nonadherence. In addition, the high cost of insulin therapy and newer medication classes is a significant barrier to medication adherence (146,147,148,149). Low health literacy, food insecurity, and other social determinants of health are often not addressed during office visits despite being strongly associated with medication nonadherence (150,151,152,153). In elderly patients who use insulin, the type of device could affect adherence, with adherence improved by use of pen devices compared to insulin vials and syringes (154).
+----------------------------------------------------------------------------------------------------
+
+RANK: 15
+CHUNK ID: 24ca56ad9780f7335326a60d7684654bdf9174a3f4c62a667541655d34b97201
+SCORE: 0.584832
+RETRIEVER: dense
+DOCUMENT: niddk_t2dm_risk_factors
+VERSION: 14d2a0c12fc93337bae599bba579f3c7caa2b127840a07e2a3644ebc5897697f
+LANGUAGE: en
+SECTION: ['Risk Factors for Type 2 Diabetes', 'What are the risk factors for type 2 diabetes?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/risk-factors-type-2-diabetes
+
+FULL TEXT:
+You can develop type 2 diabetes at any age, even during childhood. You are more likely to develop type 2 diabetes if you1 are overweight or have obesity. are age 35 or older. Children and teens can also develop type 2 diabetes, but the risk increases as a person gets older. have a family history of diabetes. are African American, American Indian, Asian American, Hispanic/Latino, or Pacific Islander. are not physically active, because of physical limitations, a sedentary lifestyle, or a job that requires sitting for long periods of time. have prediabetes. have a history of gestational diabetes, a type of diabetes that develops during pregnancy, or gave birth to a baby weighing 9 pounds or more.
+----------------------------------------------------------------------------------------------------
+
+RANK: 16
+CHUNK ID: 72fc797fec675ae0f92907ae304889a3d3bf5448f2d6ec4ef4bec40e2ce7e15c
+SCORE: 0.583146
+RETRIEVER: dense
+DOCUMENT: dia_kidney_disease
+VERSION: 8b568e01046798eb29071e3b03f5023d2c486e2ed852afcce313c752e5a2b27a
+LANGUAGE: en
+SECTION: ['Kidney Disease and Diabetes', 'Elevated Albuminuria']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK609462/
+
+FULL TEXT:
+As noted earlier in this review, urinary albumin excretion is often increased at diagnosis of both types of diabetes but frequently returns to normal with the institution of glycemic control (22,32,33,34). Persistent albuminuria at the onset of type 2 diabetes, however, may reflect diabetes that has remained undiagnosed for years (34) or the presence of kidney disease unrelated to diabetes, since other kidney diseases are common at the ages when type 2 diabetes typically develops. On the other hand, elevated albuminuria is found in persons with impaired glucose tolerance (216,217,218), raising the possibility that hyperglycemia, even at levels below those diagnostic of diabetes, is sometimes associated with kidney abnormalities. Treatment with ACE inhibitors or ARBs at the highest tolerated dose is recommended in individuals with albuminuria, diabetes, and hypertension to slow decline in kidney function. The addition of SGLT2 inhibitors is also recommended in patients with type 2 diabetes, DKD, and an eGFR ≥20 mL/min/1.73 m2. MRAs in addition to ACE/ARBs and SGLT2 inhibitors further reduce albuminuria and kidney disease progression, as discussed in the Treatment of Diabetes-Related Kidney Disease section of this review (10).
+----------------------------------------------------------------------------------------------------
+
+RANK: 17
+CHUNK ID: bd7b1f62d64f191c9dc31b4ca4336f0207b1b10949ebebd067460b8f56b5f822
+SCORE: 0.578912
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Overview of the Goals and Outline for This Article']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+This article focuses on preventing the most common phenotype of type 2 diabetes, which often presents in middle-aged adults with overweight or obesity. Research has described less common phenotypes of type 2 diabetes, including ketosis-prone, maturity-onset diabetes of the young, and latent autoimmune diabetes in adults (4,5). Because these phenotypes of type 2 diabetes are not fully understood, and most type 2 diabetes prevention trials did not distinguish progression to these distinct type 2 diabetes phenotypes, their primary prevention is considered beyond the scope of this review. This article also does not review the emerging literature on prevention of type 1 diabetes, given the significant differences in its underlying pathophysiology and treatment approaches (6). The evidence to date for type 2 diabetes primary prevention has been the strongest in the areas of lifestyle and pharmacological interventions targeting high-risk adults. This article outlines the major goals of type 2 diabetes prevention and the progression of intervention evidence, including clinical trials demonstrating efficacy and safety, followed by translational research investigating an array of implementation strategies to increase adoption, reach, and population effectiveness, including implications for individuals and groups that are at high risk but have proved challenging to reach or appear to benefit less from current implementation strategies. Finally, we summarize gaps in the literature and implications for future research and policy. Comprehending the evidence base for type 2 diabetes primary prevention will benefit first from a short overview of nutrient metabolism with and without normal insulin action, what it means to develop type 2 diabetes, both biologically and clinically, and how individuals can be identified in the months to years prior to a type 2 diabetes diagnosis, when primary prevention is still achievable.
+----------------------------------------------------------------------------------------------------
+
+RANK: 18
+CHUNK ID: 112c9d0f0c666b85a4693ab08fc6bf2558d197340382746b0ece3130d30d0d07
+SCORE: 0.578402
+RETRIEVER: dense
+DOCUMENT: niddk_t2dm_overview
+VERSION: 3465d2365ab3fdd91b1c87d3b9b4a36073bf2a538dc422e38ee9022450fa7ce4
+LANGUAGE: en
+SECTION: ['Type 2 Diabetes', 'Who is more likely to develop type 2 diabetes?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes
+
+FULL TEXT:
+You can develop type 2 diabetes at any age, even during childhood. However, type 2 diabetes occurs most often in middle-aged and older people. You are more likely to develop type 2 diabetes if you are age 45 or older, have a family history of diabetes, or are overweight or have obesity. Diabetes is more common in people who are African American, Hispanic/Latino, American Indian, Asian American, or Pacific Islander. Physical inactivity and certain health problems such as high blood pressure affect your chances of developing type 2 diabetes. You are also more likely to develop type 2 diabetes if you have prediabetes or had gestational diabetes when you were pregnant. Learn more about risk factors for type 2 diabetes. Type 2 diabetes occurs most often in middle-aged and older people.
+----------------------------------------------------------------------------------------------------
+
+RANK: 19
+CHUNK ID: 35ad05b49fd61760b08c72e6b4946949c31da10740fffc252a4e6645f4c5e308
+SCORE: 0.575988
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Overview of the Goals and Outline for This Article']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+The overarching aim of this review is to appraise and synthesize the evidence base for individual-level interventions considered safe and effective for the primary prevention of type 2 diabetes. We focus on where the evidence to date for type 2 diabetes primary prevention has been the strongest, primarily involving lifestyle and pharmacological interventions targeting high-risk adults. In the following sections, we review efficacy trials designed to evaluate and compare different interventions with respect to the outcome of progression to type 2 diabetes, followed by an overview of translational research that advanced the implementation and dissemination of intensive lifestyle interventions into the health care and population health sectors, focusing on the U.S. experience. Finally, we review the current state of U.S. diabetes prevention policy and practice, and we conclude with prevailing challenges, unanswered questions, and areas needing further research and action. This article updates the Diabetes in America, 3rd edition chapter Prevention of Type 2 Diabetes (1). Type 2 diabetes mellitus is a chronic and progressive health condition resulting from a disruption of the normal actions of insulin to enable cells throughout the body to take up and store nutrients, including glucose, fatty acids, and amino acids. As glucose reaches high concentrations in blood and extracellular fluid, it causes oxidative damage to tissues, such as peripheral nerves, the retina, vascular endothelium, and renal glomerulus. This damage leads to permanent physiological impairments that can worsen over months to years before the emergence of any symptoms. In this context, prompt identification and treatment of type 2 diabetes are critical. As a result of population growth and advances in practice, the number of U.S. residents diagnosed and treated for type 2 diabetes has increased more than fivefold since 1980 (2,3), imposing a tremendous toll on individuals, families, health systems, and society. Without parallel efforts to prevent type 2 diabetes, this toll will only continue to rise.
+----------------------------------------------------------------------------------------------------
+
+RANK: 20
+CHUNK ID: eb12dd2edd019547ded6ebced0d40eacf2761539a0ae1876d992864343f2a37b
+SCORE: 0.575752
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Conclusions']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+The past 30 years have seen the dawn of a new field of science focusing on the primary prevention of type 2 diabetes, primarily targeting high-risk adults who are identified with a glycemic test result just below thresholds for diagnosing and treating type 2 diabetes. Rigorous clinical trials spanning multiple continents demonstrated consistent, strong effects of intensive lifestyle behavioral interventions and, to a somewhat lesser extent, select medications to prevent or delay progression to type 2 diabetes. The feasibility and sustainability of offering these evidence-based treatments in routine clinical and community practice settings have proved challenging and remain an active area of translational and implementation science. The dominant existing implementation approach emphasizing referral linkages to lower-intensity and time-bound adaptations of clinical trial lifestyle interventions likely has benefits for the nearly 1 million U.S. adults with high-risk characteristics, but the strategy has identified and engaged <1% of roughly 100 million adults currently living with prediabetes so is unlikely to be achieving population-level effects on slowing type 2 diabetes incidence. Further research is needed to improve implementation and effectiveness on a large scale. Existing research also supports that for those who do engage in treatment, individual intervention strategies have an important role in preventing or delaying the need for initiating type 2 diabetes treatment; however, it is unclear whether such strategies prevent long-term complications in ways already shown following intensive monitoring and glucose-lowering management among those who have progressed to more severe metabolic abnormalities and a diagnosis of type 2 diabetes (14). In this context, it remains of critical importance to maintain focus on the prompt identification and intensive management of incident type 2 diabetes.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RRF TOP-7 | TOTAL: 7
+====================================================================================================
+
+RANK: 1
+CHUNK ID: 1e014209ad4a166d1f2d836ad686e434ea12ab1759b976e2a5099e689e49fe7a
+RRF SCORE: 0.031545
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: niddk_t2dm_symptoms_causes
+VERSION: 4d37f4386a4a9863d08e0c237fea737b28058b15cb016843e13bb80ee4f8207e
+LANGUAGE: en
+SECTION: ['Symptoms & Causes of Diabetes', 'What causes type 2 diabetes?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/symptoms-causes
+
+FULL TEXT:
+Type 2 diabetes is the most common form of diabetes. Type 2 diabetes develops when your pancreas doesn’t produce enough insulin, and your body has trouble using insulin, a condition called insulin resistance. Insulin resistance is when the cells in your muscles, fat, and liver don’t respond well to insulin. When there isn’t enough insulin to balance blood glucose levels, they begin to rise. When blood glucose levels are higher than normal but not high enough to be diagnosed as type 2 diabetes, you have a condition called prediabetes. You have type 2 diabetes when health care professionals diagnose your blood glucose level as being too high. Researchers don’t fully know what causes problems with insulin production and insulin resistance in type 2 diabetes. However, people are more likely to develop type 2 diabetes if they have overweight, obesity, or a large waist size. are age 35 or older. Children and teens can also develop type 2 diabetes, but the risk increases as a person gets older. have a family history of type 2 diabetes. are African American, American Indian, Asian American, Hispanic, Latino, or Pacific Islander. are not physically active, because of a job that requires sitting for long periods of time or because of difficulty moving their body. smoke, including tobacco products and e-cigarettes, or are exposed to secondhand smoke. have prediabetes. have a history of gestational diabetes, a type of diabetes that develops during pregnancy, or gave birth to a baby weighing 9 pounds or more. You can’t change some of these risk factors, such as your age, family history, or race. However, you may be able to change some risk factors and prevent or delay type 2 diabetes by maintaining a healthy weight, being physically active, and stopping smoking. You may be able to prevent type 2 diabetes by maintaining a healthy weight and being physically active.
+----------------------------------------------------------------------------------------------------
+
+RANK: 2
+CHUNK ID: 0dccc2ebe2e77d37d5e05c5b22547f4a125b0e65a180279c882916e9fbff0754
+RRF SCORE: 0.029762
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: niddk_t2dm_overview
+VERSION: 3465d2365ab3fdd91b1c87d3b9b4a36073bf2a538dc422e38ee9022450fa7ce4
+LANGUAGE: en
+SECTION: ['Type 2 Diabetes', 'What is type 2 diabetes?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes
+
+FULL TEXT:
+Type 2 diabetes, the most common type of diabetes, is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes mainly from the food you eat. Insulin, a hormone made by the pancreas, helps glucose get into your cells to be used for energy. In type 2 diabetes, your body doesn’t make enough insulin or doesn’t use insulin well. Too much glucose then stays in your blood, and not enough reaches your cells. The good news is that you can take steps to prevent or delay the development of type 2 diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 3
+CHUNK ID: 605fb76dbb24467784a047f1c8448a574b06357545653f03ed23bc36873bbd8c
+RRF SCORE: 0.028992
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Risk Factors for the Development of Heart Disease in People With Diabetes', 'Metabolic Risk Factors', 'Lipids and Lipoproteins']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Type 2 diabetes and insulin resistance are associated with abnormalities in circulating lipids, including elevated triglycerides and small, dense LDL particles, as well as low concentrations of HDL-C (61). These abnormalities in circulating concentrations of lipids often precede the diagnosis of type 2 diabetes (62,63,64,65). For a given concentration of LDL-C, the lipoprotein particles tend to be smaller and denser in patients with type 2 diabetes than in patients without diabetes (66). Patients with type 2 diabetes tend to have higher triglyceride and lower HDL-C concentrations than patients without diabetes, and until recently, there has been disagreement as to whether triglycerides or HDL-C play a causal role in the development of ASCVD. Large observational studies have noted an association between triglyceride concentrations and cardiovascular events. In a comparison of individuals in the top third with those in the bottom third of usual log-triglyceride values, the adjusted odds ratio (OR) for CHD was 1.57 (95% CI 1.10–2.24) in the EPIC-Norfolk study and 1.76 (95% CI 1.39–2.21) in the Reykjavik study (67). However, the prevalence of diabetes at baseline in the two cohorts was low (2% and 3%, respectively). After adjusting for baseline values of established risk factors, including a history of diabetes, the strength of these associations was attenuated but remained statistically significant. Mendelian randomization studies are consistent with the hypothesis, but do not prove, that triglycerides or triglyceride-rich remnant lipoprotein particles cause atherosclerosis, even when accounting for LDL-C concentrations (68,69). As discussed in detail below, therapies to lower LDL-C concentrations have demonstrated important reductions in major adverse cardiovascular event (MACE) rates. Therapies directed at improving HDL-C and triglyceride concentrations have had more mixed success.
+----------------------------------------------------------------------------------------------------
+
+RANK: 4
+CHUNK ID: 7efc8365509bcd4ad102486a8a7e28b4c9715931358afe46c5c5e54845bc60bc
+RRF SCORE: 0.028950
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: niddk_t2dm_overview
+VERSION: 3465d2365ab3fdd91b1c87d3b9b4a36073bf2a538dc422e38ee9022450fa7ce4
+LANGUAGE: en
+SECTION: ['Type 2 Diabetes', 'What causes type 2 diabetes?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes
+
+FULL TEXT:
+Type 2 diabetes is caused by several factors, including overweight and obesity not being physically active insulin resistance genes Learn more about the causes of type 2 diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 5
+CHUNK ID: bd7b1f62d64f191c9dc31b4ca4336f0207b1b10949ebebd067460b8f56b5f822
+RRF SCORE: 0.028860
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Overview of the Goals and Outline for This Article']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+This article focuses on preventing the most common phenotype of type 2 diabetes, which often presents in middle-aged adults with overweight or obesity. Research has described less common phenotypes of type 2 diabetes, including ketosis-prone, maturity-onset diabetes of the young, and latent autoimmune diabetes in adults (4,5). Because these phenotypes of type 2 diabetes are not fully understood, and most type 2 diabetes prevention trials did not distinguish progression to these distinct type 2 diabetes phenotypes, their primary prevention is considered beyond the scope of this review. This article also does not review the emerging literature on prevention of type 1 diabetes, given the significant differences in its underlying pathophysiology and treatment approaches (6). The evidence to date for type 2 diabetes primary prevention has been the strongest in the areas of lifestyle and pharmacological interventions targeting high-risk adults. This article outlines the major goals of type 2 diabetes prevention and the progression of intervention evidence, including clinical trials demonstrating efficacy and safety, followed by translational research investigating an array of implementation strategies to increase adoption, reach, and population effectiveness, including implications for individuals and groups that are at high risk but have proved challenging to reach or appear to benefit less from current implementation strategies. Finally, we summarize gaps in the literature and implications for future research and policy. Comprehending the evidence base for type 2 diabetes primary prevention will benefit first from a short overview of nutrient metabolism with and without normal insulin action, what it means to develop type 2 diabetes, both biologically and clinically, and how individuals can be identified in the months to years prior to a type 2 diabetes diagnosis, when primary prevention is still achievable.
+----------------------------------------------------------------------------------------------------
+
+RANK: 6
+CHUNK ID: fd92ce25ef1de9b3eb22440ec4fbada9380b963ee78b13af150f982bf0dfdca1
+RRF SCORE: 0.028259
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Scope and Limitations of Individual Interventions to Prevent Type 2 Diabetes']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+Individual-level interventions with efficacy to slow biological progression to type 2 diabetes include surgical, pharmacological, and behavioral interventions that operate through a variety of mechanisms to slow the pathophysiologic progression of insulin resistance or insufficient insulin secretion leading to type 2 diabetes. Surgical procedures bring about anatomic changes that reduce gastric capacity or bypass a portion of the small intestine to reduce appetite, increase satiety, and reduce calorie absorption, all of which produce significant weight loss that improves insulin sensitivity and reduces demand on β-cells to hyper-secrete insulin in order to maintain glucose homeostasis (36,37). These procedures also alter gut hormone signals that have direct effects on increasing insulin secretion even before weight loss ensues (38). Some metabolic medications stimulate acute improvements in insulin secretion or sensitivity while the drug remains bioavailable, and others suppress appetite and increase satiety, leading to lower caloric intake and weight loss sufficient to improve both insulin sensitivity and secretion. Behavioral interventions provide education, behavioral skills training, and recurring motivational, coping, and problem-solving support delivered through professionals (i.e., coaches) or technology to enable and sustain efforts to reduce dietary calories, increase physical activities, and lose weight (39). Physical activity also directly increases skeletal muscle glucose uptake acutely during exercise and stimulates subacute improvements in insulin sensitivity for up to 72 hours afterwards (40). Weight loss achieved through any of these modalities is associated with reductions in visceral ectopic fat, accompanied by lasting improvements in insulin sensitivity and signaling so long as the weight loss is maintained. Maintaining weight loss is a challenge with all interventions, and weight regain increases sharply when metabolic medications or behavioral intervention support is stopped. There is strong evidence from rigorous, randomized controlled trials that offering interventions with these properties to groups of high-risk individuals without type 2 diabetes, who already have signs of insulin resistance, can reduce the proportion of them who experience future progression to type 2 diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 7
+CHUNK ID: 10769d89c5f15b988b520003d8a15913e79e10522f7d11e262705975bfc042f0
+RRF SCORE: 0.016393
+RETRIEVERS: ['bm25']
+DOCUMENT: niddk_diabetes_medicines
+VERSION: 14e68c15b7b6343113b74563706b581f4d681b6f56f28657895683c13e7c9ac6
+LANGUAGE: en
+SECTION: ['Insulin, Medicines, & Other Diabetes Treatments', 'What are the different types of insulin?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/insulin-medicines-treatments
+
+FULL TEXT:
+Several types of insulin are available. Each type starts to work at a different speed, known as “onset,” and its effects last a different length of time, known as “duration.” Most types of insulin reach a peak, which is when they have the strongest effect. After the peak, the effects of the insulin wear off over the next few hours or so. Table 1 lists the different types of insulin, how fast they start to work, when they peak, and how long they last.
+
+Table 1. Types of insulin and how they work1,2
+
+Insulin Type | How Fast It Starts to Work (onset) | When It Peaks | How Long It Lasts (duration)
+rapid-acting/ ultra rapid-acting | 15 minutes | 1 hour | 2 to 4 hours (rapid) 5 to 7 hours (ultra)
+rapid-acting, inhaled | 10 to 15 minutes | 30 minutes | 3 hours
+regular, also called short-acting | 30 minutes | 2 to 3 hours | 3 to 6 hours
+intermediate-acting | 2 to 4 hours | 4 to 12 hours | 12 to 18 hours
+long-acting | 2 hours | does not peak | 24 hours
+ultra long-acting | 6 hours | does not peak | 36 hours or longer
+
+Your doctor will work with you to review your medication options. Talk with your doctor about your activity level, what you eat and drink, how well you manage your blood glucose levels, your age and lifestyle, and how long your body takes to absorb insulin.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+SUMMARY
+BM25 RESULTS: 20
+BGE-M3 RESULTS: 20
+OVERLAP: 6
+UNIQUE CANDIDATES: 34
+RRF RESULTS: 7

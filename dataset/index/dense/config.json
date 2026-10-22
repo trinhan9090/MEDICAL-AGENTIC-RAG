@@ -1,0 +1,7 @@
+{
+  "model_name": "BAAI/bge-m3",
+  "batch_size": 8,
+  "max_length": 1024,
+  "use_fp16": true,
+  "dimension": 1024
+}

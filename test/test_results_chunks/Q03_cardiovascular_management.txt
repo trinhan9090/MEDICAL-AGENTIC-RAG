@@ -1,0 +1,681 @@
+QUERY ID: Q03
+QUERY: What are the recommended approaches for managing cardiovascular risk in patients with type 2 diabetes?
+CONFIG: BM25 Top-20 | BGE-M3 Top-20 | RRF k=60 | RRF Top-7
+
+====================================================================================================
+BM25 TOP-20 | TOTAL: 20
+====================================================================================================
+
+RANK: 1
+CHUNK ID: c3f7dbf160dbacd3408f89b9bc90c9e0ee873f8431358c21cf5292d666094847
+SCORE: 20.000254
+RETRIEVER: bm25
+DOCUMENT: dia_medication_use
+VERSION: e575b390642a5fb768040eb82e6a973eaf31b6e88a1e0e554a1ef861afa8b757
+LANGUAGE: en
+SECTION: ['Medication Use and Self-Care Practices in Persons With Diabetes', 'Type 2 Diabetes in Adults', 'Medications for Other Health Conditions', 'Aspirin Use']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK607283/
+
+FULL TEXT:
+For diabetes patients with a history of ASCVD, use of aspirin for secondary prevention is generally recommended (88). Aspirin is not currently recommended for primary prevention due to the risk of bleeding, which outweighs the ASCVD benefit (88,89,90,91). Therefore, use of aspirin for primary prevention is currently recommended for patients age ≥50 years with one or more major ASCVD risk factors and low bleeding risk (87). For individuals age >70 years, aspirin is generally not recommended because the increased risk of bleeding outweighs the benefit (92). In the NHIS 2019, more than one-half (57.8%) of U.S. adults age ≥40 years who reported having type 2 diabetes were medically advised to take low-dose aspirin, of whom fewer than half were currently taking low-dose aspirin (47.4%) (Table 9). In contrast, almost one in ten patients with type 2 diabetes who were not advised to take aspirin were currently taking low-dose aspirin on their own. Individuals age ≥65 years, men, non-Asians, and those with diabetes duration ≥10 years or with a history of ASCVD were more likely to be advised to take low-dose aspirin than younger patients, women, Asians, or those with diabetes duration <10 years or without a history of cardiovascular disease, respectively. Among patients who took aspirin on their own, it is noteworthy that non-Hispanic Black adults and those with diabetes duration <10 years or without a cardiovascular disease history tended to use aspirin more often than other groups (Table 9).
+----------------------------------------------------------------------------------------------------
+
+RANK: 2
+CHUNK ID: 9dac4f76c07d457ebdc04c373cc8e89c6de1a2d7d11b85bc491b4ef7738c4d44
+SCORE: 18.299933
+RETRIEVER: bm25
+DOCUMENT: dia_medication_use
+VERSION: e575b390642a5fb768040eb82e6a973eaf31b6e88a1e0e554a1ef861afa8b757
+LANGUAGE: en
+SECTION: ['Medication Use and Self-Care Practices in Persons With Diabetes', 'Type 2 Diabetes in Adults', 'Medications for Other Health Conditions', 'Cholesterol Treatment']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK607283/
+
+FULL TEXT:
+Hypercholesterolemia is another common comorbidity in individuals with type 2 diabetes. Among NHANES 2015–March 2020 participants, half (52.8%) of adults age ≥20 years with diagnosed type 2 diabetes reported having hypercholesterolemia, while the age-standardized prevalence was lower in the undiagnosed diabetes (37.8%), prediabetes (36.2%), and normal glucose (29.6%) groups (Table 8). Like hypertension, hypercholesterolemia is an important risk factor for ASCVD. A strong management plan will help decrease the risk of adverse health outcomes. Lifestyle interventions, such as weight loss, physical activity, a Mediterranean style or Dietary Approaches to Stop Hypertension (DASH) diet, are effective at reducing ASCVD risk in some individuals (80,81). In addition, statins reduce the incidence of ASCVD and all-cause and vascular mortality in individuals with diabetes (82,83,84,85,86). Therefore, use of high-intensity statin therapy for secondary prevention of ASCVD in diabetes patients at high risk and moderate-intensity statin therapy for patients with diabetes age ≥40 years without known ASCVD are generally recommended (23,87). Combination of statins and other lipid-lowering medications, such as ezetimibe and PCSK9 (proprotein convertase subtilisin/kexin type 9) inhibitors, is often reserved for individuals with diabetes who do not tolerate statins and those with established ASCVD. In the NHANES 2015–March 2020, statins were the most commonly used cholesterol medication among adults with type 2 diabetes (43.0%). Coupled with a lower prevalence of reported hypercholesterolemia, use of cholesterol medication was also lower in adults with undiagnosed diabetes, prediabetes, and normal glucose levels than in those with diagnosed type 2 diabetes (Table 8, Appendix Table A1).
+----------------------------------------------------------------------------------------------------
+
+RANK: 3
+CHUNK ID: e56899b660fb846a0de6186ec59fddec4319611c15c3fc34284c49fc2d25e496
+SCORE: 17.199405
+RETRIEVER: bm25
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Treatment: Control of Glycemia or Other CVD Risk Factors and CVD Outcomes', 'Trials of Blood Pressure Control']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+However, evidence from the Systolic Blood Pressure Intervention Trial (SPRINT) trial has reenergized this debate, even though SPRINT specifically excluded patients with diabetes. To what extent SPRINT trial findings can be extended to patients with type 2 diabetes is not clear. Eligible patients randomized to a goal systolic blood pressure of <120 mmHg compared to <140 mmHg had a 25% relative reduction in the risk of the primary composite outcome of nonfatal MI, ACS, stroke, HF, or cardiovascular death (HR 0.75, 95% CI 0.64–0.89) (203). Data from a trial conducted in China, in which patients age 60–80 years were randomly allocated to an intensive blood pressure control arm (goal systolic blood pressure 110–<130 mmHg) or a standard control arm (goal systolic blood pressure 130–<150 mmHg), found a substantial reduction in the primary composite outcome of stroke, ACS (acute MI and hospitalization for unstable angina), acute decompensated HF, coronary revascularization, atrial fibrillation, or death from cardiovascular causes (HR 0.74, 95% CI 0.60–0.92) (204). Approximately 19% of the 8,511 patients randomized had type 2 diabetes at baseline, and no evidence of heterogeneity of the benefits of intensive therapy was found when the trial was stratified by the presence or absence of diabetes at baseline (204).
+----------------------------------------------------------------------------------------------------
+
+RANK: 4
+CHUNK ID: e3ff8cd049372a9edbadd6087f559a02d969b7abe3433bfb51284993be875709
+SCORE: 17.003609
+RETRIEVER: bm25
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Evidence-Based Recommendations for Diabetes Management From Professional Societies', 'Risk Assessment and Stratification', 'Primary Prevention']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+The 2019 ACC/AHA guidelines recommend that for adults age 40–75 years who have diabetes, regardless of their estimated 10-year ASCVD risk, a moderate-intensity statin is indicated for prevention (class I recommendation). Furthermore, for persons with diabetes with multiple ASCVD risk factors, it is reasonable to prescribe a high-intensity statin with the aim of lowering LDL-C by 50% or more (class IIa recommendation) (257). In addition to the traditional ASCVD factors, the ACC/AHA guidelines also highlight diabetes-specific risk-enhancing factors, which include long duration of diabetes (≥10 years for type 2 diabetes and ≥20 years for type 1 diabetes), albuminuria ≥30 mcg albumin/mg creatinine, eGFR <60 mL/min/1.73 m2, retinopathy, neuropathy, or ABI <0.9 (257). The presence of these factors would also favor initiation of a high-intensity statin. The ADA Standards of Care 2023 similarly endorse that cardiovascular risk factors should be assessed at least annually in patients with diabetes, including duration of diabetes, overweight/obesity, hypertension, dyslipidemia, smoking, family history of premature CHD, CKD, and presence of albuminuria (75). The ADA encourages the use of the PCE for 10-year risk assessment as a useful starting tool. While risk factor assessment and treatment are strongly recommended, the ACC/AHA and the ADA do not recommend routine screening for coronary artery disease via stress testing in asymptomatic individuals as it does not improve outcomes as long as cardiovascular risk factors are optimally treated (75,257). Selective stress testing or other cardiovascular imaging (echocardiography, etc.) can be considered for patients with symptoms concerning for CVD or who have other abnormal physical exam findings or electrocardiogram (ECG) evidence suggestive of ASCVD or HF. Although younger individuals age <40 years are not included in the 10-year risk assessment, it is still reasonable to routinely assess traditional ASCVD risk factors.
+----------------------------------------------------------------------------------------------------
+
+RANK: 5
+CHUNK ID: ea1138a0148fdd87f09c8364db228df3dee2a96ee8a1a612af25eb4b87039f68
+SCORE: 16.598662
+RETRIEVER: bm25
+DOCUMENT: niddk_t2dm_risk_factors
+VERSION: 14d2a0c12fc93337bae599bba579f3c7caa2b127840a07e2a3644ebc5897697f
+LANGUAGE: en
+SECTION: ['Risk Factors for Type 2 Diabetes', 'What are the risk factors for type 2 diabetes?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/risk-factors-type-2-diabetes
+
+FULL TEXT:
+You are encouraged to talk with a doctor about any of the health conditions listed above that may require medical treatment. Managing health problems may help reduce your chances of developing type 2 diabetes.2 Also, ask your doctor about any medicines you or your child take that might increase your risk. You can also take the Diabetes Risk Test to learn more about your risk for type 2 diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 6
+CHUNK ID: 473e985495e5bc3bc953f1b753096ebdad8815d315e9923756099356c56a1e02
+SCORE: 16.436978
+RETRIEVER: bm25
+DOCUMENT: dia_medication_use
+VERSION: e575b390642a5fb768040eb82e6a973eaf31b6e88a1e0e554a1ef861afa8b757
+LANGUAGE: en
+SECTION: ['Medication Use and Self-Care Practices in Persons With Diabetes', 'Type 2 Diabetes in Adults', 'Self-Care Practices', 'Barriers to Self-Care']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK607283/
+
+FULL TEXT:
+Individuals with diabetes face many challenges in managing their diabetes and practicing self-care in daily life. DSMES increases patient adherence to best practice recommendations (113); however, <10% of Medicare or privately insured patients received DSMES due to various health system, logistic, and programmatic barriers (114,115). The need perceived by providers and patients may also play a role. Although good nutrition is an indispensable component of a diabetes management plan, individuals with diabetes often find it difficult to choose appropriate foods (116). For some individuals with type 2 diabetes who need medical nutrition therapy, a lack of referrals to dietitians or DSMES contributes to the low participation (108,117). Addressing access to DSMES, access to affordable, healthy, and high-quality food, barriers to behavioral changes, and health literacy may improve nutrition. Other societal interventions for the general population as recommended by the National Clinical Care Commission might also be helpful (118). Individuals with diabetes could have diabetes distress and other psychological comorbidities that might affect self-management and treatment outcome (119). Psychosocial barriers can arise from inadequate family, social, and financial support, inaccurate self-perception of the benefits of treatment, inadequate problem-solving or coping skills, diabetes stigma, or competing needs for other medical conditions (120,121,122,123). In individuals with mental health issues, the quality of and support for diabetes care, emotional well-being, and beliefs of self-management ability and consequences of suboptimal diabetes control all contribute to lower engagement in diabetes self-management (124). Using different measures to assess an individual’s psychological health could help providers to identify important barriers to self-care and address them in a timely manner (119). A combination of approaches might be necessary to help decrease individuals’ distress and improve their psychological wellbeing, leading to better diabetes self-management and health outcomes (125,126).
+----------------------------------------------------------------------------------------------------
+
+RANK: 7
+CHUNK ID: b82c6c3834805056998f855b15dd47fbfd36c02042728a4a9dabfe69a64bc043
+SCORE: 16.232954
+RETRIEVER: bm25
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Evidence-Based Recommendations for Diabetes Management From Professional Societies', 'Clinical Guidelines for CVD Prevention in People With Diabetes']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Both cardiology and nephrology guidelines strongly endorse the use of SGLT2i for cardiovascular and kidney protection for patients with diabetic kidney disease; so, SGLT2i should be prioritized next in this population (254,270). GLP-1 RAs may be additionally recommended, particularly if further A1c lowering is needed. Future guidelines will likely address how best to implement finerenone in treatment algorithms; finerenone was approved by the FDA in 2021. Patient characteristics, drug availability, and cost considerations likely will influence choices as part of shared decision-making. The ADA recommends measuring both eGFR and the urine albumin-creatinine ratio (UACR) annually in patients with diabetes; however, this is suboptimally done in clinical practice with approximately half of patients with diabetes receiving both laboratory tests (282). Unfortunately, many patients with diabetic kidney disease, who are at elevated cardiovascular risk, go unrecognized without an intentional assessment for albuminuria.
+----------------------------------------------------------------------------------------------------
+
+RANK: 8
+CHUNK ID: bd7b1f62d64f191c9dc31b4ca4336f0207b1b10949ebebd067460b8f56b5f822
+SCORE: 16.073785
+RETRIEVER: bm25
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Overview of the Goals and Outline for This Article']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+This article focuses on preventing the most common phenotype of type 2 diabetes, which often presents in middle-aged adults with overweight or obesity. Research has described less common phenotypes of type 2 diabetes, including ketosis-prone, maturity-onset diabetes of the young, and latent autoimmune diabetes in adults (4,5). Because these phenotypes of type 2 diabetes are not fully understood, and most type 2 diabetes prevention trials did not distinguish progression to these distinct type 2 diabetes phenotypes, their primary prevention is considered beyond the scope of this review. This article also does not review the emerging literature on prevention of type 1 diabetes, given the significant differences in its underlying pathophysiology and treatment approaches (6). The evidence to date for type 2 diabetes primary prevention has been the strongest in the areas of lifestyle and pharmacological interventions targeting high-risk adults. This article outlines the major goals of type 2 diabetes prevention and the progression of intervention evidence, including clinical trials demonstrating efficacy and safety, followed by translational research investigating an array of implementation strategies to increase adoption, reach, and population effectiveness, including implications for individuals and groups that are at high risk but have proved challenging to reach or appear to benefit less from current implementation strategies. Finally, we summarize gaps in the literature and implications for future research and policy. Comprehending the evidence base for type 2 diabetes primary prevention will benefit first from a short overview of nutrient metabolism with and without normal insulin action, what it means to develop type 2 diabetes, both biologically and clinically, and how individuals can be identified in the months to years prior to a type 2 diabetes diagnosis, when primary prevention is still achievable.
+----------------------------------------------------------------------------------------------------
+
+RANK: 9
+CHUNK ID: cabaee7d78437daf9da0155a131e137dd8ca57a122fd3254f71644883ddbfe81
+SCORE: 15.961516
+RETRIEVER: bm25
+DOCUMENT: dia_kidney_disease
+VERSION: 8b568e01046798eb29071e3b03f5023d2c486e2ed852afcce313c752e5a2b27a
+LANGUAGE: en
+SECTION: ['Kidney Disease and Diabetes', 'Definition, Measurements, and Classification']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK609462/
+
+FULL TEXT:
+In persons with diabetes, CKD may or may not be caused by diabetes alone. In those with type 1 diabetes of ≥10 years duration, CKD should be attributed to diabetes in the absence of other documented causes of kidney disease (10). Among persons with type 2 diabetes in particular, an eye examination is a useful, simple, and noninvasive test for differentiating between CKD caused by diabetes or other causes (18,19). A meta-analysis of 2,012 pooled patients with diabetes and CKD indicated that diabetic retinopathy has a sensitivity of 0.65 (95% confidence interval [CI] 0.62–0.68) and specificity of 0.75 (95% CI 0.73–0.78) for CKD due to diabetes (18). The presence of diabetic retinopathy in those with severe albuminuria is strongly suggestive of diabetes as cause of CKD, whereas the absence of diabetic retinopathy in those with normal or moderate albuminuria and an eGFR <60 mL/min/1.73 m2 suggests DKD due to other causes (18,20). Clinical biopsy studies show that nondiabetic morphologic changes are present in 3%–69.5% of patients with DKD, depending on the population characteristics and clinical profile, as elaborated below. Figure 1 illustrates the Kidney Disease: Improving Global Outcomes (KDIGO) CKD classification that reflects prognosis based on the combined measures of eGFR and albuminuria (10). The risk associations of GFR and albuminuria categories with renal, cardiovascular, and all-cause mortality outcomes are reviewed in the following sections. For screening and management of kidney disease in persons with diabetes, the NKF and ADA recommend annual ACR screening starting at 5 years duration of type 1 diabetes and at diagnosis of type 2 diabetes (10,17). Serum creatinine measurements and eGFR assessment are recommended at least annually in adults with diabetes, regardless of ACR level.
+----------------------------------------------------------------------------------------------------
+
+RANK: 10
+CHUNK ID: 341b061852447431b05a381e5eeda55ce663bb75cd749ae1c6bc60ec9833060b
+SCORE: 15.879836
+RETRIEVER: bm25
+DOCUMENT: dia_kidney_disease
+VERSION: 8b568e01046798eb29071e3b03f5023d2c486e2ed852afcce313c752e5a2b27a
+LANGUAGE: en
+SECTION: ['Kidney Disease and Diabetes', 'Treatment of Diabetes-Related Kidney Disease', 'Sodium-Glucose Cotransporter-2 Inhibitors']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK609462/
+
+FULL TEXT:
+SGLT2 inhibitors have revolutionized the treatment of cardiovascular and kidney outcomes in type 2 diabetes (6,7). Several large randomized controlled trials have documented the efficacy of SGLT2 inhibitors in improving kidney outcomes in adults with type 2 diabetes (Table 19) (574,575,576,577,578,579,580,581,582,583,584,585,586,587,588). The Empagliflozin, Cardiovascular Outcome Event Trial in Type 2 Diabetes Mellitus Patients (EMPA-REG) enrolled 7,020 participants age >18 years with type 2 diabetes and an eGFR >30 mL/min/1.73 m2 to assess the cardiovascular safety of empagliflozin (574). A secondary analysis of trial data noted that individuals randomized to treatment with empagliflozin had a 39% reduction in their risk for worsening DKD (incident severe albuminuria, doubling of serum creatinine, or need for dialysis/transplant) (575). The Canagliflozin Cardiovascular Assessment Study (CANVAS) and Canagliflozin and Renal Events in Diabetes with Established Nephropathy Clinical Evaluation (CREDENCE) trials enrolled adults with type 2 diabetes and an eGFR >30 mL/min/1.73 m2 (CREDENCE excluded persons with an eGFR >90 mL/min/1.73 m2) and documented a similar efficacy of canagliflozin (576,578). Both trials demonstrated a 30%–40% reduction in risk for most adverse kidney outcomes, including worsening albuminuria, >40% decline in the eGFR, and dialysis dependence. Although the kidney effects of SGLT2 inhibitors observed in type 2 diabetes trials may also apply to people with type 1 diabetes, clinical trials that included patients with type 1 diabetes have not shown the same unequivocal effects on preventing kidney outcomes (589). Further, the increased risk of euglycemic diabetic ketoacidosis is a limiting factor for using SGLT2 inhibitors as adjunctive therapy in people with type 1 diabetes. Strategies to mitigate the risk for euglycemic ketoacidosis, such as continuous ketone monitors, may facilitate the safe prescribing of SGLT2 inhibitors for people with type 1 diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 11
+CHUNK ID: ab40c352c1a3f880c92ff0a93e3cca522b7b952c68f6b13b9d9edeb2e07e5dda
+SCORE: 15.812422
+RETRIEVER: bm25
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Evidence-Based Recommendations for Diabetes Management From Professional Societies', 'Clinical Guidelines for CVD Prevention in People With Diabetes']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+The presence of non-calcified plaque can be identified in younger individuals with diabetes by contrast CT angiography (CCTA) (274), but at this time, CCTA is not recommended solely for the purpose of screening among asymptomatic individuals. However, nonobstructive coronary artery disease is not benign and is associated with increased risk of vascular events (275,276). Thus, if an individual undergoes CCTA for the purpose of evaluation of chest pain and is found to have nonobstructive plaque, intensified preventive therapy with statins and/or other LDL-C-lowering therapies as necessary would be recommended to slow atherosclerosis progression and reduce risk of ASCVD events (277,278). Patients with diabetes also have greater risk of carotid plaque compared to their counterparts without diabetes (279). While current guidelines do not endorse cIMT for screening, the presence of carotid plaque identified by CT or ultrasound is a marker of atherosclerosis and predictive of ASCVD risk, including among patients with type 2 diabetes (280). ABI testing has low sensitivity for identifying individuals at risk and, thus, is not endorsed for a routine screening test. If performed, the presence of a low ABI (<0.9) is a risk-enhancing factor, particularly among individuals with diabetes, that would favor more intensified preventive therapy, such as use of high-intensity statin (179,257). Trial findings have also guided updated aspirin recommendations in the 2019 ACC/AHA guideline for the primary prevention of CVD (257). These recommendations differed from prior AHA guidelines that had recommended aspirin for patients with 10-year ASCVD risk ≥10%. The 2019 ACC/AHA guidelines state that most healthy people do not need to take aspirin. However, aspirin could be considered for select patients age 40–70 years who have a very high risk of ASCVD and may benefit from aspirin if at low risk for bleeding (IIb recommendation). However, these decisions are needed in the context of a clinician-patient risk discussion. In 2022, the U.S.
+----------------------------------------------------------------------------------------------------
+
+RANK: 12
+CHUNK ID: 7eee6448f48d11f817bc65495b46d92796bd58c2237cfc6326db8d01338218a4
+SCORE: 15.685018
+RETRIEVER: bm25
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Evidence-Based Recommendations for Diabetes Management From Professional Societies', 'Clinical Guidelines for CVD Prevention in People With Diabetes']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Preventive Services Task Force (USPSTF) also published updated recommendations for the use of aspirin in primary prevention, which downgraded their prior aspirin recommendations in their 2016 statement (281). In their revised recommendations, aspirin in primary prevention may be considered selectively for people age 40–59 years who are at higher risk for CVD (>10% 10-year risk) (C-grade recommendation). However, persons age ≥60 years should not start taking aspirin for primary CVD prevention (D grade recommendation). The USPSTF further acknowledges that relative bleeding risk linked with aspirin is consistent by age, sex, diabetes status, and level of CVD risk, but absolute bleeding risk is higher among older adults (281). In contrast, in 2023, the ADA still gave a level A recommendation that aspirin therapy (75–162 mg/day) may be considered as a primary prevention strategy in those with diabetes who are at increased cardiovascular risk, after a comprehensive discussion with the patient on the benefits versus the comparable increased risk of bleeding, but aspirin therapy is not generally recommended in those age >70 years (75). In patients with established ASCVD or at high risk of ASCVD, numerous professional societies recommend that the regimen include a GLP-1 RA and/or SGLT2i with demonstrated CVD benefit to reduce cardiovascular events independent of baseline A1c, individualized A1c target, or metformin use. In those with HF who have either reduced or preserved ejection fraction, inclusion of an SGLT2i with demonstrated benefit is recommended to reduce the risk of HF hospitalization and cardiovascular death (75,268,269,270). Among high-risk patients with diabetic kidney disease, ACEI/ARB, SGLT2i, GLP-1 RA, and finerenone have all been demonstrated to significantly reduce the risk of adverse cardiovascular outcomes. Since the trials of the latter three agents were conducted on the background of ACEI or ARB, ACEI/ARB should be initiated first if no contraindications.
+----------------------------------------------------------------------------------------------------
+
+RANK: 13
+CHUNK ID: aa605b22500b45511e4a56f2b0fe17ba7d4c3ee1484b255f0b42b54c94184e02
+SCORE: 15.677176
+RETRIEVER: bm25
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Treatment: Control of Glycemia or Other CVD Risk Factors and CVD Outcomes', 'Cardiovascular Outcomes in Diabetic Kidney Disease and a Role for Novel Therapeutic Agents', 'SGLT2 Inhibitors in Chronic Kidney Disease']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+SGLT2i significantly reduce cardiovascular and kidney outcomes in patients with type 2 diabetes, CKD, and/or HF (260), as described above. In two trials enrolling exclusively a CKD population, the CREDENCE (Canagliflozin and Renal Events in Diabetes with Established Nephropathy Clinical Evaluation) (261) and the DAPA-CKD (Dapagliflozin and Prevention of Adverse Outcomes in Chronic Kidney Disease) (262) trials, the SGLT2 inhibitors canagliflozin and dapagliflozin, respectively, reduced the risk for both the primary adverse kidney outcomes and also the secondary cardiovascular outcomes among patients with CKD. The CREDENCE trial enrolled patients with albuminuric diabetic kidney disease with eGFR ≥30 mL/min/1.73 m2 and showed that the canagliflozin-treated patients had 20% lower risk of cardiovascular death, MI, or stroke (HR 0.80, 95% CI 0.67–0.95) and 39% lower risk of hospitalization for HF (HR 0.61, 95% CI 0.47–0.90) compared to placebo (261). In the DAPA-CKD trial, which enrolled CKD patients with or without diabetes with eGFR ≥25 mL/min/1.73 m2, dapagliflozin conferred a 29% reduction in HF hospitalization and cardiovascular death (HR 0.71, 95% CI 0.55–0.92) with similar benefit regardless of diabetes status (262). The SCORED trial, which also enrolled an exclusive CKD population, demonstrated cardiovascular risk reduction with sotagliflozin (228). Another dedicated trial in an exclusive CKD population evaluated empagliflozin in the broadest CKD population to date, including those with and without diabetes and with and without albuminuria (EMPA-KIDNEY). The trial was stopped early for clear efficacy of empagliflozin in reducing the progression of kidney disease or death from cardiovascular causes compared to placebo (263). The results of this trial are informative about the benefits of SGLT2i among various CKD subgroups, including nonalbuminuric CKD.
+----------------------------------------------------------------------------------------------------
+
+RANK: 14
+CHUNK ID: 605fb76dbb24467784a047f1c8448a574b06357545653f03ed23bc36873bbd8c
+SCORE: 15.592805
+RETRIEVER: bm25
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Risk Factors for the Development of Heart Disease in People With Diabetes', 'Metabolic Risk Factors', 'Lipids and Lipoproteins']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Type 2 diabetes and insulin resistance are associated with abnormalities in circulating lipids, including elevated triglycerides and small, dense LDL particles, as well as low concentrations of HDL-C (61). These abnormalities in circulating concentrations of lipids often precede the diagnosis of type 2 diabetes (62,63,64,65). For a given concentration of LDL-C, the lipoprotein particles tend to be smaller and denser in patients with type 2 diabetes than in patients without diabetes (66). Patients with type 2 diabetes tend to have higher triglyceride and lower HDL-C concentrations than patients without diabetes, and until recently, there has been disagreement as to whether triglycerides or HDL-C play a causal role in the development of ASCVD. Large observational studies have noted an association between triglyceride concentrations and cardiovascular events. In a comparison of individuals in the top third with those in the bottom third of usual log-triglyceride values, the adjusted odds ratio (OR) for CHD was 1.57 (95% CI 1.10–2.24) in the EPIC-Norfolk study and 1.76 (95% CI 1.39–2.21) in the Reykjavik study (67). However, the prevalence of diabetes at baseline in the two cohorts was low (2% and 3%, respectively). After adjusting for baseline values of established risk factors, including a history of diabetes, the strength of these associations was attenuated but remained statistically significant. Mendelian randomization studies are consistent with the hypothesis, but do not prove, that triglycerides or triglyceride-rich remnant lipoprotein particles cause atherosclerosis, even when accounting for LDL-C concentrations (68,69). As discussed in detail below, therapies to lower LDL-C concentrations have demonstrated important reductions in major adverse cardiovascular event (MACE) rates. Therapies directed at improving HDL-C and triglyceride concentrations have had more mixed success.
+----------------------------------------------------------------------------------------------------
+
+RANK: 15
+CHUNK ID: 72fc797fec675ae0f92907ae304889a3d3bf5448f2d6ec4ef4bec40e2ce7e15c
+SCORE: 15.289721
+RETRIEVER: bm25
+DOCUMENT: dia_kidney_disease
+VERSION: 8b568e01046798eb29071e3b03f5023d2c486e2ed852afcce313c752e5a2b27a
+LANGUAGE: en
+SECTION: ['Kidney Disease and Diabetes', 'Elevated Albuminuria']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK609462/
+
+FULL TEXT:
+As noted earlier in this review, urinary albumin excretion is often increased at diagnosis of both types of diabetes but frequently returns to normal with the institution of glycemic control (22,32,33,34). Persistent albuminuria at the onset of type 2 diabetes, however, may reflect diabetes that has remained undiagnosed for years (34) or the presence of kidney disease unrelated to diabetes, since other kidney diseases are common at the ages when type 2 diabetes typically develops. On the other hand, elevated albuminuria is found in persons with impaired glucose tolerance (216,217,218), raising the possibility that hyperglycemia, even at levels below those diagnostic of diabetes, is sometimes associated with kidney abnormalities. Treatment with ACE inhibitors or ARBs at the highest tolerated dose is recommended in individuals with albuminuria, diabetes, and hypertension to slow decline in kidney function. The addition of SGLT2 inhibitors is also recommended in patients with type 2 diabetes, DKD, and an eGFR ≥20 mL/min/1.73 m2. MRAs in addition to ACE/ARBs and SGLT2 inhibitors further reduce albuminuria and kidney disease progression, as discussed in the Treatment of Diabetes-Related Kidney Disease section of this review (10).
+----------------------------------------------------------------------------------------------------
+
+RANK: 16
+CHUNK ID: 859846c55ef617545adf8ef311a2b324561527679694126c077e85efd4e1e5cc
+SCORE: 15.210264
+RETRIEVER: bm25
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Introduction']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Although coronary heart disease (CHD) is the major cause of morbidity and mortality in patients with type 2 diabetes, historically the diabetes-CHD association received little systematic study, even after the publication of Kelly West’s monumental book Epidemiology of Diabetes Mellitus and Its Vascular Lesions (1) and the development of standard World Health Organization (WHO) (2) and National Diabetes Data Group (3) criteria for the definition of diabetes in the 1980s. According to the Centers for Disease Control and Prevention (CDC) (4), the proportion of diabetes in the United States that is type 1 is 5%–10%, while type 2 diabetes accounts for 90%–95%. The epidemiology and etiology of type 1 (insulin-dependent) diabetes are described elsewhere (5). Aside from the Diabetes Control and Complications Trial (DCCT), there is a relative paucity of trials with cardiovascular outcomes in people with type 1 diabetes. Although longstanding type 1 diabetes carries a cardiovascular disease (CVD) mortality risk similar to type 2 diabetes (6), type 2 diabetes is the primary focus of the analyses herein, based on papers reporting diabetes defined by elevated fasting plasma glucose (FPG) values or diabetes by history. The literature on diabetes and CVD, particularly from studies reporting the results from cardiovascular outcome trials (CVOTs) of newer glucose-lowering agents, has increased exponentially since Diabetes in America, 3rd edition, was published in 2018 (7,8). Here, each section usually starts with a review of the evidence and, whenever possible, concludes showing a large systematic review or meta-analysis that addresses each topic. In order to improve generalizability and statistical power, no attempt was made to exclude prospective studies done outside the United States that were included in these meta-analyses. Diabetes is clearly an established risk factor for CHD (9,10), but how much its effect varies by age, sex, country, or levels of conventional risk factors for CHD remains unresolved (11).
+----------------------------------------------------------------------------------------------------
+
+RANK: 17
+CHUNK ID: b58a4f8ce6e5364318a7168b1e002d0798d31a3c22a429999136cd8b2b64d51b
+SCORE: 15.201424
+RETRIEVER: bm25
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Treatment: Control of Glycemia or Other CVD Risk Factors and CVD Outcomes', 'Trials of Blood Pressure Control']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Reducing blood pressure, usually with pharmacologic therapy, is one of the cornerstones of CVD prevention. A few trials of patients with type 2 diabetes specifically sought to address the question of whether a blood pressure target of <130/80 mmHg, or lower, was better than the standard target of <140/90 mmHg. The trials and their results are outlined in Table 6. The Hypertension Optimal Treatment (HOT) trial, published nearly 25 years ago, included 1,501 patients with type 2 diabetes out of a total sample of 18,790 and randomized patients to a goal diastolic blood pressure of ≤80 mmHg, ≤85 mmHg, or ≤90 mmHg (199). For all patients randomized to ≤80 mmHg compared to those randomized to ≤90 mmHg, regardless of diabetes status, no significant reduction was seen in the risk of nonfatal MI, nonfatal stroke, or cardiovascular death (3-point MACE; RR 0.93, 95% CI 0.78–1.12). However, in the subset of 1,501 patients with type 2 diabetes, a significant reduction in 3-point MACE was seen (RR 0.49, 95% CI 0.29–0.81). The ADVANCE BP trial enrolled 11,140 patients with type 2 diabetes and randomly allocated them in a 1:1 ratio to fixed-dose perindopril/indapamide or placebo (200). The achieved mean blood pressure was 136/73 mmHg in the active treatment group and 142/75 mmHg in the placebo group. Significant reduction was observed in the trial primary endpoint of cardiovascular death, MI, stroke, or microvascular (new or worsening renal or diabetic eye disease) events (HR 0.91, 95% CI 0.83–1.00, p=0.04). The 3-point MACE outcome showed a similar direction and magnitude of effect but was not statistically significant (HR 0.92, 95% CI 0.81–1.04). The ACCORD BP trial randomized 4,733 patients with type 2 diabetes in a 1:1 ratio to a target systolic blood pressure of <120 mmHg (intensively managed group) compared to <140 mmHg (201).
+----------------------------------------------------------------------------------------------------
+
+RANK: 18
+CHUNK ID: e3aa4c1f0439ea027915ca5860db57ec1cbba2b50efe96b18518a03b980d980a
+SCORE: 15.102888
+RETRIEVER: bm25
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Treatment: Control of Glycemia or Other CVD Risk Factors and CVD Outcomes', 'Cardiovascular Outcome Trials of Glucose-Lowering Medications', 'Sodium-Glucose Cotransporter-2 Inhibitors']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+SGLT2i reduce glucose reabsorption in the proximal tubule of the kidney, thereby leading to reductions in A1c through glucosuria. The SGLT2i that have demonstrated benefit in reducing MACE among people with diabetes are empagliflozin, canagliflozin, and dapagliflozin. The SGLT1/2i sotagliflozin also has demonstrated cardiovascular benefit in people with diabetes. The trials in which SGLT2i medications were tested and their outcomes are listed in Table 8 (228,229,231,232,233,234). A meta-analysis reported an 11% reduction in the risk of 3-point MACE, a 23% reduction in the risk of hospitalization for HF or cardiovascular mortality, and a 16% reduction in all-cause mortality with SGLTi (235). The mechanism of the effects of SGLT2i on ASCVD, HF, and cardiovascular death outcomes are not well established but do appear to be largely independent of their effects on blood glucose. Indeed, in trials in patients with HF who were not required to have type 2 diabetes for eligibility, dapagliflozin and empagliflozin showed substantial benefit in patients with HF with reduced ejection fraction (236,237) and in patients with HF with preserved ejection fraction (238,239). SGLT2i also have important benefits for patients with chronic kidney disease (CKD) with or without diabetes, as discussed further in the SGLT2 Inhibitors in Chronic Kidney Disease section; a meta-analysis of published trials estimated a 45% reduction in the risk of worsening estimated glomerular filtration rate (eGFR), end-stage kidney disease, or kidney death (HR 0.55, 95% CI 0.48–0.64) in those randomized to active SGLT2i therapy (235).
+----------------------------------------------------------------------------------------------------
+
+RANK: 19
+CHUNK ID: ac812bd97827644db0e8cee540abe07121f31d4cb547d984348e9b1b812d5e62
+SCORE: 14.748546
+RETRIEVER: bm25
+DOCUMENT: dia_kidney_disease
+VERSION: 8b568e01046798eb29071e3b03f5023d2c486e2ed852afcce313c752e5a2b27a
+LANGUAGE: en
+SECTION: ['Kidney Disease and Diabetes', 'Treatment of Diabetes-Related Kidney Disease', 'Glucagon-Like Peptide-1 Receptor Agonists']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK609462/
+
+FULL TEXT:
+Dedicated kidney outcomes trials, particularly in individuals with known kidney disease, are limited but have confirmed the positive effects of GLP-1 RAs seen in safety and efficacy trials. In the Study Comparing Dulaglutide with Insulin Glargine on Glycemic Control in Participants with Type 2 Diabetes and Moderate or Severe Chronic Kidney Disease (AWARD-7), dulaglutide reduced severe albuminuria by 29% (95% CI 11.5%–43.0%) and attenuated eGFR decline versus insulin glargine alone in adults with type 2 diabetes and moderate to severe CKD (564). In the Evaluate Renal Function with Semaglutide Once Weekly (FLOW) trial, patients with type 2 diabetes and CKD (defined by an eGFR 50–75 mL/min/1.73 m2 and urinary ACR 300–5,000 mg/g or an eGFR 25–<50 mL/min/1.73 m2 and urinary ACR 100–5,000 mg/g) randomized to semaglutide had a 21% lower risk for the composite kidney-specific outcomes (HR 0.79, 95% CI 0.66–0.94) and a 29% lower risk for cardiovascular death (HR 0.71, 95% CI 0.56–0.89) compared with placebo (573). These trials confirm the favorable effects of GLP-1 RAs on kidney, cardiovascular, and survival outcomes in high-risk populations with type 2 diabetes, although gastrointestinal disorders are common causes of treatment discontinuation.
+----------------------------------------------------------------------------------------------------
+
+RANK: 20
+CHUNK ID: be66ba4179df26d8e45593cabf421e46a7431951ad46612acd70a7fcab90cb97
+SCORE: 14.704519
+RETRIEVER: bm25
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Risk Factors for the Development of Heart Disease in People With Diabetes', 'Metabolic Risk Factors', 'Novel Risk Markers', 'C-Reactive Protein']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+C-reactive protein is a marker of inflammation, and hsCRP levels are higher among individuals with obesity, insulin resistance, and diabetes. Among women without diabetes, higher CRP levels are independently associated with fasting insulin levels (95). Furthermore, hsCRP levels predict the risk for incident type 2 diabetes (96,97,98), implicating the role of low-grade inflammation in diabetes pathogenesis. However, associations of inflammation with diabetes risk have been attenuated after accounting for BMI (97,98), suggesting adiposity may be mediating this relationship. In addition to predicting future type 2 diabetes risk, elevated levels of hsCRP predict incident ASCVD and improve risk prediction independently of the lipid profile (99,100). The Reynolds Risk Scores for prediction of CVD, which incorporate hsCRP in their equations, improve risk discrimination over traditional risk factors alone (101,102). The Justification for the Use of Statins in Prevention: An Intervention Trial Evaluating Rosuvastatin (JUPITER) enrolled apparently healthy individuals without CVD or diabetes, who had LDL-C levels <130 mg/dL (<3.37 mmol/L) but elevated hsCRP levels ≥2 mg/L, and found that statin treatment reduced MACE by 44% (HR 0.56, 95% CI 0.46–0.69) compared to placebo (103). This pivotal trial provided key evidence demonstrating the benefit of statin therapy in patients with elevated hsCRP levels. Although this study excluded persons with diabetes, 41% of participants did have the metabolic syndrome, and the benefit of statin therapy was seen across metabolic syndrome groups. Therefore, the 2019 American College of Cardiology (ACC)/AHA primary prevention guideline considers elevated hsCRP ≥2 mg/L to be a “risk-enhancing” factor that would favor the initiation of statin therapy among individuals at borderline or intermediate risk. However, as persons with diabetes who are age ≥40 years are already recommended for statin therapy, the role of hsCRP assessment for guiding treatment decisions in this population is unclear.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+BGE-M3 TOP-20 | TOTAL: 20
+====================================================================================================
+
+RANK: 1
+CHUNK ID: 23c305a02e5794287b1d18205c34ea638701e92c96b30ab9dbc452d06edb3489
+SCORE: 0.712964
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Evidence-Based Recommendations for Diabetes Management From Professional Societies']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Many professional societies have recommendations for pharmacologic therapy for cardiovascular risk factor and CVD prevention in people with type 2 diabetes (75,268,269,270) in conjunction with lifestyle modifications, which include ≥5% weight loss through individualized medical nutrition (diet), physical activity, and/or behavioral therapy. These recommendations are summarized in Table 10 and detailed below.
+----------------------------------------------------------------------------------------------------
+
+RANK: 2
+CHUNK ID: a239b190a7f9d6d327914ce7fab0c97ce75f1e9644c9a0f082e4085da7c7282d
+SCORE: 0.678642
+RETRIEVER: dense
+DOCUMENT: dia_medication_use
+VERSION: e575b390642a5fb768040eb82e6a973eaf31b6e88a1e0e554a1ef861afa8b757
+LANGUAGE: en
+SECTION: ['Medication Use and Self-Care Practices in Persons With Diabetes', 'Type 2 Diabetes in Adults', 'Self-Care Practices']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK607283/
+
+FULL TEXT:
+Individuals with diabetes can reduce the risk of developing serious and costly diabetic complications by engaging in evidence-based self-care and clinical preventive practices. Appropriate glucose monitoring, regular tests for A1C, diabetes self-management education and support (DSMES) classes, medical nutrition therapy, physical activity, smoking cessation, foot and eye exams, and routine vaccinations are among good self-care management activities that can help individuals with diabetes attain target A1C, detect diabetes-related complications early, decrease the risk of infections, improve quality of life, and reduce associated treatment costs (107,108). Data from the Nurses’ Health Study and Health Professionals Follow-up Study suggested that adherence to healthy lifestyle behaviors was suboptimal in patients with type 2 diabetes (109). In the study, low-risk lifestyle factors were defined as (1.) a diet score in the upper 40th percentile of the study population, (2.) BMI between 18.5 and 25 kg/m2, (3.) noncurrent smoking, (4.) alcohol use of 5–15 grams per day for women and 5–30 grams per day for men, and (5.) >150 minutes per week of moderate-to-vigorous activities. The authors found that fewer than one in four patients with type 2 diabetes had three or more low-risk lifestyle factors at diagnosis. In 2015–March 2020, 88% of NHANES participants with type 2 diabetes reported having their A1C checked, while 73% had a foot exam and 65.5% had an eye exam in the past year (Table 10). Almost two-thirds and more than one-half of participants performed a self-exam of their feet and self-monitoring of blood glucose daily, respectively. In addition, one in four participants saw a certified diabetes educator (i.e., diabetes nurse educator or dietitian or nutritionist), and 8 in 10 saw a health care professional for diabetes (doctor or other health care provider other than diabetes educators, dietitians, or foot and eye doctors) in the past year.
+----------------------------------------------------------------------------------------------------
+
+RANK: 3
+CHUNK ID: 3ce934a8f4cdd3fb04e01dddd900e7dc9c9a583fb941542a5db0fcd93c4e5e5a
+SCORE: 0.669147
+RETRIEVER: dense
+DOCUMENT: niddk_t2dm_overview
+VERSION: 3465d2365ab3fdd91b1c87d3b9b4a36073bf2a538dc422e38ee9022450fa7ce4
+LANGUAGE: en
+SECTION: ['Type 2 Diabetes', 'How can I manage my type 2 diabetes?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes
+
+FULL TEXT:
+Managing your blood glucose, blood pressure, and cholesterol, and quitting smoking if you smoke, are important ways to manage your type 2 diabetes. Lifestyle changes that include planning healthy meals, limiting calories if you are overweight, and being physically active are also part of managing your diabetes. So is taking any prescribed medicines. Work with your health care team to create a diabetes care plan that works for you. Following your meal plan helps you manage your diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 4
+CHUNK ID: 09dcadcce8e86a4f2f6c570f95456924a6ed33cc329cd9400e602b7343f8b3b0
+SCORE: 0.666682
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Summary']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+All agents in the glucagon-like peptide-1 receptor agonist and sodium-glucose cotransporter-2 inhibitor classes have demonstrated safety, while some agents within these classes of medication have further demonstrated superiority in reducing major adverse cardiovascular events, hospitalization for heart failure, and kidney failure in specific populations. In conclusion, despite intensive management of cardiovascular risk factors, the high risk for heart disease among people with diabetes remains a major health concern. Importantly, over the past few years, an increasing number of therapies have become available to reduce cardiovascular risk in people with type 2 diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 5
+CHUNK ID: 704e497b189bf44f536dcf9a2b78148929b35daede11fea92f959de7207b3408
+SCORE: 0.664243
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Risk Factors for the Development of Heart Disease in People With Diabetes', 'Metabolic Risk Factors', 'Hypertension']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+The CDC estimates that 69% of patients with type 2 diabetes have hypertension (19). Just as dyslipidemia can precede the diagnosis of diabetes, so too can the diagnosis of hypertension precede diabetes (62,70). As might be anticipated, patients with type 2 diabetes are also at elevated risk of developing hypertension (71). An epidemiologic analysis of data from the United Kingdom Prospective Diabetes Study (UKPDS) suggests an increase in both macrovascular and microvascular events with increases in systolic blood pressure in patients with diabetes, as well as a substantially elevated risk of HF and peripheral artery disease (PAD) (including amputation or death from PAD) (72). These data have led the American Heart Association (AHA) to recommend a lower blood pressure treatment goal (<130/80 mmHg) in patients with diabetes with the goal of improving macrovascular and microvascular outcomes (73). However, recommendations about which patients to treat aggressively, and which to treat less aggressively, have historically differed among major professional organizations, although recent guidelines from the ADA reflect greater concordance with those from the AHA (74,75). Recommendations have differed in part because of concern about potential adverse effects of antihypertensive therapy in patients with diabetes and because of a lack of clarity from clinical trial data.
+----------------------------------------------------------------------------------------------------
+
+RANK: 6
+CHUNK ID: 12441e66f1c594746687597ec7e4b621010da48b83c6021018ac473ddd7a8dc7
+SCORE: 0.664179
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Treatment: Control of Glycemia or Other CVD Risk Factors and CVD Outcomes', 'Trials of Comprehensive Risk Factor and Lifestyle Management']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Few trials that include interventions targeted at multiple risk factors for CVD among persons with diabetes have been published (Table 7). The Steno-2 trial was conducted among 160 patients with type 2 diabetes who were randomized to intensive therapy designed to lower glucose, LDL-C, and blood pressure; after a 7.8-year follow-up, those in the intensive therapy arm had a significantly lower risk of CVD events (HR 0.47, 95% CI 0.24–0.73) (216). A further 5.5-year follow-up of this study cohort showed a subsequent 46% lower total mortality, 57% lower CVD death rate, and 59% lower risk of subsequent CVD events (217).
+----------------------------------------------------------------------------------------------------
+
+RANK: 7
+CHUNK ID: a27a1af49393d5968b25d53ab22440a3eedfbc3054da73368a54707d2d79bb70
+SCORE: 0.660540
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Summary']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Heart disease remains a major cause of morbidity and mortality among individuals with type 2 diabetes. Meta-analyses have demonstrated a pooled relative risk for incident coronary heart disease (CHD) that is approximately twofold higher overall in adults with diabetes compared to those without diabetes. In studies that further stratify results by sex, the relative risk of CHD is higher in women than men in the presence of diabetes. Nonetheless, the age-standardized prevalence for all categories of heart disease remains higher in men with diabetes than women with diabetes in the United States. Although the rates of diabetes are higher in Hispanic and non-White individuals compared to non-Hispanic White adults, it should be noted that non-Hispanic White adults with diabetes generally report heart disease rates up to twice as high as Hispanic persons with diabetes, with an intermediate prevalence of any heart condition in non-Hispanic Black individuals. Despite a more than twofold increase in type 2 diabetes prevalence from the 1970s to the 2020s, the prevalence of heart disease has increased modestly in both men with diabetes and women with diabetes, while in contrast, it has remained stable or decreased for men and women without diabetes. Classic heart disease risk markers have been clearly demonstrated to be important determinants of heart disease in diabetes, including elevated low-density lipoprotein cholesterol, elevated blood pressure, smoking, and elevated triglycerides and low high-density lipoprotein cholesterol. Obesity is an important risk factor for type 2 diabetes but has not consistently been shown to have an independent association with heart disease, possibly because obesity is in the causal pathway between these risk factors and heart disease development. However, several studies indicate that the excess prevalence of heart disease in diabetes is not fully accounted for by measured classic cardiovascular disease risk factors. In addition, novel biomarkers have been found to either add no or only modest incremental significance in the prediction of heart disease.
+----------------------------------------------------------------------------------------------------
+
+RANK: 8
+CHUNK ID: 121008e3e5db590f522a96ff30b561e2eed8241f2d72d9c9094465775a00d486
+SCORE: 0.657144
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Evidence-Based Recommendations for Diabetes Management From Professional Societies', 'Clinical Guidelines for CVD Prevention in People With Diabetes']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Landmark trials of intensive versus standard glucose-lowering strategies have demonstrated significant reduction in microvascular complications, but uncertain benefits for CVD, and inform current clinical practice. According to the ADA recommendations in 2023, most nonpregnant adults may benefit from an A1c target of <7%. However, individualizing A1c goals—so as to avoid harm (as was seen in ACCORD)—and additionally optimizing multiple cardiovascular risk factors beyond glucose, while still striving for tight glycemic control in those for whom it can be reasonably and safely achieved, are now major tenets in the care of people with diabetes (75,271). All patients across the risk spectrum benefit from the implementation of favorable lifestyle changes, including regular physical activity and healthy diet patterns, to improve their glucose, blood pressure, and lipid parameters. Major professional societies recommend treating with antihypertensive drug therapy to a blood pressure target of <130/80 mmHg in patients with type 2 diabetes and hypertension (74,75). The ADA and ACC/AHA guidelines recommend at least a moderate-intensity statin for individuals age >40 years who have diabetes for primary prevention of ASCVD (75,179,257). However, there may be situations of statin intolerance or patient preference to avoid pharmacotherapy where additional risk stratification may be desired. Some individuals with diabetes are actually at lower ASCVD risk than might be predicted given their diabetes status, and the CAC scores can be useful in selecting patients with diabetes to reclassify risk and identify lower and high-risk individuals, when risk status is otherwise uncertain (272,273). One caveat with the use of CAC as a risk marker is that it takes some time for plaque to calcify, and the absence of CAC may be less reassuring in younger compared to older adults. In younger patients age <40 years with diabetes, a CAC score of zero may not sufficiently identify low-risk individuals.
+----------------------------------------------------------------------------------------------------
+
+RANK: 9
+CHUNK ID: 35ad05b49fd61760b08c72e6b4946949c31da10740fffc252a4e6645f4c5e308
+SCORE: 0.655460
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Overview of the Goals and Outline for This Article']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+The overarching aim of this review is to appraise and synthesize the evidence base for individual-level interventions considered safe and effective for the primary prevention of type 2 diabetes. We focus on where the evidence to date for type 2 diabetes primary prevention has been the strongest, primarily involving lifestyle and pharmacological interventions targeting high-risk adults. In the following sections, we review efficacy trials designed to evaluate and compare different interventions with respect to the outcome of progression to type 2 diabetes, followed by an overview of translational research that advanced the implementation and dissemination of intensive lifestyle interventions into the health care and population health sectors, focusing on the U.S. experience. Finally, we review the current state of U.S. diabetes prevention policy and practice, and we conclude with prevailing challenges, unanswered questions, and areas needing further research and action. This article updates the Diabetes in America, 3rd edition chapter Prevention of Type 2 Diabetes (1). Type 2 diabetes mellitus is a chronic and progressive health condition resulting from a disruption of the normal actions of insulin to enable cells throughout the body to take up and store nutrients, including glucose, fatty acids, and amino acids. As glucose reaches high concentrations in blood and extracellular fluid, it causes oxidative damage to tissues, such as peripheral nerves, the retina, vascular endothelium, and renal glomerulus. This damage leads to permanent physiological impairments that can worsen over months to years before the emergence of any symptoms. In this context, prompt identification and treatment of type 2 diabetes are critical. As a result of population growth and advances in practice, the number of U.S. residents diagnosed and treated for type 2 diabetes has increased more than fivefold since 1980 (2,3), imposing a tremendous toll on individuals, families, health systems, and society. Without parallel efforts to prevent type 2 diabetes, this toll will only continue to rise.
+----------------------------------------------------------------------------------------------------
+
+RANK: 10
+CHUNK ID: 35907d53fce9bf3c2fe0058dbcb3de7af5dd9e899e6aed6b918ce794440727cd
+SCORE: 0.653326
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Historical Clues for Identifying and Modifying Risk for Type 2 Diabetes']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+Epidemiologic research during the past century showed that family history, middle age, centripetal obesity, physical inactivity, and poverty all are associated with increased risk for developing type 2 diabetes (3). Serial cross-sectional studies showed striking shifts in the population prevalence of diabetes and obesity (2,17), suggesting that something causative was increasing in the environment and driving susceptible individuals to develop type 2 diabetes more often (18) and that obesity was either an intermediate state or parallel outcome of that process. It also was apparent that genes, aging, dietary composition, physical activity, visceral fat accumulation, and environmental conditions were critical to understanding the pathophysiology and prevention of type 2 diabetes. Observations from the treatment of type 2 diabetes held important clues for its prevention. Low calorie diets have been useful in the clinical management of type 2 diabetes for hundreds of years, improving glucose control and reducing the need for glucose-lowering medications (19). Physical activity not only lowers blood glucose acutely but also amplifies the effects of insulin treatment on blood glucose control for up to 72 hours, suggesting that exercise somehow restores, albeit temporarily, some of the lost sensitivity to insulin (20,21). Finally, weight loss achieved through behavioral changes, medications, and metabolic bariatric surgery has significant effects on insulin sensitivity and secretion, so long as weight loss is maintained (22). Observations such as these, dating back many decades, catalyzed a new era of experimental diabetes prevention research beginning in about the 1990s, which now serves as the foundation for the evidence reviewed by this article.
+----------------------------------------------------------------------------------------------------
+
+RANK: 11
+CHUNK ID: 859846c55ef617545adf8ef311a2b324561527679694126c077e85efd4e1e5cc
+SCORE: 0.653292
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Introduction']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Although coronary heart disease (CHD) is the major cause of morbidity and mortality in patients with type 2 diabetes, historically the diabetes-CHD association received little systematic study, even after the publication of Kelly West’s monumental book Epidemiology of Diabetes Mellitus and Its Vascular Lesions (1) and the development of standard World Health Organization (WHO) (2) and National Diabetes Data Group (3) criteria for the definition of diabetes in the 1980s. According to the Centers for Disease Control and Prevention (CDC) (4), the proportion of diabetes in the United States that is type 1 is 5%–10%, while type 2 diabetes accounts for 90%–95%. The epidemiology and etiology of type 1 (insulin-dependent) diabetes are described elsewhere (5). Aside from the Diabetes Control and Complications Trial (DCCT), there is a relative paucity of trials with cardiovascular outcomes in people with type 1 diabetes. Although longstanding type 1 diabetes carries a cardiovascular disease (CVD) mortality risk similar to type 2 diabetes (6), type 2 diabetes is the primary focus of the analyses herein, based on papers reporting diabetes defined by elevated fasting plasma glucose (FPG) values or diabetes by history. The literature on diabetes and CVD, particularly from studies reporting the results from cardiovascular outcome trials (CVOTs) of newer glucose-lowering agents, has increased exponentially since Diabetes in America, 3rd edition, was published in 2018 (7,8). Here, each section usually starts with a review of the evidence and, whenever possible, concludes showing a large systematic review or meta-analysis that addresses each topic. In order to improve generalizability and statistical power, no attempt was made to exclude prospective studies done outside the United States that were included in these meta-analyses. Diabetes is clearly an established risk factor for CHD (9,10), but how much its effect varies by age, sex, country, or levels of conventional risk factors for CHD remains unresolved (11).
+----------------------------------------------------------------------------------------------------
+
+RANK: 12
+CHUNK ID: b58a4f8ce6e5364318a7168b1e002d0798d31a3c22a429999136cd8b2b64d51b
+SCORE: 0.652539
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Treatment: Control of Glycemia or Other CVD Risk Factors and CVD Outcomes', 'Trials of Blood Pressure Control']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Reducing blood pressure, usually with pharmacologic therapy, is one of the cornerstones of CVD prevention. A few trials of patients with type 2 diabetes specifically sought to address the question of whether a blood pressure target of <130/80 mmHg, or lower, was better than the standard target of <140/90 mmHg. The trials and their results are outlined in Table 6. The Hypertension Optimal Treatment (HOT) trial, published nearly 25 years ago, included 1,501 patients with type 2 diabetes out of a total sample of 18,790 and randomized patients to a goal diastolic blood pressure of ≤80 mmHg, ≤85 mmHg, or ≤90 mmHg (199). For all patients randomized to ≤80 mmHg compared to those randomized to ≤90 mmHg, regardless of diabetes status, no significant reduction was seen in the risk of nonfatal MI, nonfatal stroke, or cardiovascular death (3-point MACE; RR 0.93, 95% CI 0.78–1.12). However, in the subset of 1,501 patients with type 2 diabetes, a significant reduction in 3-point MACE was seen (RR 0.49, 95% CI 0.29–0.81). The ADVANCE BP trial enrolled 11,140 patients with type 2 diabetes and randomly allocated them in a 1:1 ratio to fixed-dose perindopril/indapamide or placebo (200). The achieved mean blood pressure was 136/73 mmHg in the active treatment group and 142/75 mmHg in the placebo group. Significant reduction was observed in the trial primary endpoint of cardiovascular death, MI, stroke, or microvascular (new or worsening renal or diabetic eye disease) events (HR 0.91, 95% CI 0.83–1.00, p=0.04). The 3-point MACE outcome showed a similar direction and magnitude of effect but was not statistically significant (HR 0.92, 95% CI 0.81–1.04). The ACCORD BP trial randomized 4,733 patients with type 2 diabetes in a 1:1 ratio to a target systolic blood pressure of <120 mmHg (intensively managed group) compared to <140 mmHg (201).
+----------------------------------------------------------------------------------------------------
+
+RANK: 13
+CHUNK ID: 1039a11885664361828b4de60f6fae66a7d42c7db955f1dc983fd332f21c4017
+SCORE: 0.649125
+RETRIEVER: dense
+DOCUMENT: niddk_t2dm_overview
+VERSION: 3465d2365ab3fdd91b1c87d3b9b4a36073bf2a538dc422e38ee9022450fa7ce4
+LANGUAGE: en
+SECTION: ['Type 2 Diabetes', 'How can I lower my chances of developing type 2 diabetes?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes
+
+FULL TEXT:
+Research such as the Diabetes Prevention Program, sponsored by the National Institutes of Health, has shown that you can take steps to reduce your chances of developing type 2 diabetes if you have risk factors for the disease. Here are some things you can do to lower your risk: Lose weight if you are overweight, and keep it off. You may be able to prevent or delay diabetes by losing 5 to 7 percent of your current weight.1 For instance, if you weigh 200 pounds, your goal would be to lose about 10 to 14 pounds. Move more. Get at least 30 minutes of physical activity, such as walking, at least 5 days a week. If you have not been active, talk with your health care professional about which activities are best. Start slowly and build up to your goal. Eat healthy foods. Eat smaller portions to reduce the amount of calories you eat each day and help you lose weight. Choosing foods with less fat is another way to reduce calories. Drink water instead of sweetened beverages. Ask your health care team what other changes you can make to prevent or delay type 2 diabetes. Most often, your best chance for preventing type 2 diabetes is to make lifestyle changes that work for you long term. Get started with Your Game Plan to Prevent Type 2 Diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 14
+CHUNK ID: eb12dd2edd019547ded6ebced0d40eacf2761539a0ae1876d992864343f2a37b
+SCORE: 0.647482
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Conclusions']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+The past 30 years have seen the dawn of a new field of science focusing on the primary prevention of type 2 diabetes, primarily targeting high-risk adults who are identified with a glycemic test result just below thresholds for diagnosing and treating type 2 diabetes. Rigorous clinical trials spanning multiple continents demonstrated consistent, strong effects of intensive lifestyle behavioral interventions and, to a somewhat lesser extent, select medications to prevent or delay progression to type 2 diabetes. The feasibility and sustainability of offering these evidence-based treatments in routine clinical and community practice settings have proved challenging and remain an active area of translational and implementation science. The dominant existing implementation approach emphasizing referral linkages to lower-intensity and time-bound adaptations of clinical trial lifestyle interventions likely has benefits for the nearly 1 million U.S. adults with high-risk characteristics, but the strategy has identified and engaged <1% of roughly 100 million adults currently living with prediabetes so is unlikely to be achieving population-level effects on slowing type 2 diabetes incidence. Further research is needed to improve implementation and effectiveness on a large scale. Existing research also supports that for those who do engage in treatment, individual intervention strategies have an important role in preventing or delaying the need for initiating type 2 diabetes treatment; however, it is unclear whether such strategies prevent long-term complications in ways already shown following intensive monitoring and glucose-lowering management among those who have progressed to more severe metabolic abnormalities and a diagnosis of type 2 diabetes (14). In this context, it remains of critical importance to maintain focus on the prompt identification and intensive management of incident type 2 diabetes.
+----------------------------------------------------------------------------------------------------
+
+RANK: 15
+CHUNK ID: cbd229299c778e313212f1d5a7690314194f8cce705476922fb907af6efcca2e
+SCORE: 0.647443
+RETRIEVER: dense
+DOCUMENT: dia_medication_use
+VERSION: e575b390642a5fb768040eb82e6a973eaf31b6e88a1e0e554a1ef861afa8b757
+LANGUAGE: en
+SECTION: ['Medication Use and Self-Care Practices in Persons With Diabetes', 'Type 2 Diabetes in Adults', 'Medications for Other Health Conditions', 'Hypertension Treatment']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK607283/
+
+FULL TEXT:
+Hypertension is the most common comorbidity in individuals with type 2 diabetes, with an estimated prevalence of up to 73.6% (70). Among NHANES 2015–March 2020 adult participants age ≥20 years, the age-standardized prevalence of self-reported hypertension was highest among adults with diagnosed type 2 diabetes (59.4%) compared to those with undiagnosed diabetes (46.8%), prediabetes (39.4%), or normal glucose levels (27.1%) (Table 8). In patients receiving care in a large health system in 2013, 87% of patients with type 2 diabetes had hypertension documented in their electronic health record (71). Maintaining blood pressure <140/90 mmHg decreases the risk of ASCVD, heart failure, and microvascular complications in individuals with type 2 diabetes (72,73,74,75). In addition to lifestyle intervention, medications can be used to achieve the optimal blood pressure target. Drug classes that are associated with a reduction of ASCVD events include ACE inhibitors, ARBs, thiazide-like diuretics, and dihydropyridine calcium channel blockers (76,77,78,79). Consistent with the prevalence data, use of antihypertensive medication increased with increasing A1C. In the NHANES 2015–March 2020, almost 60% of adults age ≥20 years with diagnosed type 2 diabetes took one or more antihypertensive medication, which was 1.5, 2, and 3 times higher than participants with undiagnosed diabetes, prediabetes, and normal glucose levels, respectively (Table 8, Appendix Table A1). The most common antihypertensive drug class used in adults with diagnosed diabetes was ACE inhibitors, followed by diuretics, beta blockers, and then ARBs. In contrast, diuretics and beta blockers were the most commonly used drugs in adults with undiagnosed diabetes, prediabetes, and normal glucose levels.
+----------------------------------------------------------------------------------------------------
+
+RANK: 16
+CHUNK ID: fad7675a125d7835b6bda8d50ccb99df8cc5d684010523bf246aa1c1c726087e
+SCORE: 0.642434
+RETRIEVER: dense
+DOCUMENT: dia_medication_use
+VERSION: e575b390642a5fb768040eb82e6a973eaf31b6e88a1e0e554a1ef861afa8b757
+LANGUAGE: en
+SECTION: ['Medication Use and Self-Care Practices in Persons With Diabetes', 'Type 2 Diabetes in Adults', 'Medications for Other Health Conditions']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK607283/
+
+FULL TEXT:
+Individuals with type 2 diabetes have a high prevalence of diabetes-related comorbidities, including various macrovascular and microvascular complications (68). Most individuals with type 2 diabetes have at least one more comorbidity, while almost one-half have two or more coexisting conditions (69). Common comorbidities include hypertension, hypercholesterolemia, and chronic kidney disease. Failure to control diabetes-related comorbidities can lead to the development of more severe complications, whereas optimizing management of glucose, blood pressure, lipids, and smoking will help reduce risks of atherosclerotic cardiovascular disease (ASCVD), blindness, kidney failure, and amputations. Individuals with diabetes often use multiple concomitant medications. In the NHANES 2015–March 2020, participants age ≥20 years with diagnosed type 2 diabetes used 5.2 prescription drugs on average compared to 3.2 and 3.1 prescription drugs in people with undiagnosed diabetes (A1C ≥6.5% [≥48 mmol/mol] or FPG ≥126 mg/dL [≥7.00 mmol/L]) and those with prediabetes (A1C 5.7%–6.4% [39–46 mmol/mol] or FPG 100–125 mg/dL [5.55–6.94 mmol/L]), respectively (Figure 12, Table 8, Appendix Table A1). In addition, medication use was almost twice as high in participants with diagnosed type 2 diabetes compared to those with normal glucose levels (A1C <5.7% and FPG <100 mg/dL).
+----------------------------------------------------------------------------------------------------
+
+RANK: 17
+CHUNK ID: 34c94bf6a14994afe2c581d78794defa640f39daa52f5f304dad053c354988fb
+SCORE: 0.641924
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Summary']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+Type 2 diabetes is a progressive condition that can lead to multiple organ damage, disability, and premature death. Prediabetes, a high-risk state marked by elevated blood glucose levels below the diagnostic threshold for type 2 diabetes, currently affects 98 million U.S. adults. Individual-level interventions, including intensive lifestyle programs and select medications, have proven effective in delaying or preventing the progression from prediabetes to type 2 diabetes. Landmark clinical trials in the 1990s established the efficacy of these treatment approaches, with lifestyle changes demonstrating greater benefits than medications such as metformin, alpha-glucosidase inhibitors, or lipase inhibitors and more favorable safety than thiazolidinediones. These findings catalyzed translational research to enhance the feasibility, acceptability, and sustainability of delivering intensive lifestyle interventions in real-world settings. Adapted interventions remained effective and were found cost-effective, contributing to policies that established the U.S. National Diabetes Prevention Program (NDPP) and reimbursement from public and private payors. The NDPP now exists to expand access to evidence-based lifestyle intervention programs nationwide and has reached nearly 819,000 adults through a nationwide network of almost 1,400 community-based organizations and healthcare partnerships. The Centers for Medicare and Medicaid Services leveraged the NDPP infrastructure to offer Diabetes Prevention Program (DPP)-like intervention services as a covered health benefit for high-risk Medicare beneficiaries. However, despite these remarkable examples of translating research into policy and practice, only a small proportion of U.S. adults living with prediabetes today are aware they are at high risk for type 2 diabetes, and far fewer have knowledge of or have taken part in a DPP-like intervention program. Emerging research highlights the need for innovative strategies to improve engagement, including leveraging technology and tailoring interventions to diverse social and cultural contexts. Although multiple medications have efficacy in type 2 diabetes prevention, none have received U.S.
+----------------------------------------------------------------------------------------------------
+
+RANK: 18
+CHUNK ID: bd7b1f62d64f191c9dc31b4ca4336f0207b1b10949ebebd067460b8f56b5f822
+SCORE: 0.641501
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Overview of the Goals and Outline for This Article']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+This article focuses on preventing the most common phenotype of type 2 diabetes, which often presents in middle-aged adults with overweight or obesity. Research has described less common phenotypes of type 2 diabetes, including ketosis-prone, maturity-onset diabetes of the young, and latent autoimmune diabetes in adults (4,5). Because these phenotypes of type 2 diabetes are not fully understood, and most type 2 diabetes prevention trials did not distinguish progression to these distinct type 2 diabetes phenotypes, their primary prevention is considered beyond the scope of this review. This article also does not review the emerging literature on prevention of type 1 diabetes, given the significant differences in its underlying pathophysiology and treatment approaches (6). The evidence to date for type 2 diabetes primary prevention has been the strongest in the areas of lifestyle and pharmacological interventions targeting high-risk adults. This article outlines the major goals of type 2 diabetes prevention and the progression of intervention evidence, including clinical trials demonstrating efficacy and safety, followed by translational research investigating an array of implementation strategies to increase adoption, reach, and population effectiveness, including implications for individuals and groups that are at high risk but have proved challenging to reach or appear to benefit less from current implementation strategies. Finally, we summarize gaps in the literature and implications for future research and policy. Comprehending the evidence base for type 2 diabetes primary prevention will benefit first from a short overview of nutrient metabolism with and without normal insulin action, what it means to develop type 2 diabetes, both biologically and clinically, and how individuals can be identified in the months to years prior to a type 2 diabetes diagnosis, when primary prevention is still achievable.
+----------------------------------------------------------------------------------------------------
+
+RANK: 19
+CHUNK ID: e3ff8cd049372a9edbadd6087f559a02d969b7abe3433bfb51284993be875709
+SCORE: 0.641109
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Evidence-Based Recommendations for Diabetes Management From Professional Societies', 'Risk Assessment and Stratification', 'Primary Prevention']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+The 2019 ACC/AHA guidelines recommend that for adults age 40–75 years who have diabetes, regardless of their estimated 10-year ASCVD risk, a moderate-intensity statin is indicated for prevention (class I recommendation). Furthermore, for persons with diabetes with multiple ASCVD risk factors, it is reasonable to prescribe a high-intensity statin with the aim of lowering LDL-C by 50% or more (class IIa recommendation) (257). In addition to the traditional ASCVD factors, the ACC/AHA guidelines also highlight diabetes-specific risk-enhancing factors, which include long duration of diabetes (≥10 years for type 2 diabetes and ≥20 years for type 1 diabetes), albuminuria ≥30 mcg albumin/mg creatinine, eGFR <60 mL/min/1.73 m2, retinopathy, neuropathy, or ABI <0.9 (257). The presence of these factors would also favor initiation of a high-intensity statin. The ADA Standards of Care 2023 similarly endorse that cardiovascular risk factors should be assessed at least annually in patients with diabetes, including duration of diabetes, overweight/obesity, hypertension, dyslipidemia, smoking, family history of premature CHD, CKD, and presence of albuminuria (75). The ADA encourages the use of the PCE for 10-year risk assessment as a useful starting tool. While risk factor assessment and treatment are strongly recommended, the ACC/AHA and the ADA do not recommend routine screening for coronary artery disease via stress testing in asymptomatic individuals as it does not improve outcomes as long as cardiovascular risk factors are optimally treated (75,257). Selective stress testing or other cardiovascular imaging (echocardiography, etc.) can be considered for patients with symptoms concerning for CVD or who have other abnormal physical exam findings or electrocardiogram (ECG) evidence suggestive of ASCVD or HF. Although younger individuals age <40 years are not included in the 10-year risk assessment, it is still reasonable to routinely assess traditional ASCVD risk factors.
+----------------------------------------------------------------------------------------------------
+
+RANK: 20
+CHUNK ID: 21dd0becb69cd5fe89f2a06ff6fb2d1c4e28d61f88f7e600cf567f76968f1643
+SCORE: 0.640184
+RETRIEVER: dense
+DOCUMENT: niddk_t2dm_risk_factors
+VERSION: 14d2a0c12fc93337bae599bba579f3c7caa2b127840a07e2a3644ebc5897697f
+LANGUAGE: en
+SECTION: ['Risk Factors for Type 2 Diabetes']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/risk-factors-type-2-diabetes
+
+FULL TEXT:
+Your chances of developing type 2 diabetes depend on a combination of risk factors. Although you can’t change risk factors related to family history, age, race, or ethnicity, you may be able to avoid some risk factors by maintaining a healthy weight and being physically active.1 Read about risk factors for type 2 diabetes below, and see which ones apply to you. Acting on the factors you can change may help delay or prevent type 2 diabetes.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RRF TOP-7 | TOTAL: 7
+====================================================================================================
+
+RANK: 1
+CHUNK ID: e3ff8cd049372a9edbadd6087f559a02d969b7abe3433bfb51284993be875709
+RRF SCORE: 0.028283
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Evidence-Based Recommendations for Diabetes Management From Professional Societies', 'Risk Assessment and Stratification', 'Primary Prevention']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+The 2019 ACC/AHA guidelines recommend that for adults age 40–75 years who have diabetes, regardless of their estimated 10-year ASCVD risk, a moderate-intensity statin is indicated for prevention (class I recommendation). Furthermore, for persons with diabetes with multiple ASCVD risk factors, it is reasonable to prescribe a high-intensity statin with the aim of lowering LDL-C by 50% or more (class IIa recommendation) (257). In addition to the traditional ASCVD factors, the ACC/AHA guidelines also highlight diabetes-specific risk-enhancing factors, which include long duration of diabetes (≥10 years for type 2 diabetes and ≥20 years for type 1 diabetes), albuminuria ≥30 mcg albumin/mg creatinine, eGFR <60 mL/min/1.73 m2, retinopathy, neuropathy, or ABI <0.9 (257). The presence of these factors would also favor initiation of a high-intensity statin. The ADA Standards of Care 2023 similarly endorse that cardiovascular risk factors should be assessed at least annually in patients with diabetes, including duration of diabetes, overweight/obesity, hypertension, dyslipidemia, smoking, family history of premature CHD, CKD, and presence of albuminuria (75). The ADA encourages the use of the PCE for 10-year risk assessment as a useful starting tool. While risk factor assessment and treatment are strongly recommended, the ACC/AHA and the ADA do not recommend routine screening for coronary artery disease via stress testing in asymptomatic individuals as it does not improve outcomes as long as cardiovascular risk factors are optimally treated (75,257). Selective stress testing or other cardiovascular imaging (echocardiography, etc.) can be considered for patients with symptoms concerning for CVD or who have other abnormal physical exam findings or electrocardiogram (ECG) evidence suggestive of ASCVD or HF. Although younger individuals age <40 years are not included in the 10-year risk assessment, it is still reasonable to routinely assess traditional ASCVD risk factors.
+----------------------------------------------------------------------------------------------------
+
+RANK: 2
+CHUNK ID: bd7b1f62d64f191c9dc31b4ca4336f0207b1b10949ebebd067460b8f56b5f822
+RRF SCORE: 0.027526
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Overview of the Goals and Outline for This Article']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+This article focuses on preventing the most common phenotype of type 2 diabetes, which often presents in middle-aged adults with overweight or obesity. Research has described less common phenotypes of type 2 diabetes, including ketosis-prone, maturity-onset diabetes of the young, and latent autoimmune diabetes in adults (4,5). Because these phenotypes of type 2 diabetes are not fully understood, and most type 2 diabetes prevention trials did not distinguish progression to these distinct type 2 diabetes phenotypes, their primary prevention is considered beyond the scope of this review. This article also does not review the emerging literature on prevention of type 1 diabetes, given the significant differences in its underlying pathophysiology and treatment approaches (6). The evidence to date for type 2 diabetes primary prevention has been the strongest in the areas of lifestyle and pharmacological interventions targeting high-risk adults. This article outlines the major goals of type 2 diabetes prevention and the progression of intervention evidence, including clinical trials demonstrating efficacy and safety, followed by translational research investigating an array of implementation strategies to increase adoption, reach, and population effectiveness, including implications for individuals and groups that are at high risk but have proved challenging to reach or appear to benefit less from current implementation strategies. Finally, we summarize gaps in the literature and implications for future research and policy. Comprehending the evidence base for type 2 diabetes primary prevention will benefit first from a short overview of nutrient metabolism with and without normal insulin action, what it means to develop type 2 diabetes, both biologically and clinically, and how individuals can be identified in the months to years prior to a type 2 diabetes diagnosis, when primary prevention is still achievable.
+----------------------------------------------------------------------------------------------------
+
+RANK: 3
+CHUNK ID: 859846c55ef617545adf8ef311a2b324561527679694126c077e85efd4e1e5cc
+RRF SCORE: 0.027242
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Introduction']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Although coronary heart disease (CHD) is the major cause of morbidity and mortality in patients with type 2 diabetes, historically the diabetes-CHD association received little systematic study, even after the publication of Kelly West’s monumental book Epidemiology of Diabetes Mellitus and Its Vascular Lesions (1) and the development of standard World Health Organization (WHO) (2) and National Diabetes Data Group (3) criteria for the definition of diabetes in the 1980s. According to the Centers for Disease Control and Prevention (CDC) (4), the proportion of diabetes in the United States that is type 1 is 5%–10%, while type 2 diabetes accounts for 90%–95%. The epidemiology and etiology of type 1 (insulin-dependent) diabetes are described elsewhere (5). Aside from the Diabetes Control and Complications Trial (DCCT), there is a relative paucity of trials with cardiovascular outcomes in people with type 1 diabetes. Although longstanding type 1 diabetes carries a cardiovascular disease (CVD) mortality risk similar to type 2 diabetes (6), type 2 diabetes is the primary focus of the analyses herein, based on papers reporting diabetes defined by elevated fasting plasma glucose (FPG) values or diabetes by history. The literature on diabetes and CVD, particularly from studies reporting the results from cardiovascular outcome trials (CVOTs) of newer glucose-lowering agents, has increased exponentially since Diabetes in America, 3rd edition, was published in 2018 (7,8). Here, each section usually starts with a review of the evidence and, whenever possible, concludes showing a large systematic review or meta-analysis that addresses each topic. In order to improve generalizability and statistical power, no attempt was made to exclude prospective studies done outside the United States that were included in these meta-analyses. Diabetes is clearly an established risk factor for CHD (9,10), but how much its effect varies by age, sex, country, or levels of conventional risk factors for CHD remains unresolved (11).
+----------------------------------------------------------------------------------------------------
+
+RANK: 4
+CHUNK ID: b58a4f8ce6e5364318a7168b1e002d0798d31a3c22a429999136cd8b2b64d51b
+RRF SCORE: 0.026876
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Treatment: Control of Glycemia or Other CVD Risk Factors and CVD Outcomes', 'Trials of Blood Pressure Control']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Reducing blood pressure, usually with pharmacologic therapy, is one of the cornerstones of CVD prevention. A few trials of patients with type 2 diabetes specifically sought to address the question of whether a blood pressure target of <130/80 mmHg, or lower, was better than the standard target of <140/90 mmHg. The trials and their results are outlined in Table 6. The Hypertension Optimal Treatment (HOT) trial, published nearly 25 years ago, included 1,501 patients with type 2 diabetes out of a total sample of 18,790 and randomized patients to a goal diastolic blood pressure of ≤80 mmHg, ≤85 mmHg, or ≤90 mmHg (199). For all patients randomized to ≤80 mmHg compared to those randomized to ≤90 mmHg, regardless of diabetes status, no significant reduction was seen in the risk of nonfatal MI, nonfatal stroke, or cardiovascular death (3-point MACE; RR 0.93, 95% CI 0.78–1.12). However, in the subset of 1,501 patients with type 2 diabetes, a significant reduction in 3-point MACE was seen (RR 0.49, 95% CI 0.29–0.81). The ADVANCE BP trial enrolled 11,140 patients with type 2 diabetes and randomly allocated them in a 1:1 ratio to fixed-dose perindopril/indapamide or placebo (200). The achieved mean blood pressure was 136/73 mmHg in the active treatment group and 142/75 mmHg in the placebo group. Significant reduction was observed in the trial primary endpoint of cardiovascular death, MI, stroke, or microvascular (new or worsening renal or diabetic eye disease) events (HR 0.91, 95% CI 0.83–1.00, p=0.04). The 3-point MACE outcome showed a similar direction and magnitude of effect but was not statistically significant (HR 0.92, 95% CI 0.81–1.04). The ACCORD BP trial randomized 4,733 patients with type 2 diabetes in a 1:1 ratio to a target systolic blood pressure of <120 mmHg (intensively managed group) compared to <140 mmHg (201).
+----------------------------------------------------------------------------------------------------
+
+RANK: 5
+CHUNK ID: 23c305a02e5794287b1d18205c34ea638701e92c96b30ab9dbc452d06edb3489
+RRF SCORE: 0.016393
+RETRIEVERS: ['dense']
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Evidence-Based Recommendations for Diabetes Management From Professional Societies']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Many professional societies have recommendations for pharmacologic therapy for cardiovascular risk factor and CVD prevention in people with type 2 diabetes (75,268,269,270) in conjunction with lifestyle modifications, which include ≥5% weight loss through individualized medical nutrition (diet), physical activity, and/or behavioral therapy. These recommendations are summarized in Table 10 and detailed below.
+----------------------------------------------------------------------------------------------------
+
+RANK: 6
+CHUNK ID: c3f7dbf160dbacd3408f89b9bc90c9e0ee873f8431358c21cf5292d666094847
+RRF SCORE: 0.016393
+RETRIEVERS: ['bm25']
+DOCUMENT: dia_medication_use
+VERSION: e575b390642a5fb768040eb82e6a973eaf31b6e88a1e0e554a1ef861afa8b757
+LANGUAGE: en
+SECTION: ['Medication Use and Self-Care Practices in Persons With Diabetes', 'Type 2 Diabetes in Adults', 'Medications for Other Health Conditions', 'Aspirin Use']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK607283/
+
+FULL TEXT:
+For diabetes patients with a history of ASCVD, use of aspirin for secondary prevention is generally recommended (88). Aspirin is not currently recommended for primary prevention due to the risk of bleeding, which outweighs the ASCVD benefit (88,89,90,91). Therefore, use of aspirin for primary prevention is currently recommended for patients age ≥50 years with one or more major ASCVD risk factors and low bleeding risk (87). For individuals age >70 years, aspirin is generally not recommended because the increased risk of bleeding outweighs the benefit (92). In the NHIS 2019, more than one-half (57.8%) of U.S. adults age ≥40 years who reported having type 2 diabetes were medically advised to take low-dose aspirin, of whom fewer than half were currently taking low-dose aspirin (47.4%) (Table 9). In contrast, almost one in ten patients with type 2 diabetes who were not advised to take aspirin were currently taking low-dose aspirin on their own. Individuals age ≥65 years, men, non-Asians, and those with diabetes duration ≥10 years or with a history of ASCVD were more likely to be advised to take low-dose aspirin than younger patients, women, Asians, or those with diabetes duration <10 years or without a history of cardiovascular disease, respectively. Among patients who took aspirin on their own, it is noteworthy that non-Hispanic Black adults and those with diabetes duration <10 years or without a cardiovascular disease history tended to use aspirin more often than other groups (Table 9).
+----------------------------------------------------------------------------------------------------
+
+RANK: 7
+CHUNK ID: 9dac4f76c07d457ebdc04c373cc8e89c6de1a2d7d11b85bc491b4ef7738c4d44
+RRF SCORE: 0.016129
+RETRIEVERS: ['bm25']
+DOCUMENT: dia_medication_use
+VERSION: e575b390642a5fb768040eb82e6a973eaf31b6e88a1e0e554a1ef861afa8b757
+LANGUAGE: en
+SECTION: ['Medication Use and Self-Care Practices in Persons With Diabetes', 'Type 2 Diabetes in Adults', 'Medications for Other Health Conditions', 'Cholesterol Treatment']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK607283/
+
+FULL TEXT:
+Hypercholesterolemia is another common comorbidity in individuals with type 2 diabetes. Among NHANES 2015–March 2020 participants, half (52.8%) of adults age ≥20 years with diagnosed type 2 diabetes reported having hypercholesterolemia, while the age-standardized prevalence was lower in the undiagnosed diabetes (37.8%), prediabetes (36.2%), and normal glucose (29.6%) groups (Table 8). Like hypertension, hypercholesterolemia is an important risk factor for ASCVD. A strong management plan will help decrease the risk of adverse health outcomes. Lifestyle interventions, such as weight loss, physical activity, a Mediterranean style or Dietary Approaches to Stop Hypertension (DASH) diet, are effective at reducing ASCVD risk in some individuals (80,81). In addition, statins reduce the incidence of ASCVD and all-cause and vascular mortality in individuals with diabetes (82,83,84,85,86). Therefore, use of high-intensity statin therapy for secondary prevention of ASCVD in diabetes patients at high risk and moderate-intensity statin therapy for patients with diabetes age ≥40 years without known ASCVD are generally recommended (23,87). Combination of statins and other lipid-lowering medications, such as ezetimibe and PCSK9 (proprotein convertase subtilisin/kexin type 9) inhibitors, is often reserved for individuals with diabetes who do not tolerate statins and those with established ASCVD. In the NHANES 2015–March 2020, statins were the most commonly used cholesterol medication among adults with type 2 diabetes (43.0%). Coupled with a lower prevalence of reported hypercholesterolemia, use of cholesterol medication was also lower in adults with undiagnosed diabetes, prediabetes, and normal glucose levels than in those with diagnosed type 2 diabetes (Table 8, Appendix Table A1).
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+SUMMARY
+BM25 RESULTS: 20
+BGE-M3 RESULTS: 20
+OVERLAP: 4
+UNIQUE CANDIDATES: 36
+RRF RESULTS: 7

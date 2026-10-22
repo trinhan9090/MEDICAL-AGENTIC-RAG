@@ -1,0 +1,761 @@
+QUERY ID: Q04
+QUERY: Những yếu tố nào làm tăng nguy cơ mắc bệnh tim mạch ở người bị tiểu đường?
+CONFIG: BM25 Top-20 | BGE-M3 Top-20 | RRF k=60 | RRF Top-7
+
+====================================================================================================
+BM25 TOP-20 | TOTAL: 20
+====================================================================================================
+
+RANK: 1
+CHUNK ID: 5345cfbeb6ad306b92d8141af04f3cd0dd13e9133e57fac8fa0f5a889a33d540
+SCORE: 31.687137
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 2: CHẨN ĐOÁN VÀ PHÂN LOẠI ĐÁI THÁO ĐƯỜNG', '1.2. Khuyến cáo làm xét nghiệm để tầm soát, phát hiện ĐTĐ hoặc tiền ĐTĐ ở người lớn không có triệu chứng, biểu hiện lâm sàng.']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+1.2. Khuyến cáo làm xét nghiệm để tầm soát, phát hiện ĐTĐ hoặc tiền ĐTĐ ở người lớn không có triệu chứng, biểu hiện lâm sàng. a) Người trưởng thành ở bất kỳ tuổi nào có thừa cân hoặc béo phì (BMI ≥ 23 kg/m2) và có kèm một trong số các yếu tố nguy cơ sau: - Có người thân đời thứ nhất ( bố mẹ, anh chị em ruột, con đẻ ) bị ĐTĐ - Tiền sử bệnh tim mạch do xơ vữa động mạch - Tăng huyết áp (HA ≥ 140/90 mmHg, hoặc đang điều trị THA) - HDL cholesterol < 35 mg/dL (0,9mmol/L) và/hoặc triglyceride >250mg/dL (2,8mmol/L) - Phụ nữ bị hội chứng buồng trứng đa nang - Ít hoạt động thể lực - Các tình trạng lâm sàng khác liên quan với kháng insulin (như dấu gai đen: acanthosis nigricans). b) Phụ nữ đã được chẩn đoán ĐTĐ thai kỳ cần theo dõi lâu dài, xét nghiệm ít nhất mỗi 3 năm. c) Tất cả mọi người từ 45 tuổi trở lên d) Nếu các kết quả bình thường, xét nghiệm sẽ được làm lại trong vòng 1- 3 năm sau hoặc ngắn hơn tùy theo kết quả ban đầu và các yếu tố nguy cơ.
+----------------------------------------------------------------------------------------------------
+
+RANK: 2
+CHUNK ID: d4a0da18041b1f9e9d2489a27af508efba497985f8e33f0b306897c727e77b8a
+SCORE: 26.388798
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '6.1.3. Điều trị:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+g) Nếu đang dùng thuốc ức chế men chuyển, ức chế thụ thể hay lợi tiểu, cần phải theo dõi chức năng thận và nồng độ kali máu. h) BN bị đái tháo đường thường có tăng huyết áp, với tần suất vào khoảng 50-70%, thay đổi tùy thuộc loại đái tháo đường, tuổi, béo phì … Tăng huyết áp là yếu tố nguy cơ chính của bệnh mạch vành, đột quị và biến chứng mạch máu nhỏ. Ở BN bị đái tháo đường típ 1 tăng huyết áp là hậu quả của biến chứng thận, ngược lại ở BN đái tháo đường típ 2 tăng huyết áp thường có sẵn cùng với các yếu tố nguy cơ tim mạch chuyển hóa khác. i) Trong các thuốc hạ đường huyết, nhóm thuốc GLP-1 RA và Ức chế SGLT2 ngoài kiểm soát đường huyết còn có tác dụng giảm nhẹ huyết áp, có thể cân nhắc trong điều trị.
+----------------------------------------------------------------------------------------------------
+
+RANK: 3
+CHUNK ID: 900686400f724654a116ea23ed049ca5e56bead0eeaef48e1fe4f968c0dadeca
+SCORE: 25.616595
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 4: Mục tiêu điều trị cho BN ĐTĐ ở người trưởng thành, không có thai']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 4: Mục tiêu điều trị cho BN ĐTĐ ở người trưởng thành, không có thai
+
+Mục tiêu: Huyết áp | Chỉ số: Tâm thu <140 mmHg, Tâm trương <90 mmHg Nếu đã có biến chứng thận, hoặc có yếu tố nguy cơ tim mạch do xơ vữa cao: Huyết áp <130/80 mmHg
+
+* Mục tiêu điều trị ở các cá nhân có thể khác nhau.
+
+- Mục tiêu có thể thấp hơn (HbA1c <6,5%) ở BN trẻ, mới chẩn đoán, không có
+
+các bệnh lý tim mạch, nguy cơ hạ glucose máu thấp.
+
+- Ngược lại, mục tiêu có thể cao hơn (HbA1c từ 7,5 – 8%) ở những BN lớn tuổi,
+
+mắc bệnh đái tháo đường đã lâu, có nhiều bệnh lý đi kèm, có tiền sử hạ glucose máu nặng trước đó.
+
+- Cần chú ý mục tiêu glucose huyết sau ăn (sau khi bắt đầu ăn 1-2 giờ) nếu đã đạt
+
+được mục tiêu glucose huyết lúc đói nhưng chưa đạt được mục tiêu HbA1c.
+----------------------------------------------------------------------------------------------------
+
+RANK: 4
+CHUNK ID: 9a5dc35ff7d41b230176acfc82a0828ebd3ae45dfe921c2e49dbaf19411812b4
+SCORE: 24.130785
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 4: Mục tiêu điều trị cho BN ĐTĐ ở người trưởng thành, không có thai']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 4: Mục tiêu điều trị cho BN ĐTĐ ở người trưởng thành, không có thai
+
+Mục tiêu: Lipid máu | Chỉ số: LDL cholesterol <100 mg/dL (2,6 mmol/L), nếu chưa có biến chứng tim mạch LDL cholesterol <70 mg/dL (1,8 mmol/L) nếu đã có bệnh tim mạch vữa xơ, hoặc có thể thấp hơn <50 mg/dL nếu có yếu tố nguy cơ xơ vữa cao Triglycerides <150 mg/dL (1,7 mmol/L) HDL cholesterol >40 mg/dL (1,0 mmol/L) ở nam và >50 mg/dL (1,3 mmol/L) ở nữ
+
+* Mục tiêu điều trị ở các cá nhân có thể khác nhau.
+
+- Mục tiêu có thể thấp hơn (HbA1c <6,5%) ở BN trẻ, mới chẩn đoán, không có
+
+các bệnh lý tim mạch, nguy cơ hạ glucose máu thấp.
+
+- Ngược lại, mục tiêu có thể cao hơn (HbA1c từ 7,5 – 8%) ở những BN lớn tuổi,
+
+mắc bệnh đái tháo đường đã lâu, có nhiều bệnh lý đi kèm, có tiền sử hạ glucose máu nặng trước đó.
+
+- Cần chú ý mục tiêu glucose huyết sau ăn (sau khi bắt đầu ăn 1-2 giờ) nếu đã đạt
+
+được mục tiêu glucose huyết lúc đói nhưng chưa đạt được mục tiêu HbA1c.
+----------------------------------------------------------------------------------------------------
+
+RANK: 5
+CHUNK ID: 59c70afb8c69223f90eaab1b1de109de7a4004a6b3aa085eb92ad7485346b228
+SCORE: 24.006753
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '3. Phân tầng nguy cơ tim mạch, thận ở BN ĐTĐ típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+3. Phân tầng nguy cơ tim mạch, thận ở BN ĐTĐ típ 2 Trong lựa chọn thuốc và phương pháp điều trị cho BN ĐTĐ típ 2 cần đánh giá nguy cơ cao hay tiền sử bệnh lý tim mạch do xơ vữa (BTMDXV) và bệnh lý suy tim, suy thận để có thể ra quyết định điều trị hợp lý. a) Phân nhóm BN có nguy cơ cao hoặc đã có BTMDXV, bệnh thận mạn hay suy tim: - BN có BTMDXV chiếm ưu thế bao gồm: + BN có tiền sử BTMDXV + BN có nguy cơ BTMDXV cao: BN ≥ 55 tuổi có hẹp động mạch vành, động mạch cảnh hoặc động mạch chi dưới > 50% hoặc dày thất trái - BN có Suy tim hay bệnh thận mạn chiếm ưu thế bao gồm: + BN suy tim phân suất tống máu thất trái LVEF<45%, + BN có bệnh thận mạn (đặc biệt nếu eGFR 30-60 mL/phút/1,73m2 hoặc UACR >30 mg/g, đặc biệt UACR>300 mg/g) b) Phân tầng nguy cơ tim mạch trên BN ĐTĐ: Các yếu tố nguy cơ (YTNC) tim mạch chính bao gồm: Tuổi, tăng huyết áp, rối loạn lipid máu, hút thuốc lá, béo phì - Nguy cơ trung bình: BN trẻ (ĐTĐ típ 1, <35 tuổi hoặc típ 2, <50 tuổi), có thời gian bệnh ĐTĐ <10 năm không có YTNC khác - Nguy cơ cao: Thời gian phát hiện bệnh ĐTĐ ≥10 năm chưa có tổn thương cơ quan đích và có thêm bất kỳ YTNC nào - Nguy cơ rất cao: BN ĐTĐ kèm bệnh tim mạch hoặc tổn thương cơ quan đích (có đạm niệu hay suy thận được định nghĩa khi eGFR <30 mL/ph/1.73m2, phì đại thất trái hoặc có bệnh võng mạc) hoặc có ≥ 3 YTNC chính hoặc ĐTĐ típ 1 khởi phát sớm, có thời gian mắc bệnh >20 năm
+----------------------------------------------------------------------------------------------------
+
+RANK: 6
+CHUNK ID: eb829ba640911a22b87156b8e1692169f284da0ec18de53b988bc4fcbb6646b5
+SCORE: 23.798935
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 1: ĐỊNH NGHĨA VÀ DỊCH TỄ HỌC']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+PHẦN 1: ĐỊNH NGHĨA VÀ DỊCH TỄ HỌC Bệnh đái tháo đường là bệnh rối loạn chuyển hóa, có đặc điểm tăng glucose huyết mạn tính do khiếm khuyết về tiết insulin, về tác động của insulin, hoặc cả hai. Tăng glucose mạn tính trong thời gian dài gây nên những rối loạn chuyển hóa carbohydrate, protide, lipide, gây tổn thương ở nhiều cơ quan khác nhau, đặc biệt ở tim và mạch máu, thận, mắt, thần kinh. Theo Liên đoàn Đái tháo đường Quốc tế (IDF), năm 2019 toàn thế giới có 463 triệu người (trong độ tuổi 20-79) bị bệnh đái tháo đường (ĐTĐ), dự kiến sẽ đạt 578 triệu người vào năm 2030 và 700 triệu người vào năm 2045. Ước tính hơn 4 triệu người trong độ tuổi từ 20-79 đã tử vong vì các nguyên nhân liên quan đến ĐTĐ trong năm 2019. Bên cạnh đó, cùng với việc tăng sử dụng thực phẩm không thích hợp, ít hoặc không hoạt động thể lực ở trẻ em, bệnh ĐTĐ típ 2 đang có xu hướng tăng ở cả trẻ em, trở thành vấn đề sức khỏe cộng đồng nghiêm trọng. Bệnh ĐTĐ gây nên nhiều biến chứng nguy hiểm, là nguyên nhân hàng đầu gây bệnh tim mạch, mù lòa, suy thận, và cắt cụt chi.
+----------------------------------------------------------------------------------------------------
+
+RANK: 7
+CHUNK ID: 91c84a8071ec0b3434b6cfed003139e350117824fabe8a61bd82796745b0b435
+SCORE: 23.655531
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHỤ LỤC 01: CÁC NHÓM THUỐC HẠ GLUCOSE MÁU ĐƯỜNG UỐNG VÀ THUỐC DẠNG TIÊM KHÔNG THUỘC NHÓM INSULIN', '7. Thuốc ức chế kênh đồng vận chuyển Natri-glucose SGLT2 (Sodium Glucose Transporter 2)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Các nghiên cứu cho thấy các thuốc nhóm ức chế SGLT2 (canagliflozin, dapagliflozin và empagliflozin) có khả năng làm giảm biến cố tim mạch lớn ở những BN ĐTĐ típ 2 đã có bệnh lý tim mạch do xơ vữa hoặc có nguy cơ tim mạch cao/ rất cao. Empagliflozin được chỉ định làm giảm nguy cơ tử vong tim mạch ở BN trưởng thành ĐTĐ típ 2 và có sẵn bệnh lý tim mạch. - Tác dụng trên suy tim: Kết quả các thử nghiệm dự hậu tim mạch (CVOTs) ghi nhận các thuốc ức chế SGLT2 ngăn ngừa tái nhập viện do suy tim trên phổ rộng BN ĐTĐ típ 2. Hướng dẫn phòng ngừa bệnh lý tim mạch tiên phát của ACC/AHA cập nhật dữ liệu từ nghiên cứu DECLARE (dapagliflozin) đã khuyến cáo mức độ IIb cho việc sử dụng thuốc Ức chế SGLT2 để dự phòng bệnh lý tim mạch tiên phát ở BN ĐTĐ típ 2 sau khi điều trị với metformin. Đặc biệt nghiên cứu DAPA-HF cho thấy trên nền điều trị chuẩn, dapagliflozin làm giảm tỷ lệ suy tim nặng lên, giảm tử vong do nguyên nhân tim mạch và tử vong do mọi nguyên nhân ở các BN suy tim phân suất tống máu giảm, có hoặc không có mắc kèm ĐTĐ típ 2. - Tác dụng trên thận: Các nghiên cứu CREDENCE (canagliflozin), EMPA-REG OUTCOME (empagliflozin), và DECLARE-TIMI 58 (dapagliflozin) chứng minh rằng các thuốc ức chế SGLT2 có tác dụng bảo vệ thận ( giảm albumin niệu và giảm tiến triển của bệnh thận mạn, giảm tử vong do bệnh thận), độc lập với tác dụng kiểm soát đường huyết ở các BN ĐTĐ típ 2.
+----------------------------------------------------------------------------------------------------
+
+RANK: 8
+CHUNK ID: 5b43c1bbc58f8346cce5e32a5f8f63d6cc257976380c95e28920cf9882f73ffe
+SCORE: 23.586695
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 8: PHÕNG NGỪA VÀ KIỂM SOÁT BIẾN CHỨNG MẠN TÍNH', '1.2. Biến chứng thận:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+1.2. Biến chứng thận: a) Ít nhất mỗi năm một lần đánh giá albumin niệu và mức lọc cầu thận ở tất cả các BN ĐTĐ típ 2, không kể đang điều trị như thế nào b) BN có albumin niệu > 30 mg/g creatinine và/ hoặc mức lọc cầu thận eGFR< 60 mL/phút/1,73m2 cần đánh giá hai lần một năm nhằm định hướng điều trị c) Cần tối ưu kiểm soát đường huyết để giảm nguy cơ hoặc làm chậm quá trình tiến triển bệnh thận mạn d) Bênh nhân ĐTĐ típ 2 mắc kèm bệnh thận do ĐTĐ, cân nhắc sử dụng Ức chế SGLT2 ở BN có độ lọc cầu thận ≥30 mL/phút/1,73m2 và albumin niệu >30 mg/g creatinine, đặc biệt ở những BN có albumin niệu ≥300 mg/g creatinine, để giảm nguy cơ tiến triển bệnh thận mạn và biến cố tim mạch hoặc cả hai. e) BN có bệnh thận mạn có gia tăng nguy cơ gặp biến cố tim mạch, sử dụng GLP-1 RA có thể giảm nguy cơ tiến triển almumin niệu và biến cố tim mạch hoặc cả hai. Bảng 8. Các xét nghiệm đánh giá và theo dõi biểu hiện của biến chứng thận do
+----------------------------------------------------------------------------------------------------
+
+RANK: 9
+CHUNK ID: e8b2108f5c86ff7073280565d9cfe6a83c4067cdbefe95cbc09d8d6f01b4d6dd
+SCORE: 22.809154
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 1: ĐỊNH NGHĨA VÀ DỊCH TỄ HỌC']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Đáng lưu ý, có tới 70% trường hợp ĐTĐ típ 2 có thể dự phòng hoặc làm chậm xuất hiện bệnh bằng tuân thủ lối sống lành mạnh (dinh dưỡng hợp lý, luyện tập thể dục…) Ở Việt Nam, năm 1990 của thế kỷ trước, tỷ lệ bệnh ĐTĐ chỉ là 1,1% (ở thành phố Hà Nội), 2,52% (ở thành phố Hồ Chí Minh), 0,96% (ở thành phố Huế), thì nghiên cứu năm 2012 của Bệnh viện Nội tiết Trung ương cho thấy: tỷ lệ hiện mắc đái tháo đường trên toàn quốc ở người trưởng thành là 5,42%, tỷ lệ đái tháo đường chưa được chẩn đoán trong cộng đồng là 63,6%. Tỷ lệ rối loạn dung nạp glucose là 7,3%, rối loạn glucose huyết lúc đói 1,9% (toàn quốc năm 2003). Theo kết quả điều tra STEPwise về các yếu tố nguy cơ của bệnh không lây nhiễm do Bộ Y tế thực hiện năm 2015, ở nhóm tuổi từ 18-69, cho thấy tỷ lệ ĐTĐ toàn quốc là 4,1%, tiền ĐTĐ là 3,6%, trong đó tỷ lệ ĐTĐ được chẩn đoán là 31,1%, tỷ lệ ĐTĐ chưa được chẩn đoán là 69,9%. Trong số những người được chẩn đoán, tỷ lệ ĐTĐ được quản lý tại cơ sở y tế: 28,9%, tỷ lệ ĐTĐ chưa được quản lý: 71,1%. Dữ liệu cập nhật của Liên đoàn Đái tháo đường Quốc tế (IDF) cho thấy năm 2019 Việt Nam có tỷ lệ 6% người trưởng thành mắc ĐTĐ.
+----------------------------------------------------------------------------------------------------
+
+RANK: 10
+CHUNK ID: 6d6ca0cf3ed1b2567b5e4966c7ed52a4ce5c740d3efd94da88bdf498d19dcbad
+SCORE: 22.251554
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '2. Mục tiêu điều trị']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+* Mục tiêu điều trị ở các cá nhân có thể khác nhau. - Mục tiêu có thể thấp hơn (HbA1c <6,5%) ở BN trẻ, mới chẩn đoán, không có các bệnh lý tim mạch, nguy cơ hạ glucose máu thấp. - Ngược lại, mục tiêu có thể cao hơn (HbA1c từ 7,5 – 8%) ở những BN lớn tuổi, mắc bệnh đái tháo đường đã lâu, có nhiều bệnh lý đi kèm, có tiền sử hạ glucose máu nặng trước đó. - Cần chú ý mục tiêu glucose huyết sau ăn (sau khi bắt đầu ăn 1-2 giờ) nếu đã đạt được mục tiêu glucose huyết lúc đói nhưng chưa đạt được mục tiêu HbA1c. Bảng 5: Mục tiêu điều trị đái tháo đường ở người cao tuổi
+----------------------------------------------------------------------------------------------------
+
+RANK: 11
+CHUNK ID: 8bb2cfeb4339fb499db6ba90a9fc5dc950299027d821d5539975f0629a3a5cbe
+SCORE: 21.101111
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHỤ LỤC 01: CÁC NHÓM THUỐC HẠ GLUCOSE MÁU ĐƯỜNG UỐNG VÀ THUỐC DẠNG TIÊM KHÔNG THUỘC NHÓM INSULIN', '2. Metformin']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+2. Metformin Là thuốc duy nhất trong nhóm biguanide còn được sử dụng hiện nay. Thuốc khác trong nhóm là phenformin đã bị cấm dùng vì tăng nguy cơ nhiễm acid lactic. Cơ chế tác dụng: giảm sản xuất glucose ở gan. Có tác dụng yếu trên tăng hiệu ứng incretin. Thuốc làm giảm HbA1c khoảng 1 – 1,5%. Liều thường dùng 500-2000 mg/ngày. Ít khi cần dùng đến liều 2500mg/ngày, ở liều này tác dụng giảm glucose huyết không tăng nhiều nhưng tác dụng phụ sẽ nhiều hơn. Chống chỉ định: BN suy thận (độ lọc cầu thận ước tính eGFR < 30 mL/phút, giảm liều khi độ lọc cầu thận ước tính trong khoảng 30-45 mL/phút), suy tim nặng, các tình huống giảm lượng máu đến tổ chức (mô) và/hoặc giảm oxy đến các tổ chức (mô) như choáng, bệnh phổi tắc nghẽn mạn tính. Nếu BN đái tháo đường mới chẩn đoán đã có độ lọc cầu thận ước tính <45mL/phút, nên cân nhắc cẩn thận việc dùng metformin. Thận trọng khi dùng Metformin ở BN > 80 tuổi, những BN có nguy cơ nhiễm acid lactic như suy thận, nghiện rượu mạn. Ngưng Metformin 24 giờ trước khi chụp hình với thuốc cản quang, phẫu thuật. Cho BN uống đủ nước hay truyền dịch để phòng ngừa suy thận do thuốc cản quang. Thuốc dùng đơn độc không gây hạ glucose máu, không làm thay đổi cân nặng hoặc có thể giảm cân nhẹ, làm giảm hấp thu vitamin B12 nhưng ít khi gây thiếu máu. Tác dụng phụ thường gặp là buồn nôn, đau bụng, tiêu chảy, có thể hạn chế bằng cách dùng liều thấp tăng dần, uống sau bữa ăn hoặc dùng dạng phóng thích chậm. Thuốc có thể làm giảm nguy cơ tim mạch và nguy cơ ung thư, tuy nhiên bằng chứng chưa rõ ràng.
+----------------------------------------------------------------------------------------------------
+
+RANK: 12
+CHUNK ID: c6346d2cf6b602ea92587fbf4183ad997898486edc9c59da43a226285c2a4681
+SCORE: 21.090154
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 4: Mục tiêu điều trị cho BN ĐTĐ ở người trưởng thành, không có thai']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 4: Mục tiêu điều trị cho BN ĐTĐ ở người trưởng thành, không có thai
+
+Mục tiêu: HbA1c | Chỉ số: < 7% (53mmol/mol)
+
+* Mục tiêu điều trị ở các cá nhân có thể khác nhau.
+
+- Mục tiêu có thể thấp hơn (HbA1c <6,5%) ở BN trẻ, mới chẩn đoán, không có
+
+các bệnh lý tim mạch, nguy cơ hạ glucose máu thấp.
+
+- Ngược lại, mục tiêu có thể cao hơn (HbA1c từ 7,5 – 8%) ở những BN lớn tuổi,
+
+mắc bệnh đái tháo đường đã lâu, có nhiều bệnh lý đi kèm, có tiền sử hạ glucose máu nặng trước đó.
+
+- Cần chú ý mục tiêu glucose huyết sau ăn (sau khi bắt đầu ăn 1-2 giờ) nếu đã đạt
+
+được mục tiêu glucose huyết lúc đói nhưng chưa đạt được mục tiêu HbA1c.
+----------------------------------------------------------------------------------------------------
+
+RANK: 13
+CHUNK ID: a9f998f6c8e7b0d1d25f720018f6770be371f9fb9a94c47e02b5723c1c8401e9
+SCORE: 20.583512
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 4: Mục tiêu điều trị cho BN ĐTĐ ở người trưởng thành, không có thai']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 4: Mục tiêu điều trị cho BN ĐTĐ ở người trưởng thành, không có thai
+
+Mục tiêu: Đỉnh glucose huyết tương mao mạch sau ăn 1-2 giờ | Chỉ số: <180 mg/dL (10,0 mmol/L)*
+
+* Mục tiêu điều trị ở các cá nhân có thể khác nhau.
+
+- Mục tiêu có thể thấp hơn (HbA1c <6,5%) ở BN trẻ, mới chẩn đoán, không có
+
+các bệnh lý tim mạch, nguy cơ hạ glucose máu thấp.
+
+- Ngược lại, mục tiêu có thể cao hơn (HbA1c từ 7,5 – 8%) ở những BN lớn tuổi,
+
+mắc bệnh đái tháo đường đã lâu, có nhiều bệnh lý đi kèm, có tiền sử hạ glucose máu nặng trước đó.
+
+- Cần chú ý mục tiêu glucose huyết sau ăn (sau khi bắt đầu ăn 1-2 giờ) nếu đã đạt
+
+được mục tiêu glucose huyết lúc đói nhưng chưa đạt được mục tiêu HbA1c.
+----------------------------------------------------------------------------------------------------
+
+RANK: 14
+CHUNK ID: 7b9de801abcd1563bdac151f67c8544d10b870354662440c0e274b4b8ddfc5fe
+SCORE: 20.528799
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 4: Mục tiêu điều trị cho BN ĐTĐ ở người trưởng thành, không có thai']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+Bảng 4: Mục tiêu điều trị cho BN ĐTĐ ở người trưởng thành, không có thai
+
+Mục tiêu: Glucose huyết tương mao mạch lúc đói, trước ăn | Chỉ số: 80-130 mg/dL (4,4-7,2 mmol/L)*
+
+* Mục tiêu điều trị ở các cá nhân có thể khác nhau.
+
+- Mục tiêu có thể thấp hơn (HbA1c <6,5%) ở BN trẻ, mới chẩn đoán, không có
+
+các bệnh lý tim mạch, nguy cơ hạ glucose máu thấp.
+
+- Ngược lại, mục tiêu có thể cao hơn (HbA1c từ 7,5 – 8%) ở những BN lớn tuổi,
+
+mắc bệnh đái tháo đường đã lâu, có nhiều bệnh lý đi kèm, có tiền sử hạ glucose máu nặng trước đó.
+
+- Cần chú ý mục tiêu glucose huyết sau ăn (sau khi bắt đầu ăn 1-2 giờ) nếu đã đạt
+
+được mục tiêu glucose huyết lúc đói nhưng chưa đạt được mục tiêu HbA1c.
+----------------------------------------------------------------------------------------------------
+
+RANK: 15
+CHUNK ID: e5e495690a75773b01875590dd5fb680dc8a58f95fc0c5db662997a1821db409
+SCORE: 20.521984
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHỤ LỤC 01: CÁC NHÓM THUỐC HẠ GLUCOSE MÁU ĐƯỜNG UỐNG VÀ THUỐC DẠNG TIÊM KHÔNG THUỘC NHÓM INSULIN', '6. Thuốc có tác dụng Incretin']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
++ Giảm huyết áp tâm thu trung bình 2,3 đến 6,7 mmHg so với ban đầu, giảm 1,9 đến 4,5 mmHg so với thuốc đối chứng. + Giảm đáng kể 13% có ý nghĩa thống kê nguy cơ mắc biến cố tim mạch chính (tử vong liên quan đến tim mạch, nhồi máu cơ tim không, tử vong và đột quị không tử vong); giảm 12% biến cổ tim mạch mở rộng (biến cô tim mạch chính, đau thắt ngực không ổn định, thủ thuật thông mạch vành, hoặc nhập viện do suy tim) và giảm 15% tử vong do mọi nguyên nhân. - Tác dụng phụ chính của liraglutide là buồn nôn, nôn gặp khoảng 10% trường hợp, tiêu chảy. Có thể gặp viêm tụy cấp nhưng hiếm. Liraglutide nên được sử dụng thận trọng ở người có tiền sử cá nhân hoặc gia đình bị ung thư giáp dạng tủy hoặc bệnh đa u tuyến nội tiết loại 2. - Liều sử dụng liraglutide: 0,6 mg tiêm dưới da mỗi ngày, sau 1 tuần có thể tăng đến 1,2 mg/ngày. Liều tối đa 1,8 mg/ngày. - Không cần chỉnh liều liraglutide trên các đối tượng BN đặc biệt bao gồm BN > 65 tuổi hoặc suy thận nhẹ, trung bình, nặng hoặc suy gan nhẹ, trung bình. Liraglutide có thể sử dụng khi mức lọc cầu thận ước tính eGFR≥15 mL/phút/1.73m2
+----------------------------------------------------------------------------------------------------
+
+RANK: 16
+CHUNK ID: 4730147946e1fc86263481d4c0ead5a6a931b2e976627879395806da822c121e
+SCORE: 20.371934
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 8: PHÕNG NGỪA VÀ KIỂM SOÁT BIẾN CHỨNG MẠN TÍNH', '4. Bàn chân người ĐTĐ:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+4. Bàn chân người ĐTĐ: a) Tổn thương bàn chân bắt đầu ở những ngón chân, ô mô ngón bị mất cảm giác, đặc biệt những nơi ngón đã bị biến dạng và/ hoặc thiếu máu. Những ngón chân dễ bị chấn thương, dễ hình thành những cục chai, ổ loét, nhiễm trùng và hoại thư. Tổn thương thần kinh gây giảm tiết mồ hôi và khô da, làm da người bệnh dễ nứt nẻ, loét và hoại tử. b) Triệu chứng bàn chân thường gặp: - Đau về đêm, thậm chí đau cách hồi, lạnh chi, chậm đổ đầy máu tĩnh mạch sau khi giơ chân lên cao, có thể mất mạch khi khám - Da vùng chân tái khi giơ chân cao, teo lớp mỡ dưới da, mất lông bàn ngón chân, móng dày lên, nhiễm nấm móng, hoại tử - Teo cơ do tổn thương thần kinh vận động, dẫn đến biến dạng bàn chân do mất cân bằng giữa hai hệ thống cơ gấp và cơ duõi. Do biến dạng bàn chân nên sẽ tạo ra những vùng chịu trọng lực đặc biệt, tạo thuận lợi xuất hiện loét và hoại tử chân c) Phân độ bàn chân theo Wagner và Meggit - Độ 0: Không có tổn thương nhưng có các yếu tố nguy cơ như các chai chân. - Độ 1: Loét nông ở những nơi chịu sự tỳ đè lớn (mô út, mô cái, gót chân) - Độ 2: Loét sâu có nhiễm trùng tại chỗ, có tổn thương thần kinh, nhưng chưa có tổn thương xương. - Độ 3: Có viêm mô tế bào, đôi khi hình thành ổ áp xe. Có thể có viêm xương. - Độ 4: Hoại tử ngón, phần trước của bàn chân hoặc gót chân. - Độ 5: Hoại tử nặng rộng và sâu của bàn chân.
+----------------------------------------------------------------------------------------------------
+
+RANK: 17
+CHUNK ID: 82b62a8d2341e6881ec0f6e182be95a9809ead19e5a54fb86d1c7f6022ce67bf
+SCORE: 19.938333
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '6.2.2. Điều trị:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+6.2.2. Điều trị: a) Thay đổi lối sống: Tất cả BN đái tháo đường típ 2 người lớn cần có chế độ ăn uống tốt cho tim mạch và hoạt động thể lực (cường độ trung bình 150 phút hoặc cường độ mạnh 75 phút mỗi tuần) để kiểm soát đường huyết, giảm cân nếu cần và cải thiện các yếu tố nguy cơ tim mạch xơ vữa. b) Điều trị bằng thuốc: - BN đái tháo đường 40-75 tuổi bất kể nguy cơ tim mạch xơ vữa 10 năm là bao nhiêu, cần được điều trị statin cường độ trung bình. - BN đái tháo đường 20-39 tuổi có yếu tố nguy cơ bệnh tim mạch xơ vữa, có thể bắt đầu điều trị statin. - BN đái tháo đường nguy cơ cao (đái tháo đường ≥10 năm chưa có tổn thương cơ quan đích hoặc có đa yếu tố nguy cơ tim mạch xơ vữa) nên được điều trị statin cường độ mạnh với mục tiêu hạ LDL-C ≥50% hoặc dưới 1.8mmol/L (70 mg/dL). - BN đái tháo đường nguy cơ rất cao (có bệnh tim mạch xơ vữa, có tổn thương cơ quan đích, có ≥3 yếu tố nguy cơ chính) cần hạ LDL-C ≥50% hoặc dưới 1.4 mmol/L (55 mg/dL). Nếu chưa đạt mục tiêu khi đã dùng statin liều tối đa có thể dung nạp, cân nhắc phối hợp ezetimibe hoặc PCSK9i. - LDL-C được khuyến cáo là chỉ số chính trong sàng lọc, chẩn đoán và quản lý BN trong tiên lượng nguy cơ biến cố tim mạch - Các mục tiêu lipid máu khác bao gồm nồng độ triglycerides <150 mg/dL (1,7 mmol/L) và HDL cholesterol >40 mg/dL (1,0 mmol/L) ở nam và >50 mg/dL (1,3 mmol/L) ở nữ. Cần chú ý ưu tiên mục tiêu điều trị LDL cholesterol với statin trước.
+----------------------------------------------------------------------------------------------------
+
+RANK: 18
+CHUNK ID: dabb28a3c65291fc187e3c48bb3d4d93030b5de178f6b5fa356ea76b38e1704e
+SCORE: 19.323377
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 5: QUẢN LÝ TĂNG GLUCOSE MÁU Ở BỆNH NHÂN NỘI TRÖ', '2. Phác đồ điều trị tăng glucose máu cho bệnh nhân mắc bệnh nguy kịch']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+2. Phác đồ điều trị tăng glucose máu cho bệnh nhân mắc bệnh nguy kịch a) Truyền insulin tĩnh mạch là phương pháp lựa chọn để kiểm soát glucose máu ở bệnh nhân có tăng glucose máu và tình trạng nguy kịch. Sử dụng insulin nhanh, truyền bơm tiêm điện (pha với dung dịch natri clorua đẳng trương để được nồng độ insulin 1 IU/mL). b) Cần có phác đồ truyền insulin tĩnh mạch trên giấy hoặc vi tính hóa để thực hiện cho thuận tiện. c) Đo glucose máu mao mạch mỗi giờ lúc bắt đầu, có thể giảm xuống 2 giờ một lần nếu glucose máu ổn trong trong khoảng mục tiêu. Lưu ý những yếu tố gây sai số kết quả đo glucose huyết mao mạch. Các máy đo Glucose (G) máu mao mạch sử dụng phương pháp glucose oxidase (ví dụ One Touch): cho kết quả Glucose máu tăng giả nếu BN bị thiếu oxy, và cho kết quả Glucose máu giảm giả nếu nồng độ acetaminophen tăng cao trong máu. Các máy đo Glucose máu mao mạch sử dụng phương pháp glucose dehydrogenase cho kết quả chính xác hơn khi BN bị thiếu oxy, nhưng sẽ cho kết quả G máu giảm giả nếu BN đang sử dụng dopamin chuyền tĩnh mạch hoặc cho kết quả G máu tăng giả nếu nồng độ acetaminophen tăng cao trong máu. Những BN suy thận mạn được lọc màng bụng liên tục ngoại trú: trong dịch lọc có icodextrin, chất này được chuyển hóa dần thành maltose dẫn đến nồng độ maltose tăng cao trong máu đến 2 tuần sau lần lọc màng bụng cuối cùng; nếu BN dùng máy đo G mao mạch sử dụng phương pháp glucose dehydrogenase, máy sẽ xác định nhầm maltose thành glucose dẫn đến kết quả G máu tăng giả.
+----------------------------------------------------------------------------------------------------
+
+RANK: 19
+CHUNK ID: 19fd678ec4d9576e16d8a9ec2edca1a401a5c2b88750d7e67efc82de946bbaf8
+SCORE: 19.075382
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 2: CHẨN ĐOÁN VÀ PHÂN LOẠI ĐÁI THÁO ĐƯỜNG', '2.2. Đái tháo đường típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+2.2. Đái tháo đường típ 2 Đái tháo đường típ 2 trước kia được gọi là ĐTĐ của người lớn tuổi hay ĐTĐ không phụ thuộc insulin, chiếm 90-95% các trường hợp ĐTĐ. Thể bệnh này bao gồm những người có thiếu insulin tương đối cùng với đề kháng insulin. Ít nhất ở giai đoạn đầu hoặc có khi suốt cuộc sống BN ĐTĐ típ 2 không cần insulin để sống sót. Có nhiều nguyên nhân của ĐTĐ típ 2 nhưng không có một nguyên nhân chuyên biệt nào. BN không có sự phá hủy tế bào beta do tự miễn, không có kháng thể tự miễn trong máu. Đa số BN có béo phì hoặc thừa cân và/hoặc béo phì vùng bụng với vòng eo to. Béo phì nhất là béo phì vùng bụng có liên quan với tăng acid béo trong máu, mô mỡ cũng tiết ra một số hormon làm giảm tác dụng của insulin ở các cơ quan đích như gan, tế bào mỡ, tế bào cơ (đề kháng insulin tại các cơ quan đích). Do tình trạng đề kháng insulin, ở giai đoạn đầu tế bào beta bù trừ và tăng tiết insulin trong máu, nếu tình trạng đề kháng insulin kéo dài hoặc nặng dần, tế bào beta sẽ không tiết đủ insulin và ĐTĐ típ 2 lâm sàng sẽ xuất hiện. Tình trạng đề kháng insulin có thể cải thiện khi giảm cân, hoặc dùng một số thuốc nhưng không bao giờ hoàn toàn trở lại bình thường.
+----------------------------------------------------------------------------------------------------
+
+RANK: 20
+CHUNK ID: 8745130ff72fe3281dc9e561415e4e1432a25e62857117e9d332b7d56e25c8bb
+SCORE: 18.394263
+RETRIEVER: bm25
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHỤ LỤC 01: CÁC NHÓM THUỐC HẠ GLUCOSE MÁU ĐƯỜNG UỐNG VÀ THUỐC DẠNG TIÊM KHÔNG THUỘC NHÓM INSULIN', '7. Thuốc ức chế kênh đồng vận chuyển Natri-glucose SGLT2 (Sodium Glucose Transporter 2)']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+7. Thuốc ức chế kênh đồng vận chuyển Natri-glucose SGLT2 (Sodium Glucose Transporter 2) Glucose được lọc qua cầu thận sau đó được tái hấp thu chủ yếu ở ống thận gần dưới tác dụng của kênh đồng vận chuyển Natri-glucose (Sodium Glucose CoTransporters (SGlT). SGLT2 giúp tái hấp thu khoảng 90% glucose lọc qua cầu thận, do đó ức chế tác dụng kênh này ở BN ĐTĐ típ 2 sẽ làm tăng thải glucose qua đường tiểu và giúp giảm glucose huyết. Thuốc có cơ chế tác dụng hoàn toàn mới so với các thuốc hạ đường huyết trước đây là tăng thải đường qua thận và hoàn toàn độc lập với insulin nên có thể: - Kiểm soát đường huyết hiệu quả và lâu dài ở mọi giai đoạn của bệnh ĐTĐ típ 2. - Phối hợp lý tưởng với các thuốc điều trị ĐTĐ có cơ chế phụ thuộc insulin, để giúp kiểm soát đường huyết cho BN tốt hơn - Khi phối hợp cùng với Insulin có tác dụng làm giảm liều insulin - Ổn định đường huyết trước ăn và sau ăn sớm, chỉ sau một tuần điều trị - Không gây hạ đường huyết - Kiểm soát các yếu tố nguy cơ tim mạch: + Kiểm soát và cải thiện được cân nặng, thuốc gây giảm cân khoảng 3kg (khoảng 3% trọng lượng cơ thể), trong đó chủ yếu là mỡ và mỡ tạng nhiều hơn mỡ dưới da + Giảm huyết áp khoảng 2-4 mmHg - Bên cạnh tác dụng kiểm soát đường huyết, thuốc còn có tác dụng trên hệ thống tim mạch- thận.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+BGE-M3 TOP-20 | TOTAL: 20
+====================================================================================================
+
+RANK: 1
+CHUNK ID: a27a1af49393d5968b25d53ab22440a3eedfbc3054da73368a54707d2d79bb70
+SCORE: 0.684723
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Summary']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Heart disease remains a major cause of morbidity and mortality among individuals with type 2 diabetes. Meta-analyses have demonstrated a pooled relative risk for incident coronary heart disease (CHD) that is approximately twofold higher overall in adults with diabetes compared to those without diabetes. In studies that further stratify results by sex, the relative risk of CHD is higher in women than men in the presence of diabetes. Nonetheless, the age-standardized prevalence for all categories of heart disease remains higher in men with diabetes than women with diabetes in the United States. Although the rates of diabetes are higher in Hispanic and non-White individuals compared to non-Hispanic White adults, it should be noted that non-Hispanic White adults with diabetes generally report heart disease rates up to twice as high as Hispanic persons with diabetes, with an intermediate prevalence of any heart condition in non-Hispanic Black individuals. Despite a more than twofold increase in type 2 diabetes prevalence from the 1970s to the 2020s, the prevalence of heart disease has increased modestly in both men with diabetes and women with diabetes, while in contrast, it has remained stable or decreased for men and women without diabetes. Classic heart disease risk markers have been clearly demonstrated to be important determinants of heart disease in diabetes, including elevated low-density lipoprotein cholesterol, elevated blood pressure, smoking, and elevated triglycerides and low high-density lipoprotein cholesterol. Obesity is an important risk factor for type 2 diabetes but has not consistently been shown to have an independent association with heart disease, possibly because obesity is in the causal pathway between these risk factors and heart disease development. However, several studies indicate that the excess prevalence of heart disease in diabetes is not fully accounted for by measured classic cardiovascular disease risk factors. In addition, novel biomarkers have been found to either add no or only modest incremental significance in the prediction of heart disease.
+----------------------------------------------------------------------------------------------------
+
+RANK: 2
+CHUNK ID: 74166e4ff8b9fc5c60f6ee02e523a771311d72784096e6de018893079d57cf8f
+SCORE: 0.678633
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Risk Factors for the Development of Heart Disease in People With Diabetes', 'Demographic Factors']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Increasing age is a risk factor for development of heart disease in people both with and without diabetes (17). As noted, men with diabetes generally have a higher age-standardized prevalence of heart disease than women with diabetes in the United States, although the relative risk of heart disease in the presence of diabetes is higher in women compared to men. Races/ethnicities at higher risk of heart disease in the presence of diabetes include American Indian/Alaska Native persons in the BRFSS (Table 3). Among participants in the NHANES I Epidemiologic Follow-up Study, the population attributable risk of CHD incidence associated with a medical history of diabetes was higher in Black women (8.7%) compared to White women (6.1%), suggesting that diabetes may confer differential risk of heart disease by race (21). Further, subgroups at higher risk of heart disease may exist within different races/ethnicities. As an example, grouping all Asians together may be misleading since South Asians have a higher risk of CVD than East Asians living in the United States and develop atherosclerotic cardiovascular disease (ASCVD) earlier in life; their ASCVD is more aggressive than in age-matched people of other ethnicities, with a fourfold higher risk of CVD than the general population (22).
+----------------------------------------------------------------------------------------------------
+
+RANK: 3
+CHUNK ID: eb829ba640911a22b87156b8e1692169f284da0ec18de53b988bc4fcbb6646b5
+SCORE: 0.657106
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 1: ĐỊNH NGHĨA VÀ DỊCH TỄ HỌC']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+PHẦN 1: ĐỊNH NGHĨA VÀ DỊCH TỄ HỌC Bệnh đái tháo đường là bệnh rối loạn chuyển hóa, có đặc điểm tăng glucose huyết mạn tính do khiếm khuyết về tiết insulin, về tác động của insulin, hoặc cả hai. Tăng glucose mạn tính trong thời gian dài gây nên những rối loạn chuyển hóa carbohydrate, protide, lipide, gây tổn thương ở nhiều cơ quan khác nhau, đặc biệt ở tim và mạch máu, thận, mắt, thần kinh. Theo Liên đoàn Đái tháo đường Quốc tế (IDF), năm 2019 toàn thế giới có 463 triệu người (trong độ tuổi 20-79) bị bệnh đái tháo đường (ĐTĐ), dự kiến sẽ đạt 578 triệu người vào năm 2030 và 700 triệu người vào năm 2045. Ước tính hơn 4 triệu người trong độ tuổi từ 20-79 đã tử vong vì các nguyên nhân liên quan đến ĐTĐ trong năm 2019. Bên cạnh đó, cùng với việc tăng sử dụng thực phẩm không thích hợp, ít hoặc không hoạt động thể lực ở trẻ em, bệnh ĐTĐ típ 2 đang có xu hướng tăng ở cả trẻ em, trở thành vấn đề sức khỏe cộng đồng nghiêm trọng. Bệnh ĐTĐ gây nên nhiều biến chứng nguy hiểm, là nguyên nhân hàng đầu gây bệnh tim mạch, mù lòa, suy thận, và cắt cụt chi.
+----------------------------------------------------------------------------------------------------
+
+RANK: 4
+CHUNK ID: 7b7662342361cbafe9f0e38d0d38fd41b110c4f2e7bcc1099c3353e56b6fb6ca
+SCORE: 0.652407
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Introduction']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Key characteristics of diabetes are discussed, specifically: demographic and lifestyle factors; social determinants of health, such as food insecurity or access to health care; and metabolic risk factors, including hyperglycemia and insulin (hyperinsulinemia), dyslipidemia (elevated triglycerides, high low-density lipoprotein cholesterol [LDL-C], and low high-density lipoprotein cholesterol [HDL-C]), hypertension, obesity and components of the metabolic syndrome, and novel risk markers, such as high-sensitivity C-reactive protein (hsCRP). Hypertension is a common risk factor for CHD in adults with diabetes and is an independent risk factor for heart disease, heart failure (HF), and stroke. The extent to which diabetes is associated with fatal versus nonfatal myocardial infarction (MI) is also unknown (12). Further, how much of the effect of diabetes on vascular risk can be accounted for by conventional vascular risk factors (dyslipidemia, hypertension, obesity, smoking) is unresolved (13). FPG has been log-linearly and importantly associated with risk of vascular disease at all concentrations, including below the classic fasting threshold for diabetes of 126 mg/dL (6.99 mmol/L); however, available data regarding this association remain inconclusive (14,15,16). Figure 1 shows study-specific hazard ratios (HR) for CHD in people with diabetes at baseline compared with people without diabetes (17). The summary risk estimates from the forest plot indicate that the overall effect is an approximate doubling of risk for CHD among those with diabetes compared to those without diabetes. Regression analyses were stratified, where appropriate, by sex and trial group and adjusted for age, smoking status, body mass index (BMI), and systolic blood pressure. Studies are ordered (top to bottom) by increasing number of CHD cases. Sizes of data markers are proportional to the inverse of the variance of the hazard ratios. The data sources shown in this forest plot reveal the heterogeneity of associations by cohort.
+----------------------------------------------------------------------------------------------------
+
+RANK: 5
+CHUNK ID: f6c928d980a9e7228900a68af7c87fa4f11aff2e3a2e1a9742bc9c2d1c8c46b8
+SCORE: 0.644416
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Prevalence of Heart Disease in People With Versus Without Diabetes in the United States: Nationally Representative Survey Estimates']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+National surveys of the U.S. population consistently demonstrate that the prevalence of heart disease (no matter how defined) is higher among adults with diabetes than adults without diabetes (Tables 1, 2, 3, and 4; Appendices A1, A2, A3, and A4). In adults, the prevalence of heart disease increases with age regardless of diabetes status (Figure 2). The age-standardized relative risk (RR; the ratio in persons with diabetes to those without) for any heart condition, including CHD, angina, and heart attack (plus HF in the NHANES), varies from 2.2 to 2.5, reflecting the different heart disease conditions included in the national surveys. Prevalence estimates for any heart condition are 20.6% versus 9.3% for the NHIS (Table 1) and 24.2% versus 10.3% for the NHANES (Table 2) for persons with versus without diabetes, respectively. In the BRFSS, prevalence of CHD or angina is 12.7% versus 5.2%, and for heart attack or MI, the prevalence is 13.5% versus 5.5% for those with and without diabetes, respectively (Table 3). The BRFSS is a cross-sectional, self-reported survey, which may limit interpretation. National data based on hospital discharges demonstrate similar trends between adults with and without diabetes (Table 4, Appendix A4).
+----------------------------------------------------------------------------------------------------
+
+RANK: 6
+CHUNK ID: 368b1d9c7e95ad8a88cbc9f2a8384f346e1f91189b89b27616fd7d9cfe8a3df4
+SCORE: 0.643592
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Risk Factors for the Development of Heart Disease in People With Diabetes', 'Social Determinants of Health']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+The WHO defines the social determinants of health broadly as “the circumstances in which people are born, grow, live, work, and age, and the systems put in place to deal with illness” (28). In the context of diabetes and heart disease, these social determinants include socioeconomic status (i.e., income, education, employment, and other factors), race and ethnicity, social support, culture (including language), access to medical care, and residential environments (29). In data from the NHIS between 2011 and 2014 (30), increasing diabetes prevalence was found at lower levels of income. Using data from the NHANES 1999–2004 and the 2000 U.S. Census, individual poverty increased the odds of having diabetes for both White and Black persons (31). Further, low socioeconomic status is related to almost double the rate of CHD compared to those of high socioeconomic status, using a computer simulation model of CHD and stroke incidence, prevalence, and mortality among adults in the United States (32). Thus, social determinants of health are important contributors to the development of both diabetes and heart disease.
+----------------------------------------------------------------------------------------------------
+
+RANK: 7
+CHUNK ID: 59c70afb8c69223f90eaab1b1de109de7a4004a6b3aa085eb92ad7485346b228
+SCORE: 0.642394
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '3. Phân tầng nguy cơ tim mạch, thận ở BN ĐTĐ típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+3. Phân tầng nguy cơ tim mạch, thận ở BN ĐTĐ típ 2 Trong lựa chọn thuốc và phương pháp điều trị cho BN ĐTĐ típ 2 cần đánh giá nguy cơ cao hay tiền sử bệnh lý tim mạch do xơ vữa (BTMDXV) và bệnh lý suy tim, suy thận để có thể ra quyết định điều trị hợp lý. a) Phân nhóm BN có nguy cơ cao hoặc đã có BTMDXV, bệnh thận mạn hay suy tim: - BN có BTMDXV chiếm ưu thế bao gồm: + BN có tiền sử BTMDXV + BN có nguy cơ BTMDXV cao: BN ≥ 55 tuổi có hẹp động mạch vành, động mạch cảnh hoặc động mạch chi dưới > 50% hoặc dày thất trái - BN có Suy tim hay bệnh thận mạn chiếm ưu thế bao gồm: + BN suy tim phân suất tống máu thất trái LVEF<45%, + BN có bệnh thận mạn (đặc biệt nếu eGFR 30-60 mL/phút/1,73m2 hoặc UACR >30 mg/g, đặc biệt UACR>300 mg/g) b) Phân tầng nguy cơ tim mạch trên BN ĐTĐ: Các yếu tố nguy cơ (YTNC) tim mạch chính bao gồm: Tuổi, tăng huyết áp, rối loạn lipid máu, hút thuốc lá, béo phì - Nguy cơ trung bình: BN trẻ (ĐTĐ típ 1, <35 tuổi hoặc típ 2, <50 tuổi), có thời gian bệnh ĐTĐ <10 năm không có YTNC khác - Nguy cơ cao: Thời gian phát hiện bệnh ĐTĐ ≥10 năm chưa có tổn thương cơ quan đích và có thêm bất kỳ YTNC nào - Nguy cơ rất cao: BN ĐTĐ kèm bệnh tim mạch hoặc tổn thương cơ quan đích (có đạm niệu hay suy thận được định nghĩa khi eGFR <30 mL/ph/1.73m2, phì đại thất trái hoặc có bệnh võng mạc) hoặc có ≥ 3 YTNC chính hoặc ĐTĐ típ 1 khởi phát sớm, có thời gian mắc bệnh >20 năm
+----------------------------------------------------------------------------------------------------
+
+RANK: 8
+CHUNK ID: d4a0da18041b1f9e9d2489a27af508efba497985f8e33f0b306897c727e77b8a
+SCORE: 0.641158
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '6.1.3. Điều trị:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+g) Nếu đang dùng thuốc ức chế men chuyển, ức chế thụ thể hay lợi tiểu, cần phải theo dõi chức năng thận và nồng độ kali máu. h) BN bị đái tháo đường thường có tăng huyết áp, với tần suất vào khoảng 50-70%, thay đổi tùy thuộc loại đái tháo đường, tuổi, béo phì … Tăng huyết áp là yếu tố nguy cơ chính của bệnh mạch vành, đột quị và biến chứng mạch máu nhỏ. Ở BN bị đái tháo đường típ 1 tăng huyết áp là hậu quả của biến chứng thận, ngược lại ở BN đái tháo đường típ 2 tăng huyết áp thường có sẵn cùng với các yếu tố nguy cơ tim mạch chuyển hóa khác. i) Trong các thuốc hạ đường huyết, nhóm thuốc GLP-1 RA và Ức chế SGLT2 ngoài kiểm soát đường huyết còn có tác dụng giảm nhẹ huyết áp, có thể cân nhắc trong điều trị.
+----------------------------------------------------------------------------------------------------
+
+RANK: 9
+CHUNK ID: cc639b08659ce26167e45a20a6220e179b979198265897e3dbbe97abf8c9a406
+SCORE: 0.638588
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Prevalence of Heart Disease in People With Versus Without Diabetes in the United States: Nationally Representative Survey Estimates']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Examination of these national survey results demonstrates that the age-standardized prevalence of heart disease is consistently higher among men than women, regardless of diabetes status (Tables 1, 2, 3, and 4; Appendices A1, A2, A3, and A4). There is substantial variation in the age-standardized prevalence of heart disease based on race and ethnicity. Asian and American Indian/Alaska Native individuals with diabetes reported the highest rates of CHD or angina, and American Indian/Alaska Native persons with diabetes reported the highest rates of heart attack or MI in the BRFSS 2019 (Table 3). For the NHIS 2019–2020 and NHANES 2017–2020 Q1 (which did not have sufficient numbers of American Indian/Alaska Native respondents to report separately), non-Hispanic White individuals generally reported the highest rates of heart disease (Tables 1 and 2). However, non-Hispanic Black individuals in the NHANES reported more HF than individuals from other race/ethnicity groups (Table 2). Importantly, sex differences exist for the relative risk of CHD in the presence of diabetes. In healthy young and middle-aged U.S. adults between ages 35 and 60 years, with different underlying risks of heart disease, a study across three diverse cohorts found that women with diabetes were significantly more likely to develop CHD than those without diabetes (pooled HR 3.61, 95% CI [confidence interval] 1.97–6.61), but similar relationships were not found in men (pooled HR 1.17, 95% CI 0.71–1.94), after adjustment for age, race, education, smoking, BMI, hypertension, and dyslipidemia (20). In a large meta-analysis of 22 prospective cohorts, an excess risk of fatal CHD was found in women (RR 3.12, 95% CI 2.34–4.17) and men (RR 1.99, 95% CI 1.69–2.35) with diabetes compared to those without diabetes; however, the ratio of relative risks was 1.46 (95% CI 1.14–1.88) comparing women to men. These results suggest that the relative risk of fatal CHD associated with diabetes is about 50% higher in women than men (11).
+----------------------------------------------------------------------------------------------------
+
+RANK: 10
+CHUNK ID: 47e7d9cde90a9a478aeb6d73be212e276bf3d8736039c558942ce2dc60fb9749
+SCORE: 0.636431
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Summary']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+The association between fasting glucose and heart disease displays a J-shaped curve in several studies. Glycosylated hemoglobin also has a graded association with heart disease. The association between insulin resistance and heart disease is inconsistent, at least in part because of methodologic differences among studies. Other important risk factors include lifestyle factors, such as physical activity, smoking, diet, and social determinants of health, such as food insecurity, access to health care, or poverty. Clinical trials involving modification of cardiovascular risk factors in diabetes have helped to clarify their roles in heart disease development. Clinical trials focusing on weight reduction through an intensive lifestyle intervention specifically in people with diabetes have not demonstrated benefit in cardiovascular events despite improvement in risk factors. Whether improvement of glycemic control reduces heart disease has long been a central question, since older trials had not consistently demonstrated benefit. By contrast, lipid-lowering clinical trials have shown that statin treatment, in both secondary as well as primary prevention trials, significantly reduces atherosclerotic heart disease with a similar risk reduction to that seen in people without diabetes. Large randomized trials have demonstrated that highly purified eicosapentaenoic acid ethyl ester significantly reduces risk of ischemic events. Trials of more intensive compared to standard blood pressure control in people with diabetes did not generally find that achieving a lower goal leads to a reduction in cardiovascular events overall. The benefits of aspirin in reducing serious vascular events have been demonstrated in trials of people with diabetes, but these benefits are largely counterbalanced by an increase in major bleeding events. Post-marketing cardiovascular outcome trials have been required by the U.S. Food and Drug Administration to demonstrate safety for all antihyperglycemic agents newly approved since 2008.
+----------------------------------------------------------------------------------------------------
+
+RANK: 11
+CHUNK ID: bd8c49a61a069870bc441266f93f0fafa6b1cffdd289e49cea055998cc9fd8c1
+SCORE: 0.623456
+RETRIEVER: dense
+DOCUMENT: niddk_t2dm_overview
+VERSION: 3465d2365ab3fdd91b1c87d3b9b4a36073bf2a538dc422e38ee9022450fa7ce4
+LANGUAGE: en
+SECTION: ['Type 2 Diabetes', 'What health problems can people with diabetes develop?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes
+
+FULL TEXT:
+Following a good diabetes care plan can help protect against many diabetes-related health problems. However, if not managed, diabetes can lead to problems such as heart disease and stroke nerve damage kidney disease foot problems eye disease gum disease and other dental problems sexual and bladder problems Many people with type 2 diabetes also have nonalcoholic fatty liver disease (NAFLD). Losing weight if you are overweight or have obesity can improve NAFLD. Diabetes is also linked to other health problems such as sleep apnea, depression, some types of cancer, and dementia. You can take steps to lower your chances of developing these diabetes-related health problems.
+----------------------------------------------------------------------------------------------------
+
+RANK: 12
+CHUNK ID: 5f01c2d74770811ee745febe7c2268fce8a671cdf024674e0d0bb8a9aec987f2
+SCORE: 0.617734
+RETRIEVER: dense
+DOCUMENT: niddk_low_blood_glucose
+VERSION: ff50d9c010e9cd0ccf4820e6753e17f61b90903047e7323a0c62991d137178be
+LANGUAGE: en
+SECTION: ['Low Blood Glucose (Hypoglycemia)', 'Who is more likely to develop low blood glucose?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia
+
+FULL TEXT:
+You are more likely to develop low blood glucose if you4 have type 1 diabetes take insulin or some other diabetes medicines are age 65 or older5 had low blood glucose before have other health problems, such as kidney disease, heart disease, or cognitive impairment
+----------------------------------------------------------------------------------------------------
+
+RANK: 13
+CHUNK ID: 231045cee02b126188c8a4bb3205d733d28886068cc821fb6a03eebc388f79e7
+SCORE: 0.616348
+RETRIEVER: dense
+DOCUMENT: dia_kidney_disease
+VERSION: 8b568e01046798eb29071e3b03f5023d2c486e2ed852afcce313c752e5a2b27a
+LANGUAGE: en
+SECTION: ['Kidney Disease and Diabetes', 'Risk Factors for Diabetes-Related Kidney Disease', 'Smoking']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK609462/
+
+FULL TEXT:
+In men with type 2 diabetes, cigarette smoking was associated with higher A1C and ACR levels in a dose-dependent fashion (451), with nearly one-half of the heavy smokers having A1C >9% (>75 mmol/mol) and ACR ≥30 mg/g. The odds of elevated ACR were 2.8–3.2 times as high in those smoking more than 15 pack-years than in nonsmokers, regardless of age, blood pressure control, or diabetes duration. This and other studies in type 2 diabetes suggest that smoking is associated with kidney damage regardless of blood pressure control and treatment with RAAS inhibitors (452,453). Smoking also increased the risk of moderate or severe albuminuria (adjusted OR 1.50, 95% CI 1.21–1.86) after 5 years of follow-up in a large population-based study of persons with type 2 diabetes and no kidney disease at baseline from the Swedish National Diabetes Registry, although no association was found with the rate of kidney function decline (454). In addition to nicotine, mainstream cigarette combustion produces more than 4,000 compounds, including reactive oxygen species, carbon monoxide, nitric oxide, toxic metals, and polycyclic aromatic hydrocarbons, which may add to an already increased susceptibility to DKD (455). Although the precise mechanisms are unclear, tobacco smoking is known to cause vasoconstriction, impair platelet function and coagulation, and alter blood pressure (456,457). Given that persons with diabetes already have widespread vascular damage as a consequence of their diabetes (458), smoking may accelerate the process.
+----------------------------------------------------------------------------------------------------
+
+RANK: 14
+CHUNK ID: 9eb5d5761a5d647d0eaf2e3269b3afcbc1368ddfb7b4c908206354b3e12a8778
+SCORE: 0.615476
+RETRIEVER: dense
+DOCUMENT: niddk_diabetes_kidney_disease
+VERSION: b2ddcfb68d218f673f7194d7a0e53844a33ba9588919a8103b6fedddf0c8ca50
+LANGUAGE: en
+SECTION: ['Diabetic Kidney Disease', 'What increases my chances of developing diabetic kidney disease?']
+SOURCE URL: https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/diabetic-kidney-disease
+
+FULL TEXT:
+Having diabetes for a longer time increases the chances that you will have kidney damage. If you have diabetes, you are more likely to develop kidney disease if your blood glucose is too high blood pressure is too high African Americans, American Indians, and Hispanics/Latinos develop diabetes, kidney disease, and kidney failure at a higher rate than Caucasians. You are also more likely to develop kidney disease if you have diabetes and smoke don’t follow your diabetes eating plan eat foods high in salt are not active are overweight have heart disease have a family history of kidney failure If you have diabetes, you are more likely to develop kidney disease if you have high blood pressure.
+----------------------------------------------------------------------------------------------------
+
+RANK: 15
+CHUNK ID: 859846c55ef617545adf8ef311a2b324561527679694126c077e85efd4e1e5cc
+SCORE: 0.615116
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Introduction']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Although coronary heart disease (CHD) is the major cause of morbidity and mortality in patients with type 2 diabetes, historically the diabetes-CHD association received little systematic study, even after the publication of Kelly West’s monumental book Epidemiology of Diabetes Mellitus and Its Vascular Lesions (1) and the development of standard World Health Organization (WHO) (2) and National Diabetes Data Group (3) criteria for the definition of diabetes in the 1980s. According to the Centers for Disease Control and Prevention (CDC) (4), the proportion of diabetes in the United States that is type 1 is 5%–10%, while type 2 diabetes accounts for 90%–95%. The epidemiology and etiology of type 1 (insulin-dependent) diabetes are described elsewhere (5). Aside from the Diabetes Control and Complications Trial (DCCT), there is a relative paucity of trials with cardiovascular outcomes in people with type 1 diabetes. Although longstanding type 1 diabetes carries a cardiovascular disease (CVD) mortality risk similar to type 2 diabetes (6), type 2 diabetes is the primary focus of the analyses herein, based on papers reporting diabetes defined by elevated fasting plasma glucose (FPG) values or diabetes by history. The literature on diabetes and CVD, particularly from studies reporting the results from cardiovascular outcome trials (CVOTs) of newer glucose-lowering agents, has increased exponentially since Diabetes in America, 3rd edition, was published in 2018 (7,8). Here, each section usually starts with a review of the evidence and, whenever possible, concludes showing a large systematic review or meta-analysis that addresses each topic. In order to improve generalizability and statistical power, no attempt was made to exclude prospective studies done outside the United States that were included in these meta-analyses. Diabetes is clearly an established risk factor for CHD (9,10), but how much its effect varies by age, sex, country, or levels of conventional risk factors for CHD remains unresolved (11).
+----------------------------------------------------------------------------------------------------
+
+RANK: 16
+CHUNK ID: 605fb76dbb24467784a047f1c8448a574b06357545653f03ed23bc36873bbd8c
+SCORE: 0.614371
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Risk Factors for the Development of Heart Disease in People With Diabetes', 'Metabolic Risk Factors', 'Lipids and Lipoproteins']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Type 2 diabetes and insulin resistance are associated with abnormalities in circulating lipids, including elevated triglycerides and small, dense LDL particles, as well as low concentrations of HDL-C (61). These abnormalities in circulating concentrations of lipids often precede the diagnosis of type 2 diabetes (62,63,64,65). For a given concentration of LDL-C, the lipoprotein particles tend to be smaller and denser in patients with type 2 diabetes than in patients without diabetes (66). Patients with type 2 diabetes tend to have higher triglyceride and lower HDL-C concentrations than patients without diabetes, and until recently, there has been disagreement as to whether triglycerides or HDL-C play a causal role in the development of ASCVD. Large observational studies have noted an association between triglyceride concentrations and cardiovascular events. In a comparison of individuals in the top third with those in the bottom third of usual log-triglyceride values, the adjusted odds ratio (OR) for CHD was 1.57 (95% CI 1.10–2.24) in the EPIC-Norfolk study and 1.76 (95% CI 1.39–2.21) in the Reykjavik study (67). However, the prevalence of diabetes at baseline in the two cohorts was low (2% and 3%, respectively). After adjusting for baseline values of established risk factors, including a history of diabetes, the strength of these associations was attenuated but remained statistically significant. Mendelian randomization studies are consistent with the hypothesis, but do not prove, that triglycerides or triglyceride-rich remnant lipoprotein particles cause atherosclerosis, even when accounting for LDL-C concentrations (68,69). As discussed in detail below, therapies to lower LDL-C concentrations have demonstrated important reductions in major adverse cardiovascular event (MACE) rates. Therapies directed at improving HDL-C and triglyceride concentrations have had more mixed success.
+----------------------------------------------------------------------------------------------------
+
+RANK: 17
+CHUNK ID: 82b62a8d2341e6881ec0f6e182be95a9809ead19e5a54fb86d1c7f6022ce67bf
+SCORE: 0.613580
+RETRIEVER: dense
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '6.2.2. Điều trị:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+6.2.2. Điều trị: a) Thay đổi lối sống: Tất cả BN đái tháo đường típ 2 người lớn cần có chế độ ăn uống tốt cho tim mạch và hoạt động thể lực (cường độ trung bình 150 phút hoặc cường độ mạnh 75 phút mỗi tuần) để kiểm soát đường huyết, giảm cân nếu cần và cải thiện các yếu tố nguy cơ tim mạch xơ vữa. b) Điều trị bằng thuốc: - BN đái tháo đường 40-75 tuổi bất kể nguy cơ tim mạch xơ vữa 10 năm là bao nhiêu, cần được điều trị statin cường độ trung bình. - BN đái tháo đường 20-39 tuổi có yếu tố nguy cơ bệnh tim mạch xơ vữa, có thể bắt đầu điều trị statin. - BN đái tháo đường nguy cơ cao (đái tháo đường ≥10 năm chưa có tổn thương cơ quan đích hoặc có đa yếu tố nguy cơ tim mạch xơ vữa) nên được điều trị statin cường độ mạnh với mục tiêu hạ LDL-C ≥50% hoặc dưới 1.8mmol/L (70 mg/dL). - BN đái tháo đường nguy cơ rất cao (có bệnh tim mạch xơ vữa, có tổn thương cơ quan đích, có ≥3 yếu tố nguy cơ chính) cần hạ LDL-C ≥50% hoặc dưới 1.4 mmol/L (55 mg/dL). Nếu chưa đạt mục tiêu khi đã dùng statin liều tối đa có thể dung nạp, cân nhắc phối hợp ezetimibe hoặc PCSK9i. - LDL-C được khuyến cáo là chỉ số chính trong sàng lọc, chẩn đoán và quản lý BN trong tiên lượng nguy cơ biến cố tim mạch - Các mục tiêu lipid máu khác bao gồm nồng độ triglycerides <150 mg/dL (1,7 mmol/L) và HDL cholesterol >40 mg/dL (1,0 mmol/L) ở nam và >50 mg/dL (1,3 mmol/L) ở nữ. Cần chú ý ưu tiên mục tiêu điều trị LDL cholesterol với statin trước.
+----------------------------------------------------------------------------------------------------
+
+RANK: 18
+CHUNK ID: 47c7d751bec1898279c17e72d108fa848b4c8fbec9f442caf2684bd5011e6317
+SCORE: 0.612056
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Prevalence of Heart Disease in People With Versus Without Diabetes in the United States: Nationally Representative Survey Estimates']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Interestingly, large secular trends have been noted from the 1970s to 2020. Figures 3 and 4 present the prevalence of diabetes and heart disease (self-reported heart attack or HF) for women and men, respectively, across six NHANES time periods covering 1976–2020. Over the same period, the prevalence of self-reported diabetes increased from 4% to 9% in women and from 3% to 12% in men. However, the prevalence of heart disease remained stable or decreased for men and women without diabetes but increased modestly in both men and women with diabetes. Although overall heart disease prevalence has been stable, population attributable risk (here defined as the number of cases of heart disease that would not occur if diabetes could be eliminated) may not have been. In other words, the prevalence of heart disease has remained stable, even though the prevalence of diabetes has increased—that is, the association between diabetes and heart disease has decreased, and the population attributable risk has declined.
+----------------------------------------------------------------------------------------------------
+
+RANK: 19
+CHUNK ID: 704e497b189bf44f536dcf9a2b78148929b35daede11fea92f959de7207b3408
+SCORE: 0.610831
+RETRIEVER: dense
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Risk Factors for the Development of Heart Disease in People With Diabetes', 'Metabolic Risk Factors', 'Hypertension']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+The CDC estimates that 69% of patients with type 2 diabetes have hypertension (19). Just as dyslipidemia can precede the diagnosis of diabetes, so too can the diagnosis of hypertension precede diabetes (62,70). As might be anticipated, patients with type 2 diabetes are also at elevated risk of developing hypertension (71). An epidemiologic analysis of data from the United Kingdom Prospective Diabetes Study (UKPDS) suggests an increase in both macrovascular and microvascular events with increases in systolic blood pressure in patients with diabetes, as well as a substantially elevated risk of HF and peripheral artery disease (PAD) (including amputation or death from PAD) (72). These data have led the American Heart Association (AHA) to recommend a lower blood pressure treatment goal (<130/80 mmHg) in patients with diabetes with the goal of improving macrovascular and microvascular outcomes (73). However, recommendations about which patients to treat aggressively, and which to treat less aggressively, have historically differed among major professional organizations, although recent guidelines from the ADA reflect greater concordance with those from the AHA (74,75). Recommendations have differed in part because of concern about potential adverse effects of antihypertensive therapy in patients with diabetes and because of a lack of clarity from clinical trial data.
+----------------------------------------------------------------------------------------------------
+
+RANK: 20
+CHUNK ID: 35907d53fce9bf3c2fe0058dbcb3de7af5dd9e899e6aed6b918ce794440727cd
+SCORE: 0.610010
+RETRIEVER: dense
+DOCUMENT: dia_prevention_t2d
+VERSION: 13c3fbb534c12cdbe3093e2572fc4c79ba960f8c90bbf42ac014d9358ee5fc24
+LANGUAGE: en
+SECTION: ['Prevention of Type 2 Diabetes in Adults', 'Introduction', 'Historical Clues for Identifying and Modifying Risk for Type 2 Diabetes']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK619261/
+
+FULL TEXT:
+Epidemiologic research during the past century showed that family history, middle age, centripetal obesity, physical inactivity, and poverty all are associated with increased risk for developing type 2 diabetes (3). Serial cross-sectional studies showed striking shifts in the population prevalence of diabetes and obesity (2,17), suggesting that something causative was increasing in the environment and driving susceptible individuals to develop type 2 diabetes more often (18) and that obesity was either an intermediate state or parallel outcome of that process. It also was apparent that genes, aging, dietary composition, physical activity, visceral fat accumulation, and environmental conditions were critical to understanding the pathophysiology and prevention of type 2 diabetes. Observations from the treatment of type 2 diabetes held important clues for its prevention. Low calorie diets have been useful in the clinical management of type 2 diabetes for hundreds of years, improving glucose control and reducing the need for glucose-lowering medications (19). Physical activity not only lowers blood glucose acutely but also amplifies the effects of insulin treatment on blood glucose control for up to 72 hours, suggesting that exercise somehow restores, albeit temporarily, some of the lost sensitivity to insulin (20,21). Finally, weight loss achieved through behavioral changes, medications, and metabolic bariatric surgery has significant effects on insulin sensitivity and secretion, so long as weight loss is maintained (22). Observations such as these, dating back many decades, catalyzed a new era of experimental diabetes prevention research beginning in about the 1990s, which now serves as the foundation for the evidence reviewed by this article.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RRF TOP-7 | TOTAL: 7
+====================================================================================================
+
+RANK: 1
+CHUNK ID: eb829ba640911a22b87156b8e1692169f284da0ec18de53b988bc4fcbb6646b5
+RRF SCORE: 0.031025
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 1: ĐỊNH NGHĨA VÀ DỊCH TỄ HỌC']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+PHẦN 1: ĐỊNH NGHĨA VÀ DỊCH TỄ HỌC Bệnh đái tháo đường là bệnh rối loạn chuyển hóa, có đặc điểm tăng glucose huyết mạn tính do khiếm khuyết về tiết insulin, về tác động của insulin, hoặc cả hai. Tăng glucose mạn tính trong thời gian dài gây nên những rối loạn chuyển hóa carbohydrate, protide, lipide, gây tổn thương ở nhiều cơ quan khác nhau, đặc biệt ở tim và mạch máu, thận, mắt, thần kinh. Theo Liên đoàn Đái tháo đường Quốc tế (IDF), năm 2019 toàn thế giới có 463 triệu người (trong độ tuổi 20-79) bị bệnh đái tháo đường (ĐTĐ), dự kiến sẽ đạt 578 triệu người vào năm 2030 và 700 triệu người vào năm 2045. Ước tính hơn 4 triệu người trong độ tuổi từ 20-79 đã tử vong vì các nguyên nhân liên quan đến ĐTĐ trong năm 2019. Bên cạnh đó, cùng với việc tăng sử dụng thực phẩm không thích hợp, ít hoặc không hoạt động thể lực ở trẻ em, bệnh ĐTĐ típ 2 đang có xu hướng tăng ở cả trẻ em, trở thành vấn đề sức khỏe cộng đồng nghiêm trọng. Bệnh ĐTĐ gây nên nhiều biến chứng nguy hiểm, là nguyên nhân hàng đầu gây bệnh tim mạch, mù lòa, suy thận, và cắt cụt chi.
+----------------------------------------------------------------------------------------------------
+
+RANK: 2
+CHUNK ID: d4a0da18041b1f9e9d2489a27af508efba497985f8e33f0b306897c727e77b8a
+RRF SCORE: 0.030835
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '6.1.3. Điều trị:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+g) Nếu đang dùng thuốc ức chế men chuyển, ức chế thụ thể hay lợi tiểu, cần phải theo dõi chức năng thận và nồng độ kali máu. h) BN bị đái tháo đường thường có tăng huyết áp, với tần suất vào khoảng 50-70%, thay đổi tùy thuộc loại đái tháo đường, tuổi, béo phì … Tăng huyết áp là yếu tố nguy cơ chính của bệnh mạch vành, đột quị và biến chứng mạch máu nhỏ. Ở BN bị đái tháo đường típ 1 tăng huyết áp là hậu quả của biến chứng thận, ngược lại ở BN đái tháo đường típ 2 tăng huyết áp thường có sẵn cùng với các yếu tố nguy cơ tim mạch chuyển hóa khác. i) Trong các thuốc hạ đường huyết, nhóm thuốc GLP-1 RA và Ức chế SGLT2 ngoài kiểm soát đường huyết còn có tác dụng giảm nhẹ huyết áp, có thể cân nhắc trong điều trị.
+----------------------------------------------------------------------------------------------------
+
+RANK: 3
+CHUNK ID: 59c70afb8c69223f90eaab1b1de109de7a4004a6b3aa085eb92ad7485346b228
+RRF SCORE: 0.030310
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '3. Phân tầng nguy cơ tim mạch, thận ở BN ĐTĐ típ 2']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+3. Phân tầng nguy cơ tim mạch, thận ở BN ĐTĐ típ 2 Trong lựa chọn thuốc và phương pháp điều trị cho BN ĐTĐ típ 2 cần đánh giá nguy cơ cao hay tiền sử bệnh lý tim mạch do xơ vữa (BTMDXV) và bệnh lý suy tim, suy thận để có thể ra quyết định điều trị hợp lý. a) Phân nhóm BN có nguy cơ cao hoặc đã có BTMDXV, bệnh thận mạn hay suy tim: - BN có BTMDXV chiếm ưu thế bao gồm: + BN có tiền sử BTMDXV + BN có nguy cơ BTMDXV cao: BN ≥ 55 tuổi có hẹp động mạch vành, động mạch cảnh hoặc động mạch chi dưới > 50% hoặc dày thất trái - BN có Suy tim hay bệnh thận mạn chiếm ưu thế bao gồm: + BN suy tim phân suất tống máu thất trái LVEF<45%, + BN có bệnh thận mạn (đặc biệt nếu eGFR 30-60 mL/phút/1,73m2 hoặc UACR >30 mg/g, đặc biệt UACR>300 mg/g) b) Phân tầng nguy cơ tim mạch trên BN ĐTĐ: Các yếu tố nguy cơ (YTNC) tim mạch chính bao gồm: Tuổi, tăng huyết áp, rối loạn lipid máu, hút thuốc lá, béo phì - Nguy cơ trung bình: BN trẻ (ĐTĐ típ 1, <35 tuổi hoặc típ 2, <50 tuổi), có thời gian bệnh ĐTĐ <10 năm không có YTNC khác - Nguy cơ cao: Thời gian phát hiện bệnh ĐTĐ ≥10 năm chưa có tổn thương cơ quan đích và có thêm bất kỳ YTNC nào - Nguy cơ rất cao: BN ĐTĐ kèm bệnh tim mạch hoặc tổn thương cơ quan đích (có đạm niệu hay suy thận được định nghĩa khi eGFR <30 mL/ph/1.73m2, phì đại thất trái hoặc có bệnh võng mạc) hoặc có ≥ 3 YTNC chính hoặc ĐTĐ típ 1 khởi phát sớm, có thời gian mắc bệnh >20 năm
+----------------------------------------------------------------------------------------------------
+
+RANK: 4
+CHUNK ID: 82b62a8d2341e6881ec0f6e182be95a9809ead19e5a54fb86d1c7f6022ce67bf
+RRF SCORE: 0.025974
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 4: ĐIỀU TRỊ', '6.2.2. Điều trị:']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+6.2.2. Điều trị: a) Thay đổi lối sống: Tất cả BN đái tháo đường típ 2 người lớn cần có chế độ ăn uống tốt cho tim mạch và hoạt động thể lực (cường độ trung bình 150 phút hoặc cường độ mạnh 75 phút mỗi tuần) để kiểm soát đường huyết, giảm cân nếu cần và cải thiện các yếu tố nguy cơ tim mạch xơ vữa. b) Điều trị bằng thuốc: - BN đái tháo đường 40-75 tuổi bất kể nguy cơ tim mạch xơ vữa 10 năm là bao nhiêu, cần được điều trị statin cường độ trung bình. - BN đái tháo đường 20-39 tuổi có yếu tố nguy cơ bệnh tim mạch xơ vữa, có thể bắt đầu điều trị statin. - BN đái tháo đường nguy cơ cao (đái tháo đường ≥10 năm chưa có tổn thương cơ quan đích hoặc có đa yếu tố nguy cơ tim mạch xơ vữa) nên được điều trị statin cường độ mạnh với mục tiêu hạ LDL-C ≥50% hoặc dưới 1.8mmol/L (70 mg/dL). - BN đái tháo đường nguy cơ rất cao (có bệnh tim mạch xơ vữa, có tổn thương cơ quan đích, có ≥3 yếu tố nguy cơ chính) cần hạ LDL-C ≥50% hoặc dưới 1.4 mmol/L (55 mg/dL). Nếu chưa đạt mục tiêu khi đã dùng statin liều tối đa có thể dung nạp, cân nhắc phối hợp ezetimibe hoặc PCSK9i. - LDL-C được khuyến cáo là chỉ số chính trong sàng lọc, chẩn đoán và quản lý BN trong tiên lượng nguy cơ biến cố tim mạch - Các mục tiêu lipid máu khác bao gồm nồng độ triglycerides <150 mg/dL (1,7 mmol/L) và HDL cholesterol >40 mg/dL (1,0 mmol/L) ở nam và >50 mg/dL (1,3 mmol/L) ở nữ. Cần chú ý ưu tiên mục tiêu điều trị LDL cholesterol với statin trước.
+----------------------------------------------------------------------------------------------------
+
+RANK: 5
+CHUNK ID: 5345cfbeb6ad306b92d8141af04f3cd0dd13e9133e57fac8fa0f5a889a33d540
+RRF SCORE: 0.016393
+RETRIEVERS: ['bm25']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+VERSION: 28099d33c3b112554abb9cc753597d94e2cd42cbea97b35ed7d7fec2de2a353e
+LANGUAGE: vi
+SECTION: ['PHẦN 2: CHẨN ĐOÁN VÀ PHÂN LOẠI ĐÁI THÁO ĐƯỜNG', '1.2. Khuyến cáo làm xét nghiệm để tầm soát, phát hiện ĐTĐ hoặc tiền ĐTĐ ở người lớn không có triệu chứng, biểu hiện lâm sàng.']
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+
+FULL TEXT:
+1.2. Khuyến cáo làm xét nghiệm để tầm soát, phát hiện ĐTĐ hoặc tiền ĐTĐ ở người lớn không có triệu chứng, biểu hiện lâm sàng. a) Người trưởng thành ở bất kỳ tuổi nào có thừa cân hoặc béo phì (BMI ≥ 23 kg/m2) và có kèm một trong số các yếu tố nguy cơ sau: - Có người thân đời thứ nhất ( bố mẹ, anh chị em ruột, con đẻ ) bị ĐTĐ - Tiền sử bệnh tim mạch do xơ vữa động mạch - Tăng huyết áp (HA ≥ 140/90 mmHg, hoặc đang điều trị THA) - HDL cholesterol < 35 mg/dL (0,9mmol/L) và/hoặc triglyceride >250mg/dL (2,8mmol/L) - Phụ nữ bị hội chứng buồng trứng đa nang - Ít hoạt động thể lực - Các tình trạng lâm sàng khác liên quan với kháng insulin (như dấu gai đen: acanthosis nigricans). b) Phụ nữ đã được chẩn đoán ĐTĐ thai kỳ cần theo dõi lâu dài, xét nghiệm ít nhất mỗi 3 năm. c) Tất cả mọi người từ 45 tuổi trở lên d) Nếu các kết quả bình thường, xét nghiệm sẽ được làm lại trong vòng 1- 3 năm sau hoặc ngắn hơn tùy theo kết quả ban đầu và các yếu tố nguy cơ.
+----------------------------------------------------------------------------------------------------
+
+RANK: 6
+CHUNK ID: a27a1af49393d5968b25d53ab22440a3eedfbc3054da73368a54707d2d79bb70
+RRF SCORE: 0.016393
+RETRIEVERS: ['dense']
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Summary']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Heart disease remains a major cause of morbidity and mortality among individuals with type 2 diabetes. Meta-analyses have demonstrated a pooled relative risk for incident coronary heart disease (CHD) that is approximately twofold higher overall in adults with diabetes compared to those without diabetes. In studies that further stratify results by sex, the relative risk of CHD is higher in women than men in the presence of diabetes. Nonetheless, the age-standardized prevalence for all categories of heart disease remains higher in men with diabetes than women with diabetes in the United States. Although the rates of diabetes are higher in Hispanic and non-White individuals compared to non-Hispanic White adults, it should be noted that non-Hispanic White adults with diabetes generally report heart disease rates up to twice as high as Hispanic persons with diabetes, with an intermediate prevalence of any heart condition in non-Hispanic Black individuals. Despite a more than twofold increase in type 2 diabetes prevalence from the 1970s to the 2020s, the prevalence of heart disease has increased modestly in both men with diabetes and women with diabetes, while in contrast, it has remained stable or decreased for men and women without diabetes. Classic heart disease risk markers have been clearly demonstrated to be important determinants of heart disease in diabetes, including elevated low-density lipoprotein cholesterol, elevated blood pressure, smoking, and elevated triglycerides and low high-density lipoprotein cholesterol. Obesity is an important risk factor for type 2 diabetes but has not consistently been shown to have an independent association with heart disease, possibly because obesity is in the causal pathway between these risk factors and heart disease development. However, several studies indicate that the excess prevalence of heart disease in diabetes is not fully accounted for by measured classic cardiovascular disease risk factors. In addition, novel biomarkers have been found to either add no or only modest incremental significance in the prediction of heart disease.
+----------------------------------------------------------------------------------------------------
+
+RANK: 7
+CHUNK ID: 74166e4ff8b9fc5c60f6ee02e523a771311d72784096e6de018893079d57cf8f
+RRF SCORE: 0.016129
+RETRIEVERS: ['dense']
+DOCUMENT: dia_heart_disease
+VERSION: cdee565fb20942accd7b792b5dc2941ca7d1c95e672aae187c5fb5b3af304bcd
+LANGUAGE: en
+SECTION: ['Heart Disease and Diabetes', 'Risk Factors for the Development of Heart Disease in People With Diabetes', 'Demographic Factors']
+SOURCE URL: https://www.ncbi.nlm.nih.gov/books/NBK597416/
+
+FULL TEXT:
+Increasing age is a risk factor for development of heart disease in people both with and without diabetes (17). As noted, men with diabetes generally have a higher age-standardized prevalence of heart disease than women with diabetes in the United States, although the relative risk of heart disease in the presence of diabetes is higher in women compared to men. Races/ethnicities at higher risk of heart disease in the presence of diabetes include American Indian/Alaska Native persons in the BRFSS (Table 3). Among participants in the NHANES I Epidemiologic Follow-up Study, the population attributable risk of CHD incidence associated with a medical history of diabetes was higher in Black women (8.7%) compared to White women (6.1%), suggesting that diabetes may confer differential risk of heart disease by race (21). Further, subgroups at higher risk of heart disease may exist within different races/ethnicities. As an example, grouping all Asians together may be misleading since South Asians have a higher risk of CVD than East Asians living in the United States and develop atherosclerotic cardiovascular disease (ASCVD) earlier in life; their ASCVD is more aggressive than in age-matched people of other ethnicities, with a fourfold higher risk of CVD than the general population (22).
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+SUMMARY
+BM25 RESULTS: 20
+BGE-M3 RESULTS: 20
+OVERLAP: 4
+UNIQUE CANDIDATES: 36
+RRF RESULTS: 7

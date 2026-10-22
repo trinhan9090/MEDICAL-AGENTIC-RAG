@@ -1,0 +1,102 @@
+QUERY: Tiêu chuẩn chẩn đoán đái tháo đường típ 2 là gì?
+TOTAL RESULTS: 7
+====================================================================================================
+
+RANK: 1
+CHUNK ID: 6fb76789a5f3fbe8ce27d86226bdab604751ebe89a78edcbedb14db8e15904c0
+RRF SCORE: 0.032522
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+LANGUAGE: vi
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+SECTION: ['PHẦN 2: CHẨN ĐOÁN VÀ PHÂN LOẠI ĐÁI THÁO ĐƯỜNG', '1.1. Chẩn đoán đái tháo đường']
+
+FULL TEXT:
+1.1. Chẩn đoán đái tháo đường Tiêu chuẩn chẩn đoán đái tháo đường dựa vào 1 trong 4 tiêu chí sau đây: a) Glucose huyết tương lúc đói ≥ 126 mg/dL (hay 7 mmol/L) hoặc: b) Glucose huyết tương ở thời điểm sau 2 giờ làm nghiệm pháp dung nạp với 75g glucose bằng đường uống ≥ 200 mg/dL (hay 11,1 mmol/L) c) HbA1c ≥ 6,5% (48 mmol/mol). Xét nghiệm HbA1c phải được thực hiện bằng phương pháp đã chuẩn hóa theo tiêu chuẩn quốc tế. d) BN có triệu chứng kinh điển của tăng glucose huyết hoặc của cơn tăng glucose huyết cấp kèm mức glucose huyết tương bất kỳ ≥ 200 mg/dL (hay 11,1 mmol/L). Chẩn đoán xác định nếu có 2 kết quả trên ngưỡng chẩn đoán trong cùng 1 mẫu máu xét nghiệm hoặc ở 2 thời điểm khác nhau đối với tiêu chí a, b, hoặc c; riêng tiêu chí d: chỉ cần một lần xét nghiệm duy nhất. Lưu ý: - Glucose huyết đói được đo khi BN nhịn ăn (không uống nước ngọt, có thể uống nước lọc, nước đun sôi để nguội) ít nhất 8 giờ (thường phải nhịn đói qua đêm từ 8 -14 giờ). - Nghiệm pháp dung nạp glucose bằng đường uống phải được thực hiện theo hướng dẫn của Tổ chức Y tế thế giới: BN nhịn đói từ nửa đêm trước khi làm nghiệm pháp, dùng một lượng 75g glucose, hòa trong 250-300 mL nước, uống trong 5 phút; trong 3 ngày trước đó BN ăn khẩu phần có khoảng 150-200 gam carbohydrat mỗi ngày, không mắc các bệnh lý cấp tính và không sử dụng các thuốc làm tăng glucose huyết. Định lượng glucose huyết tương tĩnh mạch.
+----------------------------------------------------------------------------------------------------
+
+RANK: 2
+CHUNK ID: 9f7ad91b174d0f835a215881827acca5cfedfbcb3b9d404d8683dcfe5c23dcaf
+RRF SCORE: 0.030478
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+LANGUAGE: vi
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+SECTION: ['PHẦN 2: CHẨN ĐOÁN VÀ PHÂN LOẠI ĐÁI THÁO ĐƯỜNG', '2. Phân loại đái tháo đường']
+
+FULL TEXT:
+2. Phân loại đái tháo đường Bệnh đái tháo đường được phân thành 4 loại chính a) Đái tháo đường típ 1 (do phá hủy tế bào beta tụy, dẫn đến thiếu insulin tuyệt đối). b) Đái tháo đường típ 2 (do giảm chức năng của tế bào beta tụy tiến triển trên nền tảng đề kháng insulin). c) Đái tháo đường thai kỳ (là ĐTĐ được chẩn đoán trong 3 tháng giữa hoặc 3 tháng cuối của thai kỳ và không có bằng chứng về ĐTĐ típ 1, típ 2 trước đó). d) Các loại ĐTĐ đặc biệt do các nguyên nhân khác, như ĐTĐ sơ sinh hoặc đái tháo đường do sử dụng thuốc và hoá chất như sử dụng glucocorticoid, điều trị HIV/AIDS hoặc sau cấy ghép mô…
+----------------------------------------------------------------------------------------------------
+
+RANK: 3
+CHUNK ID: e8b2108f5c86ff7073280565d9cfe6a83c4067cdbefe95cbc09d8d6f01b4d6dd
+RRF SCORE: 0.030118
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+LANGUAGE: vi
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+SECTION: ['PHẦN 1: ĐỊNH NGHĨA VÀ DỊCH TỄ HỌC']
+
+FULL TEXT:
+Đáng lưu ý, có tới 70% trường hợp ĐTĐ típ 2 có thể dự phòng hoặc làm chậm xuất hiện bệnh bằng tuân thủ lối sống lành mạnh (dinh dưỡng hợp lý, luyện tập thể dục…) Ở Việt Nam, năm 1990 của thế kỷ trước, tỷ lệ bệnh ĐTĐ chỉ là 1,1% (ở thành phố Hà Nội), 2,52% (ở thành phố Hồ Chí Minh), 0,96% (ở thành phố Huế), thì nghiên cứu năm 2012 của Bệnh viện Nội tiết Trung ương cho thấy: tỷ lệ hiện mắc đái tháo đường trên toàn quốc ở người trưởng thành là 5,42%, tỷ lệ đái tháo đường chưa được chẩn đoán trong cộng đồng là 63,6%. Tỷ lệ rối loạn dung nạp glucose là 7,3%, rối loạn glucose huyết lúc đói 1,9% (toàn quốc năm 2003). Theo kết quả điều tra STEPwise về các yếu tố nguy cơ của bệnh không lây nhiễm do Bộ Y tế thực hiện năm 2015, ở nhóm tuổi từ 18-69, cho thấy tỷ lệ ĐTĐ toàn quốc là 4,1%, tiền ĐTĐ là 3,6%, trong đó tỷ lệ ĐTĐ được chẩn đoán là 31,1%, tỷ lệ ĐTĐ chưa được chẩn đoán là 69,9%. Trong số những người được chẩn đoán, tỷ lệ ĐTĐ được quản lý tại cơ sở y tế: 28,9%, tỷ lệ ĐTĐ chưa được quản lý: 71,1%. Dữ liệu cập nhật của Liên đoàn Đái tháo đường Quốc tế (IDF) cho thấy năm 2019 Việt Nam có tỷ lệ 6% người trưởng thành mắc ĐTĐ.
+----------------------------------------------------------------------------------------------------
+
+RANK: 4
+CHUNK ID: de33f3a2d2bdac90129043a4b94723be4201bd2d8fe17d96d99eb1667f3f30fc
+RRF SCORE: 0.029877
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+LANGUAGE: vi
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2']
+
+FULL TEXT:
+Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2
+
+Đặc điểm: Các bệnh lý đi kèm lúc mới chẩn đoán: tăng huyết áp, rối loạn chuyển hóa lipid, béo phì | Đái tháo đường típ 1: Không có Nếu có, phải tìm các bệnh lý khác đồng mắc | Đái tháo đường típ 2: Thường gặp, nhất là hội chứng chuyển hóa
+
+Chú thích: bảng trên chỉ có tính tham khảo, có nhiều thể bệnh trùng lấp giữa các đặc điểm. Khi biểu hiện bệnh lý không rõ ràng, cần theo dõi một thời gian để phân loại đúng bệnh. Điều trị chủ yếu dựa trên bệnh cảnh lâm sàng của BN để quyết định có cần dùng ngay insulin hay không.
+----------------------------------------------------------------------------------------------------
+
+RANK: 5
+CHUNK ID: 19fd678ec4d9576e16d8a9ec2edca1a401a5c2b88750d7e67efc82de946bbaf8
+RRF SCORE: 0.029462
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+LANGUAGE: vi
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+SECTION: ['PHẦN 2: CHẨN ĐOÁN VÀ PHÂN LOẠI ĐÁI THÁO ĐƯỜNG', '2.2. Đái tháo đường típ 2']
+
+FULL TEXT:
+2.2. Đái tháo đường típ 2 Đái tháo đường típ 2 trước kia được gọi là ĐTĐ của người lớn tuổi hay ĐTĐ không phụ thuộc insulin, chiếm 90-95% các trường hợp ĐTĐ. Thể bệnh này bao gồm những người có thiếu insulin tương đối cùng với đề kháng insulin. Ít nhất ở giai đoạn đầu hoặc có khi suốt cuộc sống BN ĐTĐ típ 2 không cần insulin để sống sót. Có nhiều nguyên nhân của ĐTĐ típ 2 nhưng không có một nguyên nhân chuyên biệt nào. BN không có sự phá hủy tế bào beta do tự miễn, không có kháng thể tự miễn trong máu. Đa số BN có béo phì hoặc thừa cân và/hoặc béo phì vùng bụng với vòng eo to. Béo phì nhất là béo phì vùng bụng có liên quan với tăng acid béo trong máu, mô mỡ cũng tiết ra một số hormon làm giảm tác dụng của insulin ở các cơ quan đích như gan, tế bào mỡ, tế bào cơ (đề kháng insulin tại các cơ quan đích). Do tình trạng đề kháng insulin, ở giai đoạn đầu tế bào beta bù trừ và tăng tiết insulin trong máu, nếu tình trạng đề kháng insulin kéo dài hoặc nặng dần, tế bào beta sẽ không tiết đủ insulin và ĐTĐ típ 2 lâm sàng sẽ xuất hiện. Tình trạng đề kháng insulin có thể cải thiện khi giảm cân, hoặc dùng một số thuốc nhưng không bao giờ hoàn toàn trở lại bình thường.
+----------------------------------------------------------------------------------------------------
+
+RANK: 6
+CHUNK ID: a2d12b3b169370126a41455879415fcc9f2afa394a47ba8da910b21bd2c73879
+RRF SCORE: 0.028439
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+LANGUAGE: vi
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+SECTION: ['PHỤ LỤC 03: DANH MỤC THUỐC THIẾT YẾU ĐIỀU TRỊ']
+
+FULL TEXT:
+PHỤ LỤC 03: DANH MỤC THUỐC THIẾT YẾU ĐIỀU TRỊ ĐÁI THÁO ĐƯỜNG TÍP 2 Cập nhật Gói điều trị thiết yếu cho các bệnh không lây nhiễm (WHO Package of Essential NCD Interventions – WHO PEN) và Thông tư 45/2013/TT-BYT về Danh mục thiết yếu tân dược lần VI để kiểm soát đường huyết cho những người mắc đái tháo đường típ 2 bao gồm: chế độ ăn uống, hoạt động thể chất và metformin là lựa chọn điều trị đầu tay; sulfonylurea là điều trị hàng hai (hoặc điều trị đầu tay nếu metformin chống chỉ định); và insulin là điều trị hàng thứ ba. Bảng : Danh mục thuốc thiết yếu điều trị ĐTĐ típ 2
+----------------------------------------------------------------------------------------------------
+
+RANK: 7
+CHUNK ID: e5baca6fe8b0e0b1b0009f398b1e1c6ec21351a615c76f096c8dac3587b5bde1
+RRF SCORE: 0.027425
+RETRIEVERS: ['bm25', 'dense']
+DOCUMENT: vn_moh_guideline_t2dm_2020
+LANGUAGE: vi
+SOURCE URL: https://syt.dongnai.gov.vn/vi/van-ban/detail/V-v-trien-khai-thuc-hien-Quyet-dinh-so-5481-QD-BYT-ngay-30-12-2020-cua-Bo-truong-Bo-Y-te-4905/?download=1&id=0
+SECTION: ['Hướng dẫn ĐTĐ típ 2 (2020)', 'Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2']
+
+FULL TEXT:
+Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2
+
+Đặc điểm: Nhiễm ceton, tăng ceton trong máu, nước tiểu | Đái tháo đường típ 1: Dương tính | Đái tháo đường típ 2: Thường không có
+
+Chú thích: bảng trên chỉ có tính tham khảo, có nhiều thể bệnh trùng lấp giữa các đặc điểm. Khi biểu hiện bệnh lý không rõ ràng, cần theo dõi một thời gian để phân loại đúng bệnh. Điều trị chủ yếu dựa trên bệnh cảnh lâm sàng của BN để quyết định có cần dùng ngay insulin hay không.
+----------------------------------------------------------------------------------------------------
