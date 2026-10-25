@@ -11,25 +11,27 @@ from transformers import (
 from models import config
 
 
+
 class HuggingFaceBackend:
-    # Tải tokenizer và model từ Hugging Face
+    # Khởi tạo model từ Hugging Face Hub hoặc cache session
     def __init__(self, model_name: str):
         self.model_name = model_name
 
-        config.HF_CACHE_DIR.mkdir(
-            parents=True,
-            exist_ok=True
+        cache_dir = (
+            str(config.HF_CACHE_DIR)
+            if config.HF_CACHE_DIR is not None
+            else None
         )
 
         self.tokenizer = AutoTokenizer.from_pretrained(
             model_name,
-            cache_dir=str(config.HF_CACHE_DIR),
+            cache_dir=cache_dir,
             trust_remote_code=config.HF_TRUST_REMOTE_CODE,
         )
 
         self.model = AutoModelForCausalLM.from_pretrained(
             model_name,
-            cache_dir=str(config.HF_CACHE_DIR),
+            cache_dir=cache_dir,
             device_map=config.HF_DEVICE_MAP,
             dtype=config.HF_DTYPE,
             trust_remote_code=config.HF_TRUST_REMOTE_CODE,

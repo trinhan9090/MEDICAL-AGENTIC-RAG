@@ -5,7 +5,7 @@ Khi đổi mô hình thì chỉ cần thay đổi ở đây
 '''
 
 from pathlib import Path
-
+import os
 # Đường dẫn cấu hình
 MODEL_DIR = Path(__file__).resolve().parent
 SECRET_KEY_PATH = MODEL_DIR / "secret_key"
@@ -15,15 +15,12 @@ HF_CACHE_DIR = MODEL_DIR / "hf_cache"
 MODEL_BACKEND = "huggingface"
 
 # Model sử dụng cho từng thành phần
-PLANNER_MODEL = (
-    r"D:\1_TaiLieuHocTap\2627\DuAn_KhoaLuan"
-    r"\Demo_Nhan\DACNTT\models\weights\qwen3-1.7b"
-) # model cho agent planner
+PLANNER_MODEL = "Qwen/Qwen3-1.7B" # model cho agent planner
 EVALUATOR_MODEL = PLANNER_MODEL # model cho agent đánh giá
 GENERATOR_MODEL = PLANNER_MODEL # model cho agent generator
 
 # Cấu hình API
-API_BASE_URL = "https://api.miraiapi.com/v1"
+API_BASE_URL = "https://api.YOUR_API_SITE.com/v1"
 API_TIMEOUT = 120.0
 API_MAX_RETRIES = 2
 API_JSON_MODE = True
@@ -36,6 +33,11 @@ HF_DEVICE_MAP = "auto"
 HF_DTYPE = "auto"
 HF_TRUST_REMOTE_CODE = False
 HF_ENABLE_THINKING = False
+HF_CACHE_DIR = (
+    Path("/content/hf_cache")
+    if os.path.isdir("/content")
+    else None
+)
 
 # Thông số riêng cho Planner
 PLANNER_MAX_TOKENS = 512

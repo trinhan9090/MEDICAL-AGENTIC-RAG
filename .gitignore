@@ -1,4 +1,5 @@
 models/secret_key
 models/hf_cache/
 models/weights/
+dong_goi.py
 __pycache__/
