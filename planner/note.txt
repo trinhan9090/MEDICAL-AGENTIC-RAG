@@ -1,0 +1,42 @@
+We want the output to be something like below, a metadata contains all the needed information to retrieve.
+
+1. Intent identifications: determine what the user is asking
+2. required_facets: break the question into independently answerable information requirements
+3. retrieval_queries: create queries for the Hybrid Retrieval (max = 3 atp)
+4. answer_outline: determine what the answer should be
+
+**Example**
+
+Query: What are the recommended treatments for type 2 diabetes patients with chronic kidney disease?
+
+{
+  "intent": "clinical_guideline_qa",
+
+  "required_facets": [
+    "Recommended treatments for type 2 diabetes with chronic kidney disease",
+    "Kidney function considerations affecting treatment selection",
+    "Contraindications and treatment precautions",
+    "Relevant clinical guideline recommendations"
+  ],
+  "retrieval_queries": [
+    "Treatment recommendations for type 2 diabetes with chronic kidney disease",
+    "Renal function restrictions and precautions for diabetes medications",
+    "Clinical guidelines for glucose-lowering therapy in diabetic kidney disease"
+  ],
+  "answer_outline": [
+    "Overview of applicable recommendations",
+    "Treatment options supported by evidence",
+    "Kidney function considerations and precautions",
+    "Clinical limitations and citations"
+  ]
+}
+
+
+Some test:
+
+Test	Input	Expected behavior
+P01 — Simple question	What is HbA1c?	One or two facets, one retrieval query
+P02 — Multi-facet question	How is metformin used, and what precautions are needed?	Separates usage from precautions
+P03 — Guidelines	What are the diagnostic criteria for type 2 diabetes?	Focuses on diagnostic criteria, not treatment
+P04 — Complex question	How should cardiovascular risk be managed in type 2 diabetes?	Separates risk assessment, interventions and medications
+P05 — Vietnamese	Các yếu tố nguy cơ tim mạch ở bệnh nhân đái tháo đường típ 2 là gì?	Preserves the question's meaning and language

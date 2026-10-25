@@ -1,0 +1,4 @@
+models/secret_key
+models/hf_cache/
+models/weights/
+__pycache__/
