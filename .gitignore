@@ -2,4 +2,6 @@ models/secret_key
 models/hf_cache/
 models/weights/
 dong_goi.py
+dataset/raw/*.html
+
 __pycache__/
